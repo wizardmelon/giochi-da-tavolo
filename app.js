@@ -26,12 +26,17 @@ function cardHtml(g) {
 
   const rating = g.rating ? `<span class="card-rating">★ ${g.rating}</span>` : '';
 
+  const expansions = (g.expansions && g.expansions.length)
+    ? `<div class="card-expansions">+ ${g.expansions.join(' · ')}</div>`
+    : '';
+
   return `
     <div class="card">
       <div class="card-image">${img}</div>
       <div class="card-body">
         <div class="card-title">${g.name}</div>
         <div class="card-meta">${meta.join('')}${rating}</div>
+        ${expansions}
       </div>
     </div>
   `;
@@ -41,7 +46,10 @@ function render() {
   const query = document.getElementById('search').value.trim().toLowerCase();
   const sort = document.getElementById('sort').value;
 
-  let filtered = games.filter(g => g.name.toLowerCase().includes(query));
+  let filtered = games.filter(g => {
+    const haystack = [g.name, ...(g.expansions || [])].join(' ').toLowerCase();
+    return haystack.includes(query);
+  });
 
   filtered.sort((a, b) => {
     if (sort === 'rating') return (b.rating || 0) - (a.rating || 0);

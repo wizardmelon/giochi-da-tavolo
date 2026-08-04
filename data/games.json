@@ -1,7 +1,12 @@
 [
   {
-    "query": "Ankh: Gods of Egypt",
     "name": "Ankh: Gods of Egypt",
+    "expansions": [
+      "Tomb of Wonders",
+      "Pantheon",
+      "Guardians Set",
+      "Divine Offerings"
+    ],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -12,56 +17,13 @@
     "year": null
   },
   {
-    "query": "Ankh: Gods of Egypt – Tomb of Wonders",
-    "name": "Ankh: Gods of Egypt – Tomb of Wonders",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Ankh: Gods of Egypt – Pantheon",
-    "name": "Ankh: Gods of Egypt – Pantheon",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Ankh: Gods of Egypt – Guardians Set",
-    "name": "Ankh: Gods of Egypt – Guardians Set",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Ankh: Gods of Egypt – Divine Offerings",
-    "name": "Ankh: Gods of Egypt – Divine Offerings",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Cthulhu: Death May Die",
     "name": "Cthulhu: Death May Die",
+    "expansions": [
+      "Stagione 2",
+      "Paura dell'Ignoto (Stagione 3)",
+      "Stagione 4",
+      "Capro Nero dei Boschi"
+    ],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -72,8 +34,8 @@
     "year": null
   },
   {
-    "query": "Cthulhu: Death May Die – Stagione 2",
-    "name": "Cthulhu: Death May Die – Stagione 2",
+    "name": "Ticket to Ride: Europa",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -84,56 +46,10 @@
     "year": null
   },
   {
-    "query": "Cthulhu: Death May Die – Paura dell'Ignoto (Stagione 3)",
-    "name": "Cthulhu: Death May Die – Paura dell'Ignoto (Stagione 3)",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Cthulhu: Death May Die – Stagione 4",
-    "name": "Cthulhu: Death May Die – Stagione 4",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Cthulhu: Death May Die – Capro Nero dei Boschi",
-    "name": "Cthulhu: Death May Die – Capro Nero dei Boschi",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Ticket to Ride: Europa (15th Anniversary)",
-    "name": "Ticket to Ride: Europa (15th Anniversary)",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Rising Sun",
     "name": "Rising Sun",
+    "expansions": [
+      "Daimyo Box"
+    ],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -144,20 +60,8 @@
     "year": null
   },
   {
-    "query": "Rising Sun: Daimyo Box",
-    "name": "Rising Sun: Daimyo Box",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Blood Rage",
     "name": "Blood Rage",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -168,8 +72,8 @@
     "year": null
   },
   {
-    "query": "Room 25 Ultimate",
     "name": "Room 25 Ultimate",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -180,8 +84,8 @@
     "year": null
   },
   {
-    "query": "Hues and Cues",
     "name": "Hues and Cues",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -192,8 +96,8 @@
     "year": null
   },
   {
-    "query": "Flamme Rouge",
     "name": "Flamme Rouge",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -204,8 +108,8 @@
     "year": null
   },
   {
-    "query": "Dorfromantik: The Board Game",
     "name": "Dorfromantik: The Board Game",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -216,8 +120,8 @@
     "year": null
   },
   {
-    "query": "Heat: Pedal to the Metal",
     "name": "Heat: Pedal to the Metal",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -228,8 +132,8 @@
     "year": null
   },
   {
-    "query": "Catan",
     "name": "Catan",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -240,8 +144,8 @@
     "year": null
   },
   {
-    "query": "Wingspan",
     "name": "Wingspan",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -252,8 +156,8 @@
     "year": null
   },
   {
-    "query": "Primo Contatto",
     "name": "Primo Contatto",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -264,8 +168,8 @@
     "year": null
   },
   {
-    "query": "Zombie Dice",
     "name": "Zombie Dice",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -276,8 +180,8 @@
     "year": null
   },
   {
-    "query": "Sherlock Holmes Consulente Investigativo: I Delitti del Tamigi e Altri Casi",
     "name": "Sherlock Holmes Consulente Investigativo: I Delitti del Tamigi e Altri Casi",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -288,8 +192,8 @@
     "year": null
   },
   {
-    "query": "Sherlock Holmes Consulente Investigativo: Jack lo Squartatore e Avventure nel West End",
     "name": "Sherlock Holmes Consulente Investigativo: Jack lo Squartatore e Avventure nel West End",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -300,8 +204,8 @@
     "year": null
   },
   {
-    "query": "Sherlock Holmes Consulente Investigativo: Carlton House e Queen's Park",
     "name": "Sherlock Holmes Consulente Investigativo: Carlton House e Queen's Park",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -312,8 +216,8 @@
     "year": null
   },
   {
-    "query": "Sherlock Holmes Consulente Investigativo: Gli Irregolari di Baker Street",
     "name": "Sherlock Holmes Consulente Investigativo: Gli Irregolari di Baker Street",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -324,8 +228,8 @@
     "year": null
   },
   {
-    "query": "Sherlock Holmes Consulente Investigativo: Perspectives",
     "name": "Sherlock Holmes Consulente Investigativo: Perspectives",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -336,8 +240,8 @@
     "year": null
   },
   {
-    "query": "Citadels",
     "name": "Citadels",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -348,8 +252,8 @@
     "year": null
   },
   {
-    "query": "Michael (Dark Kalamaru)",
     "name": "Michael (Dark Kalamaru)",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -360,8 +264,8 @@
     "year": null
   },
   {
-    "query": "Vudulhu",
     "name": "Vudulhu",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -372,8 +276,8 @@
     "year": null
   },
   {
-    "query": "Sky Team",
     "name": "Sky Team",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -384,8 +288,8 @@
     "year": null
   },
   {
-    "query": "Wings of War: Dawn of War",
     "name": "Wings of War: Dawn of War",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -396,8 +300,8 @@
     "year": null
   },
   {
-    "query": "Ideale",
     "name": "Ideale",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -408,8 +312,8 @@
     "year": null
   },
   {
-    "query": "Sì, Oscuro Signore!",
     "name": "Sì, Oscuro Signore!",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -420,8 +324,8 @@
     "year": null
   },
   {
-    "query": "Forest Shuffle",
     "name": "Forest Shuffle",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -432,8 +336,8 @@
     "year": null
   },
   {
-    "query": "Fall",
     "name": "Fall",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -444,8 +348,8 @@
     "year": null
   },
   {
-    "query": "Isole Abbandonate: Turno di Guardia",
     "name": "Isole Abbandonate: Turno di Guardia",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -456,8 +360,8 @@
     "year": null
   },
   {
-    "query": "Tree Society",
     "name": "Tree Society",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -468,8 +372,8 @@
     "year": null
   },
   {
-    "query": "Arcs",
     "name": "Arcs",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -480,8 +384,12 @@
     "year": null
   },
   {
-    "query": "Unstable Unicorns (2° Edizione)",
-    "name": "Unstable Unicorns (2° Edizione)",
+    "name": "Unstable Unicorns",
+    "expansions": [
+      "Dragons Espansione",
+      "Rainbow Apocalypse Espansione",
+      "Christmas Special Espansione"
+    ],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -492,44 +400,8 @@
     "year": null
   },
   {
-    "query": "Unstable Unicorns: Dragons Espansione",
-    "name": "Unstable Unicorns: Dragons Espansione",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Unstable Unicorns: Rainbow Apocalypse Espansione",
-    "name": "Unstable Unicorns: Rainbow Apocalypse Espansione",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Unstable Unicorns: Christmas Special Espansione",
-    "name": "Unstable Unicorns: Christmas Special Espansione",
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "query": "Fallout Shelter: Il Gioco da Tavolo",
     "name": "Fallout Shelter: Il Gioco da Tavolo",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -540,8 +412,8 @@
     "year": null
   },
   {
-    "query": "Let's Summon Demons",
     "name": "Let's Summon Demons",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -552,8 +424,8 @@
     "year": null
   },
   {
-    "query": "Insoliti Sospetti",
     "name": "Insoliti Sospetti",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -564,8 +436,8 @@
     "year": null
   },
   {
-    "query": "Without Fail",
     "name": "Without Fail",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -576,8 +448,8 @@
     "year": null
   },
   {
-    "query": "Imagine",
     "name": "Imagine",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -588,8 +460,8 @@
     "year": null
   },
   {
-    "query": "Kingdomino",
     "name": "Kingdomino",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -600,8 +472,8 @@
     "year": null
   },
   {
-    "query": "Stay Cool",
     "name": "Stay Cool",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -612,8 +484,8 @@
     "year": null
   },
   {
-    "query": "Tilt",
     "name": "Tilt",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -624,8 +496,8 @@
     "year": null
   },
   {
-    "query": "Dany",
     "name": "Dany",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -636,8 +508,8 @@
     "year": null
   },
   {
-    "query": "Hint",
     "name": "Hint",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -648,8 +520,8 @@
     "year": null
   },
   {
-    "query": "Storie Horror: 50 Misteri da Risolvere",
     "name": "Storie Horror: 50 Misteri da Risolvere",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -660,8 +532,8 @@
     "year": null
   },
   {
-    "query": "Emozionarium",
     "name": "Emozionarium",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -672,8 +544,8 @@
     "year": null
   },
   {
-    "query": "Silver Mine",
     "name": "Silver Mine",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -684,8 +556,8 @@
     "year": null
   },
   {
-    "query": "Doodles: Il Gioco degli Scarabocchi",
     "name": "Doodles: Il Gioco degli Scarabocchi",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -696,8 +568,8 @@
     "year": null
   },
   {
-    "query": "Sei Sicuro?",
     "name": "Sei Sicuro?",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -708,8 +580,8 @@
     "year": null
   },
   {
-    "query": "Nome in Codice",
     "name": "Nome in Codice",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -720,8 +592,8 @@
     "year": null
   },
   {
-    "query": "Party Lines",
     "name": "Party Lines",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -732,8 +604,8 @@
     "year": null
   },
   {
-    "query": "Just One",
     "name": "Just One",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -744,8 +616,8 @@
     "year": null
   },
   {
-    "query": "Just One (Nuova Edizione)",
     "name": "Just One (Nuova Edizione)",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -756,8 +628,8 @@
     "year": null
   },
   {
-    "query": "That Sound Game",
     "name": "That Sound Game",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -768,8 +640,8 @@
     "year": null
   },
   {
-    "query": "Skull",
     "name": "Skull",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -780,8 +652,8 @@
     "year": null
   },
   {
-    "query": "Cortex Challenge",
     "name": "Cortex Challenge",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -792,8 +664,8 @@
     "year": null
   },
   {
-    "query": "Cortex Challenge+",
     "name": "Cortex Challenge+",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -804,8 +676,8 @@
     "year": null
   },
   {
-    "query": "Super Cortex Challenge",
     "name": "Super Cortex Challenge",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -816,8 +688,8 @@
     "year": null
   },
   {
-    "query": "Cortex Challenge 3",
     "name": "Cortex Challenge 3",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -828,8 +700,8 @@
     "year": null
   },
   {
-    "query": "What Do You Meme?",
     "name": "What Do You Meme?",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -840,8 +712,8 @@
     "year": null
   },
   {
-    "query": "Holy Sheep",
     "name": "Holy Sheep",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -852,8 +724,8 @@
     "year": null
   },
   {
-    "query": "Quick Stop",
     "name": "Quick Stop",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -864,8 +736,8 @@
     "year": null
   },
   {
-    "query": "Perudo",
     "name": "Perudo",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -876,8 +748,8 @@
     "year": null
   },
   {
-    "query": "Taco Gatto Capra Cacio Pizza",
     "name": "Taco Gatto Capra Cacio Pizza",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -888,8 +760,8 @@
     "year": null
   },
   {
-    "query": "Dream",
     "name": "Dream",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -900,8 +772,8 @@
     "year": null
   },
   {
-    "query": "Robots (Little Rocket Games)",
     "name": "Robots (Little Rocket Games)",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -912,8 +784,8 @@
     "year": null
   },
   {
-    "query": "Hive",
     "name": "Hive",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -924,8 +796,8 @@
     "year": null
   },
   {
-    "query": "Jenga Classic",
     "name": "Jenga Classic",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -936,8 +808,8 @@
     "year": null
   },
   {
-    "query": "Happy Salmon",
     "name": "Happy Salmon",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -948,8 +820,8 @@
     "year": null
   },
   {
-    "query": "Camelio",
     "name": "Camelio",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -960,8 +832,8 @@
     "year": null
   },
   {
-    "query": "Mini Crimes: Indagini dal Passato",
     "name": "Mini Crimes: Indagini dal Passato",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -972,8 +844,8 @@
     "year": null
   },
   {
-    "query": "Love Letter",
     "name": "Love Letter",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -984,8 +856,8 @@
     "year": null
   },
   {
-    "query": "Tranquility",
     "name": "Tranquility",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -996,8 +868,8 @@
     "year": null
   },
   {
-    "query": "Yes But No",
     "name": "Yes But No",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1008,8 +880,8 @@
     "year": null
   },
   {
-    "query": "Indomimando",
     "name": "Indomimando",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1020,8 +892,8 @@
     "year": null
   },
   {
-    "query": "Con Me Nella Tomba",
     "name": "Con Me Nella Tomba",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1032,8 +904,8 @@
     "year": null
   },
   {
-    "query": "Dinosaurus Paradespil",
     "name": "Dinosaurus Paradespil",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1044,8 +916,8 @@
     "year": null
   },
   {
-    "query": "Mascarade",
     "name": "Mascarade",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1056,8 +928,8 @@
     "year": null
   },
   {
-    "query": "Domino",
     "name": "Domino",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1068,8 +940,8 @@
     "year": null
   },
   {
-    "query": "Passa Parola",
     "name": "Passa Parola",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1080,8 +952,8 @@
     "year": null
   },
   {
-    "query": "Hens",
     "name": "Hens",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1092,8 +964,8 @@
     "year": null
   },
   {
-    "query": "Traditori a Bordo",
     "name": "Traditori a Bordo",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1104,8 +976,8 @@
     "year": null
   },
   {
-    "query": "Beccato",
     "name": "Beccato",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1116,8 +988,8 @@
     "year": null
   },
   {
-    "query": "Shit Happens",
     "name": "Shit Happens",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -1128,8 +1000,8 @@
     "year": null
   },
   {
-    "query": "Kluster",
     "name": "Kluster",
+    "expansions": [],
     "matched": false,
     "image": null,
     "thumbnail": null,
