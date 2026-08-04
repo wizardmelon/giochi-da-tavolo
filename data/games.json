@@ -61,7 +61,9 @@
   },
   {
     "name": "Blood Rage",
-    "expansions": [],
+    "expansions": [
+      "5° Giocatore"
+    ],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -97,7 +99,10 @@
   },
   {
     "name": "Flamme Rouge",
-    "expansions": [],
+    "expansions": [
+      "Meteo",
+      "Peloton"
+    ],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -228,18 +233,6 @@
     "year": null
   },
   {
-    "name": "Sherlock Holmes Consulente Investigativo: Perspectives",
-    "expansions": [],
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
     "name": "Citadels",
     "expansions": [],
     "matched": false,
@@ -277,7 +270,9 @@
   },
   {
     "name": "Sky Team",
-    "expansions": [],
+    "expansions": [
+      "Turbulence"
+    ],
     "matched": false,
     "image": null,
     "thumbnail": null,
@@ -605,19 +600,9 @@
   },
   {
     "name": "Just One",
-    "expansions": [],
-    "matched": false,
-    "image": null,
-    "thumbnail": null,
-    "rating": null,
-    "minplayers": null,
-    "maxplayers": null,
-    "playingtime": null,
-    "year": null
-  },
-  {
-    "name": "Just One (Nuova Edizione)",
-    "expansions": [],
+    "expansions": [
+      "Nuova Edizione"
+    ],
     "matched": false,
     "image": null,
     "thumbnail": null,
