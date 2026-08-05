@@ -1008,6 +1008,38 @@
     "weight": 2.27
   },
   {
+    "name": "Sherlock Holmes Consulente Investigativo: Bureau of Investigation - Indagini ad Arkham e Altrove",
+    "expansions": [],
+    "bgg_id": "353905",
+    "bgg_name": "Bureau of Investigation: Investigations in Arkham & Elsewhere",
+    "year": "2022",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "playingtime": "240",
+    "minplaytime": "120",
+    "maxplaytime": "240",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/36jLVktpFKZWJvC6vGAMvQ__original/img/tpfLgpsuZQBG1krWoRAu4lx9isY=/0x0/filters:format(jpeg)/pic6609883.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/36jLVktpFKZWJvC6vGAMvQ__small/img/M0XuIdWvL7WHuvs3YnL_vIX8pEI=/fit-in/200x150/filters:strip_icc()/pic6609883.jpg",
+    "description": "Take a trip to the US in the 1920s and tear the veil concealing the unspeakable threats from Elsewhere.\n\nAs agents working for the Bureau of Investigation, you&rsquo;re tasked with investigating paranormal cases inspired by H.P Lovecraft&rsquo;s writings.\n\nExplore Boston, Arkham and exotic lands! Follow leads, question witnesses, find clues and take action to solve these five brand new and strange cases.\n\nThis is a cooperative and standalone game based on the Sherlock Holmes Consulting detective system, with some twists and new mechanics.",
+    "categories": [
+      "Deduction",
+      "Horror",
+      "Murder / Mystery"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Narrative Choice / Paragraph",
+      "Storytelling"
+    ],
+    "expansions_bgg": [],
+    "best_players": "1, 2",
+    "language_dependence": "Unplayable in another language",
+    "rating": 7.2,
+    "weight": 2.57,
+    "matched": true
+  },
+  {
     "name": "Citadels",
     "expansions": [],
     "matched": true,
