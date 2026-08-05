@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
-"""Fetch board game data from BoardGameGeek XML API2 for a list of titles."""
+"""Fetch board game data from BoardGameGeek XML API2 for games in data/games-raw.json.
+
+Requires BGG_TOKEN env var (Bearer token) — BGG now requires auth on xmlapi2.
+"""
 import json
+import os
 import re
 import sys
 import time
@@ -15,11 +19,22 @@ CACHE_PATH = "data/bgg-cache.json"
 SEARCH_URL = "https://boardgamegeek.com/xmlapi2/search?type=boardgame,boardgameexpansion&query={}"
 THING_URL = "https://boardgamegeek.com/xmlapi2/thing?stats=1&id={}"
 
+TOKEN = os.environ.get("BGG_TOKEN")
+if not TOKEN:
+    print("ERROR: set BGG_TOKEN env var first.", file=sys.stderr)
+    sys.exit(1)
+
 
 def http_get(url, retries=5):
     for attempt in range(retries):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "giochi-da-tavolo-script/1.0"})
+            req = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": "giochi-da-tavolo-script/1.0",
+                    "Authorization": f"Bearer {TOKEN}",
+                },
+            )
             with urllib.request.urlopen(req, timeout=20) as resp:
                 if resp.status == 202:
                     time.sleep(2)
@@ -105,7 +120,7 @@ def fetch_thing(bgg_id):
 
     return {
         "bgg_id": bgg_id,
-        "name": name,
+        "bgg_name": name,
         "year": text("yearpublished"),
         "minplayers": text("minplayers"),
         "maxplayers": text("maxplayers"),
@@ -120,7 +135,7 @@ def fetch_thing(bgg_id):
 
 def main():
     with open(RAW_PATH, encoding="utf-8") as f:
-        titles = json.load(f)
+        raw_games = json.load(f)
 
     try:
         with open(CACHE_PATH, encoding="utf-8") as f:
@@ -129,32 +144,37 @@ def main():
         cache = {}
 
     results = []
-    for i, title in enumerate(titles):
-        print(f"[{i+1}/{len(titles)}] {title}", file=sys.stderr)
+    for i, g in enumerate(raw_games):
+        title = g["name"]
+        print(f"[{i+1}/{len(raw_games)}] {title}", file=sys.stderr)
+
         if title in cache:
-            results.append(cache[title])
-            continue
+            entry = cache[title]
+        else:
+            search_results = search_bgg(title)
+            match = best_match(title, search_results)
+            entry = {"matched": False}
+            if match:
+                details = fetch_thing(match["id"])
+                if details:
+                    entry.update(details)
+                    entry["matched"] = True
+            cache[title] = entry
+            with open(CACHE_PATH, "w", encoding="utf-8") as f:
+                json.dump(cache, f, ensure_ascii=False, indent=2)
+            time.sleep(1.2)
 
-        search_results = search_bgg(title)
-        match = best_match(title, search_results)
-        entry = {"query": title, "matched": False}
-        if match:
-            details = fetch_thing(match["id"])
-            if details:
-                entry.update(details)
-                entry["matched"] = True
-        results.append(entry)
-        cache[title] = entry
-
-        with open(CACHE_PATH, "w", encoding="utf-8") as f:
-            json.dump(cache, f, ensure_ascii=False, indent=2)
-
-        time.sleep(1.2)
+        merged = {
+            "name": title,
+            "expansions": g.get("expansions", []),
+            **{k: v for k, v in entry.items()},
+        }
+        results.append(merged)
 
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
-    unmatched = [r["query"] for r in results if not r.get("matched")]
+    unmatched = [r["name"] for r in results if not r.get("matched")]
     print(f"\nDone. {len(results) - len(unmatched)}/{len(results)} matched.", file=sys.stderr)
     if unmatched:
         print("Unmatched:", file=sys.stderr)

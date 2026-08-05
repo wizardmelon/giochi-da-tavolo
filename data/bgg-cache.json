@@ -1,382 +1,1081 @@
 {
   "Ankh: Gods of Egypt": {
-    "query": "Ankh: Gods of Egypt",
-    "matched": false
-  },
-  "Ankh: Gods of Egypt – Tomb of Wonders": {
-    "query": "Ankh: Gods of Egypt – Tomb of Wonders",
-    "matched": false
-  },
-  "Ankh: Gods of Egypt – Pantheon": {
-    "query": "Ankh: Gods of Egypt – Pantheon",
-    "matched": false
-  },
-  "Ankh: Gods of Egypt – Guardians Set": {
-    "query": "Ankh: Gods of Egypt – Guardians Set",
-    "matched": false
-  },
-  "Ankh: Gods of Egypt – Divine Offerings": {
-    "query": "Ankh: Gods of Egypt – Divine Offerings",
-    "matched": false
+    "matched": true,
+    "bgg_id": "285967",
+    "bgg_name": "Ankh: Gods of Egypt",
+    "year": "2021",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "playingtime": "90",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/_al0scMG_pQfGVM31Scf1Q__original/img/h4jBTaOjznJgWELa6tTrfPqqSeA=/0x0/filters:format(jpeg)/pic6107853.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/_al0scMG_pQfGVM31Scf1Q__small/img/OMVAMJX95HNO-vSRdk-kGjAzzBY=/fit-in/200x150/filters:strip_icc()/pic6107853.jpg",
+    "rating": 7.7,
+    "weight": 3.13
   },
   "Cthulhu: Death May Die": {
-    "query": "Cthulhu: Death May Die",
-    "matched": false
+    "matched": true,
+    "bgg_id": "253344",
+    "bgg_name": "Cthulhu: Death May Die",
+    "year": "2019",
+    "minplayers": "1",
+    "maxplayers": "5",
+    "playingtime": "120",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/SPpzri7fwLRgVWMKOocHxw__original/img/4TI0rpw6w0EpkgfvQpusj5Idmpw=/0x0/filters:format(png)/pic9712872.png",
+    "thumbnail": "https://cf.geekdo-images.com/SPpzri7fwLRgVWMKOocHxw__small/img/5efn0qgWmGKa-JNYzcD3wAx7ybU=/fit-in/200x150/filters:strip_icc()/pic9712872.png",
+    "rating": 8.2,
+    "weight": 2.49
   },
-  "Cthulhu: Death May Die – Stagione 2": {
-    "query": "Cthulhu: Death May Die – Stagione 2",
-    "matched": false
-  },
-  "Cthulhu: Death May Die – Paura dell'Ignoto (Stagione 3)": {
-    "query": "Cthulhu: Death May Die – Paura dell'Ignoto (Stagione 3)",
-    "matched": false
-  },
-  "Cthulhu: Death May Die – Stagione 4": {
-    "query": "Cthulhu: Death May Die – Stagione 4",
-    "matched": false
-  },
-  "Cthulhu: Death May Die – Capro Nero dei Boschi": {
-    "query": "Cthulhu: Death May Die – Capro Nero dei Boschi",
-    "matched": false
-  },
-  "Ticket to Ride: Europa (15th Anniversary)": {
-    "query": "Ticket to Ride: Europa (15th Anniversary)",
-    "matched": false
+  "Ticket to Ride: Europa": {
+    "matched": true,
+    "bgg_id": "14996",
+    "bgg_name": "Ticket to Ride: Europe",
+    "year": "2005",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "playingtime": "60",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__original/img/LOC8D0q01ZRvZ6v1n7l8Zueos-E=/0x0/filters:format(jpeg)/pic9580918.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__small/img/XE-BFNwHZ0NZVko1pCj3gdFaGxY=/fit-in/200x150/filters:strip_icc()/pic9580918.jpg",
+    "rating": 7.5,
+    "weight": 1.91
   },
   "Rising Sun": {
-    "query": "Rising Sun",
-    "matched": false
-  },
-  "Rising Sun: Daimyo Box": {
-    "query": "Rising Sun: Daimyo Box",
-    "matched": false
+    "matched": true,
+    "bgg_id": "205896",
+    "bgg_name": "Rising Sun",
+    "year": "2018",
+    "minplayers": "3",
+    "maxplayers": "5",
+    "playingtime": "120",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__original/img/pKJ1XyLN4hvHim5eRj2VJHijv1E=/0x0/filters:format(jpeg)/pic3880340.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__small/img/UNKv6MWzJUAwhhP7-ng6HoinRa8=/fit-in/200x150/filters:strip_icc()/pic3880340.jpg",
+    "rating": 7.8,
+    "weight": 3.3
   },
   "Blood Rage": {
-    "query": "Blood Rage",
-    "matched": false
+    "matched": true,
+    "bgg_id": "170216",
+    "bgg_name": "Blood Rage",
+    "year": "2015",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "90",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__original/img/Myy6IPDJDzLoPdXrPXVZcddBQoQ=/0x0/filters:format(jpeg)/pic2439223.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__small/img/NLhVdU8xazrgS5dA6nVCYmN2DNI=/fit-in/200x150/filters:strip_icc()/pic2439223.jpg",
+    "rating": 7.9,
+    "weight": 2.88
   },
   "Room 25 Ultimate": {
-    "query": "Room 25 Ultimate",
-    "matched": false
+    "matched": true,
+    "bgg_id": "212956",
+    "bgg_name": "Room 25: Ultimate",
+    "year": "2016",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "playingtime": "60",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/-JcXkwLKB0LoHmPotzQA6Q__original/img/ADCITOxTL8YZF2TyiOin_1k1M-g=/0x0/filters:format(png)/pic6366846.png",
+    "thumbnail": "https://cf.geekdo-images.com/-JcXkwLKB0LoHmPotzQA6Q__small/img/kELuHmMqAa1a17mhPyLrkje6dVM=/fit-in/200x150/filters:strip_icc()/pic6366846.png",
+    "rating": 7.3,
+    "weight": 2.14
   },
   "Hues and Cues": {
-    "query": "Hues and Cues",
-    "matched": false
+    "matched": true,
+    "bgg_id": "302520",
+    "bgg_name": "Hues and Cues",
+    "year": "2020",
+    "minplayers": "3",
+    "maxplayers": "10",
+    "playingtime": "30",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/jdR8WW75HkaoHGMTCIx9lA__original/img/i8nlw_c9CYgJMzixadYVh7GTTPc=/0x0/filters:format(jpeg)/pic5390676.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/jdR8WW75HkaoHGMTCIx9lA__small/img/EJ5gcczwsYvSavYuO4UoNPS45vo=/fit-in/200x150/filters:strip_icc()/pic5390676.jpg",
+    "rating": 6.4,
+    "weight": 1.06
   },
   "Flamme Rouge": {
-    "query": "Flamme Rouge",
-    "matched": false
+    "matched": true,
+    "bgg_id": "199478",
+    "bgg_name": "Flamme Rouge",
+    "year": "2016",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "45",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/sUrK5CCscls-tTc2hJWDPg__original/img/hQOFypZgCn4CQrJnXiNaQc_hjCw=/0x0/filters:format(jpeg)/pic3482521.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/sUrK5CCscls-tTc2hJWDPg__small/img/tBSMuRSHRl4M8-dVxcThAC1yXbs=/fit-in/200x150/filters:strip_icc()/pic3482521.jpg",
+    "rating": 7.5,
+    "weight": 1.7
   },
   "Dorfromantik: The Board Game": {
-    "query": "Dorfromantik: The Board Game",
-    "matched": false
+    "matched": true,
+    "bgg_id": "370591",
+    "bgg_name": "Dorfromantik: The Board Game",
+    "year": "2022",
+    "minplayers": "1",
+    "maxplayers": "6",
+    "playingtime": "60",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__original/img/CK6xh0d01jIC7WOIGALHZCDli34=/0x0/filters:format(jpeg)/pic7227691.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__small/img/SYowoPc4NsBcU6duKGUM93itzZY=/fit-in/200x150/filters:strip_icc()/pic7227691.jpg",
+    "rating": 7.6,
+    "weight": 1.64
   },
   "Heat: Pedal to the Metal": {
-    "query": "Heat: Pedal to the Metal",
-    "matched": false
+    "matched": true,
+    "bgg_id": "366013",
+    "bgg_name": "Heat: Pedal to the Metal",
+    "year": "2022",
+    "minplayers": "1",
+    "maxplayers": "6",
+    "playingtime": "60",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__original/img/iXU8a9WaVlwrkiEiOxWN06y9y5g=/0x0/filters:format(png)/pic6940449.png",
+    "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__small/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+    "rating": 8.0,
+    "weight": 2.2
   },
   "Catan": {
-    "query": "Catan",
-    "matched": false
+    "matched": true,
+    "bgg_id": "13",
+    "bgg_name": "Catan",
+    "year": "1995",
+    "minplayers": "3",
+    "maxplayers": "4",
+    "playingtime": "120",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__original/img/oRc0AomWA9ZtFqQDZiZbIyKE1j0=/0x0/filters:format(png)/pic9156909.png",
+    "thumbnail": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__small/img/SNVfF23OQafv3u8xdFolJnMkBoM=/fit-in/200x150/filters:strip_icc()/pic9156909.png",
+    "rating": 7.1,
+    "weight": 2.28
   },
   "Wingspan": {
-    "query": "Wingspan",
-    "matched": false
+    "matched": true,
+    "bgg_id": "266192",
+    "bgg_name": "Wingspan",
+    "year": "2019",
+    "minplayers": "1",
+    "maxplayers": "5",
+    "playingtime": "70",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw=/0x0/filters:format(jpeg)/pic4458123.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__small/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg",
+    "rating": 8.0,
+    "weight": 2.48
   },
   "Primo Contatto": {
-    "query": "Primo Contatto",
-    "matched": false
+    "matched": true,
+    "bgg_id": "258309",
+    "bgg_name": "First Contact",
+    "year": "2018",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "playingtime": "40",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/6XFaGyeG_ZrvO7lna8kDQA__original/img/z1DgjKhNsUMeX0I45RYPx20a-bQ=/0x0/filters:format(jpeg)/pic4419988.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/6XFaGyeG_ZrvO7lna8kDQA__small/img/S8yL6oyGY5EnFMwZfcxN3tto9L8=/fit-in/200x150/filters:strip_icc()/pic4419988.jpg",
+    "rating": 6.9,
+    "weight": 1.98
   },
   "Zombie Dice": {
-    "query": "Zombie Dice",
-    "matched": false
+    "matched": true,
+    "bgg_id": "62871",
+    "bgg_name": "Zombie Dice",
+    "year": "2010",
+    "minplayers": "2",
+    "maxplayers": "99",
+    "playingtime": "20",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__original/img/zPbWjPYgLscrjd96Uitf3GTPb34=/0x0/filters:format(jpeg)/pic4991962.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__small/img/0qjQ2T0wXNZDVvMie54bEVmKeT8=/fit-in/200x150/filters:strip_icc()/pic4991962.jpg",
+    "rating": 6.2,
+    "weight": 1.09
   },
   "Sherlock Holmes Consulente Investigativo: I Delitti del Tamigi e Altri Casi": {
-    "query": "Sherlock Holmes Consulente Investigativo: I Delitti del Tamigi e Altri Casi",
-    "matched": false
+    "matched": true,
+    "bgg_id": "2511",
+    "bgg_name": "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases",
+    "year": "1981",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "playingtime": "120",
+    "minage": "13",
+    "image": "https://cf.geekdo-images.com/ptDZ2tJ6dSNiONAx3HH8Tw__original/img/iu21NR45DwHyFY-UPW0m7hwY_vw=/0x0/filters:format(jpeg)/pic3514298.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ptDZ2tJ6dSNiONAx3HH8Tw__small/img/TKoDj4fKzLa_m45TCQeDGcBf63o=/fit-in/200x150/filters:strip_icc()/pic3514298.jpg",
+    "rating": 7.6,
+    "weight": 2.66
   },
   "Sherlock Holmes Consulente Investigativo: Jack lo Squartatore e Avventure nel West End": {
-    "query": "Sherlock Holmes Consulente Investigativo: Jack lo Squartatore e Avventure nel West End",
-    "matched": false
+    "matched": true,
+    "bgg_id": "204305",
+    "bgg_name": "Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures",
+    "year": "2016",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "playingtime": "90",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/o3B4ld2Nz9e7wQuRhxJBDw__original/img/z6PE755XxEt8AdNJAlVJnMQoMHs=/0x0/filters:format(jpeg)/pic3238299.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/o3B4ld2Nz9e7wQuRhxJBDw__small/img/bYTNTaCtTbEBVmjcyMcyekgIFio=/fit-in/200x150/filters:strip_icc()/pic3238299.jpg",
+    "rating": 7.5,
+    "weight": 2.21
   },
   "Sherlock Holmes Consulente Investigativo: Carlton House e Queen's Park": {
-    "query": "Sherlock Holmes Consulente Investigativo: Carlton House e Queen's Park",
-    "matched": false
+    "matched": true,
+    "bgg_id": "223931",
+    "bgg_name": "Sherlock Holmes Consulting Detective: Carlton House & Queen's Park",
+    "year": "2017",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "playingtime": "90",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/g9Y8cisx4RqmiFgVqONYxg__original/img/m_dxitgQJeA6wEBUyCEe1YL6skU=/0x0/filters:format(jpeg)/pic4484880.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/g9Y8cisx4RqmiFgVqONYxg__small/img/L4I7VOTAxN_2D0thjrSQ_09HoBw=/fit-in/200x150/filters:strip_icc()/pic4484880.jpg",
+    "rating": 7.7,
+    "weight": 2.24
   },
   "Sherlock Holmes Consulente Investigativo: Gli Irregolari di Baker Street": {
-    "query": "Sherlock Holmes Consulente Investigativo: Gli Irregolari di Baker Street",
-    "matched": false
-  },
-  "Sherlock Holmes Consulente Investigativo: Perspectives": {
-    "query": "Sherlock Holmes Consulente Investigativo: Perspectives",
-    "matched": false
+    "matched": true,
+    "bgg_id": "296345",
+    "bgg_name": "Sherlock Holmes Consulting Detective: The Baker Street Irregulars",
+    "year": "2020",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "playingtime": "90",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/demwo7nCkIHbUcFohLwfsQ__original/img/rKRPGfBV4dKWehRNWBsEsM3RuWM=/0x0/filters:format(jpeg)/pic5198810.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/demwo7nCkIHbUcFohLwfsQ__small/img/1OnuuguBS4FcheU9o0XLTQoGKj8=/fit-in/200x150/filters:strip_icc()/pic5198810.jpg",
+    "rating": 8.2,
+    "weight": 2.27
   },
   "Citadels": {
-    "query": "Citadels",
-    "matched": false
+    "matched": true,
+    "bgg_id": "478",
+    "bgg_name": "Citadels",
+    "year": "2000",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "playingtime": "60",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__original/img/G5HKV77V6Q62qaArIHGRLjMnvzY=/0x0/filters:format(jpeg)/pic636868.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__small/img/Y_o8GdhShAWME_ZH2c7yTxHJIWk=/fit-in/200x150/filters:strip_icc()/pic636868.jpg",
+    "rating": 7.1,
+    "weight": 2.05
   },
   "Michael (Dark Kalamaru)": {
-    "query": "Michael (Dark Kalamaru)",
     "matched": false
   },
   "Vudulhu": {
-    "query": "Vudulhu",
-    "matched": false
+    "matched": true,
+    "bgg_id": "236827",
+    "bgg_name": "Vudulhu",
+    "year": "2017",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "playingtime": "45",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/AUYtLDXh-sawBG8rEuJ2yg__original/img/nTGVnkwKx_12YJWGRCHasT-3GJc=/0x0/filters:format(png)/pic3779573.png",
+    "thumbnail": "https://cf.geekdo-images.com/AUYtLDXh-sawBG8rEuJ2yg__small/img/O39cnxhff2SmObFvKGbS0zs7DSA=/fit-in/200x150/filters:strip_icc()/pic3779573.png",
+    "rating": 6.2,
+    "weight": 1.33
   },
   "Sky Team": {
-    "query": "Sky Team",
-    "matched": false
+    "matched": true,
+    "bgg_id": "373106",
+    "bgg_name": "Sky Team",
+    "year": "2023",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "playingtime": "20",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__original/img/mWOQnkpyYBorh_Y1-0Y2o-ew17k=/0x0/filters:format(jpeg)/pic7398904.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__small/img/WyPClajMWU9lV5BdCXiZnqdZgmU=/fit-in/200x150/filters:strip_icc()/pic7398904.jpg",
+    "rating": 8.1,
+    "weight": 2.04
   },
   "Wings of War: Dawn of War": {
-    "query": "Wings of War: Dawn of War",
-    "matched": false
+    "matched": true,
+    "bgg_id": "22532",
+    "bgg_name": "Wings of War: The Dawn of World War II",
+    "year": "2007",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "playingtime": "30",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/nceIrgwaOiQkYvlaby9omg__original/img/cu78u4yKVsThG543ZDcdFPWKo3E=/0x0/filters:format(jpeg)/pic269322.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nceIrgwaOiQkYvlaby9omg__small/img/aqKsLetSwttHiFBJUi54GqFwtFY=/fit-in/200x150/filters:strip_icc()/pic269322.jpg",
+    "rating": 6.9,
+    "weight": 1.96
   },
   "Ideale": {
-    "query": "Ideale",
-    "matched": false
+    "matched": true,
+    "bgg_id": "255291",
+    "bgg_name": "Bilder",
+    "year": "2018",
+    "minplayers": "2",
+    "maxplayers": "12",
+    "playingtime": "60",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/DqWfi4J7tpAe36Do_p4v5w__original/img/F8EobzZNqU0PYAwQ21KF3D0w5hs=/0x0/filters:format(png)/pic4745794.png",
+    "thumbnail": "https://cf.geekdo-images.com/DqWfi4J7tpAe36Do_p4v5w__small/img/l2BB2-ExwKOY7HM65kBo4E-f6cs=/fit-in/200x150/filters:strip_icc()/pic4745794.png",
+    "rating": 6.6,
+    "weight": 2.0
   },
   "Sì, Oscuro Signore!": {
-    "query": "Sì, Oscuro Signore!",
-    "matched": false
+    "matched": true,
+    "bgg_id": "18723",
+    "bgg_name": "Aye, Dark Overlord! The Red Box",
+    "year": "2005",
+    "minplayers": "4",
+    "maxplayers": "16",
+    "playingtime": "30",
+    "minage": "13",
+    "image": "https://cf.geekdo-images.com/rKOHJmJWSjKPMVGZlCr6vQ__original/img/bmd-sjhrnuHFnwDt0UvzQ9vahtM=/0x0/filters:format(jpeg)/pic5335995.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/rKOHJmJWSjKPMVGZlCr6vQ__small/img/jFmP_QAwm8uzABZb14xgMgLadqc=/fit-in/200x150/filters:strip_icc()/pic5335995.jpg",
+    "rating": 5.8,
+    "weight": 1.28
   },
   "Forest Shuffle": {
-    "query": "Forest Shuffle",
-    "matched": false
+    "matched": true,
+    "bgg_id": "391163",
+    "bgg_name": "Forest Shuffle",
+    "year": "2023",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "playingtime": "60",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4=/0x0/filters:format(jpeg)/pic7578350.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__small/img/Xq8TNBmMl3Z7DoynvbUXchFAztc=/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
+    "rating": 7.7,
+    "weight": 2.22
   },
   "Fall": {
-    "query": "Fall",
-    "matched": false
+    "matched": true,
+    "bgg_id": "417741",
+    "bgg_name": "Fall",
+    "year": "2024",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "playingtime": "30",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/mbEOIk06ky59Wchkrx8Bow__original/img/Ez3Alxz68QDEshjRSY_VBdKdkg4=/0x0/filters:format(jpeg)/pic8113129.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/mbEOIk06ky59Wchkrx8Bow__small/img/JkooYmKkoqEJKNNXfq9EkzO2UP4=/fit-in/200x150/filters:strip_icc()/pic8113129.jpg",
+    "rating": 7.3,
+    "weight": 2.18
   },
   "Isole Abbandonate: Turno di Guardia": {
-    "query": "Isole Abbandonate: Turno di Guardia",
-    "matched": false
+    "matched": true,
+    "bgg_id": "367625",
+    "bgg_name": "Set A Watch: Forsaken Isles",
+    "year": "2024",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "playingtime": "90",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/HmUxa92nnooCKC7RYGL9-g__original/img/bjhH_xl172XG8BujTWeZhoV0rxw=/0x0/filters:format(jpeg)/pic6978734.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/HmUxa92nnooCKC7RYGL9-g__small/img/m3AyLXWV3aJfjesjcmfaZRl-crM=/fit-in/200x150/filters:strip_icc()/pic6978734.jpg",
+    "rating": 7.9,
+    "weight": 2.75
   },
   "Tree Society": {
-    "query": "Tree Society",
-    "matched": false
+    "matched": true,
+    "bgg_id": "423698",
+    "bgg_name": "Tree Society",
+    "year": "2024",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "45",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/sx6284Fv2m-VHjGes1pADw__original/img/PGOKdJyiJtTXYB_Ly5V9_eR9jmE=/0x0/filters:format(png)/pic8273396.png",
+    "thumbnail": "https://cf.geekdo-images.com/sx6284Fv2m-VHjGes1pADw__small/img/pdkwVaa8fsF3HMnyiFwzPknH1IA=/fit-in/200x150/filters:strip_icc()/pic8273396.png",
+    "rating": 6.5,
+    "weight": 2.08
   },
   "Arcs": {
-    "query": "Arcs",
-    "matched": false
+    "matched": true,
+    "bgg_id": "359871",
+    "bgg_name": "Arcs",
+    "year": "2024",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "120",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__original/img/43ianMZOks7UHlZILx0VBRntOmM=/0x0/filters:format(png)/pic8145530.png",
+    "thumbnail": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__small/img/Ry-6KHwNgERWadyxs1X1_P3dMvY=/fit-in/200x150/filters:strip_icc()/pic8145530.png",
+    "rating": 8.0,
+    "weight": 3.44
   },
-  "Unstable Unicorns (2° Edizione)": {
-    "query": "Unstable Unicorns (2° Edizione)",
-    "matched": false
-  },
-  "Unstable Unicorns: Dragons Espansione": {
-    "query": "Unstable Unicorns: Dragons Espansione",
-    "matched": false
-  },
-  "Unstable Unicorns: Rainbow Apocalypse Espansione": {
-    "query": "Unstable Unicorns: Rainbow Apocalypse Espansione",
-    "matched": false
-  },
-  "Unstable Unicorns: Christmas Special Espansione": {
-    "query": "Unstable Unicorns: Christmas Special Espansione",
-    "matched": false
+  "Unstable Unicorns": {
+    "matched": true,
+    "bgg_id": "234190",
+    "bgg_name": "Unstable Unicorns",
+    "year": "2017",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "playingtime": "60",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/8_5xvpsrrX5JVzO7eBLSgw__original/img/XkKaT-quh8xGl2uHD5zULSWTpuM=/0x0/filters:format(jpeg)/pic3912914.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/8_5xvpsrrX5JVzO7eBLSgw__small/img/fV4UWCHC1ImGFUN7lcJju9K8_zo=/fit-in/200x150/filters:strip_icc()/pic3912914.jpg",
+    "rating": 6.2,
+    "weight": 1.47
   },
   "Fallout Shelter: Il Gioco da Tavolo": {
-    "query": "Fallout Shelter: Il Gioco da Tavolo",
-    "matched": false
+    "matched": true,
+    "bgg_id": "293889",
+    "bgg_name": "Fallout Shelter: The Board Game",
+    "year": "2020",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "90",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/JgTKT2j61ctBjhtzg_vZ-A__original/img/3KP-OIw2Sv1oqNXyXNYnHZafcng=/0x0/filters:format(jpeg)/pic5055378.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/JgTKT2j61ctBjhtzg_vZ-A__small/img/eW0qcRRQV9ho86Pl8aUDr8Hrxyc=/fit-in/200x150/filters:strip_icc()/pic5055378.jpg",
+    "rating": 7.2,
+    "weight": 2.03
   },
   "Let's Summon Demons": {
-    "query": "Let's Summon Demons",
-    "matched": false
+    "matched": true,
+    "bgg_id": "325829",
+    "bgg_name": "Let's Summon Demons",
+    "year": "2021",
+    "minplayers": "2",
+    "maxplayers": "5",
+    "playingtime": "40",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/O88iI1-V3dkrJX7IPQMlnw__original/img/YtUOyjMvv3CJNkbytNQWQH89HuY=/0x0/filters:format(jpeg)/pic7380048.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/O88iI1-V3dkrJX7IPQMlnw__small/img/G4Ttm28hgquIlVPzvZRInvDXcHI=/fit-in/200x150/filters:strip_icc()/pic7380048.jpg",
+    "rating": 6.9,
+    "weight": 1.44
   },
   "Insoliti Sospetti": {
-    "query": "Insoliti Sospetti",
-    "matched": false
+    "matched": true,
+    "bgg_id": "178570",
+    "bgg_name": "Unusual Suspects",
+    "year": "2015",
+    "minplayers": "3",
+    "maxplayers": "16",
+    "playingtime": "20",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/GSV9m1Yhm7dGGp9BfkUONw__original/img/hhrhSPvohXSd-M1viPx8kZ7ntAQ=/0x0/filters:format(jpeg)/pic3090549.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/GSV9m1Yhm7dGGp9BfkUONw__small/img/HIwRv_RZVvn6CkIE3Kd43JdQPjY=/fit-in/200x150/filters:strip_icc()/pic3090549.jpg",
+    "rating": 6.4,
+    "weight": 1.1
   },
   "Without Fail": {
-    "query": "Without Fail",
-    "matched": false
+    "matched": true,
+    "bgg_id": "394134",
+    "bgg_name": "Without Fail",
+    "year": "2023",
+    "minplayers": "2",
+    "maxplayers": "99",
+    "playingtime": "20",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/Xn2zq5fCk1dH3cSxaKnZOg__original/img/W_wkccghD4hFSuxd1K15g_wCSRc=/0x0/filters:format(png)/pic7606035.png",
+    "thumbnail": "https://cf.geekdo-images.com/Xn2zq5fCk1dH3cSxaKnZOg__small/img/9dUc5gJAak5EyTdfYns9YmLVznM=/fit-in/200x150/filters:strip_icc()/pic7606035.png",
+    "rating": 6.3,
+    "weight": 1.0
   },
   "Imagine": {
-    "query": "Imagine",
-    "matched": false
+    "matched": true,
+    "bgg_id": "191894",
+    "bgg_name": "Imagine",
+    "year": "2015",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "playingtime": "20",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/K-Hp2v5Bc_UKMGlBF2oIEQ__original/img/Yrr-KrZV24OPZyqPq9KR5CJO-pA=/0x0/filters:format(jpeg)/pic3061260.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/K-Hp2v5Bc_UKMGlBF2oIEQ__small/img/7iWqJ6jHsgKCTcNs41nEgT7_NzA=/fit-in/200x150/filters:strip_icc()/pic3061260.jpg",
+    "rating": 6.8,
+    "weight": 1.06
   },
   "Kingdomino": {
-    "query": "Kingdomino",
-    "matched": false
+    "matched": true,
+    "bgg_id": "204583",
+    "bgg_name": "Kingdomino",
+    "year": "2016",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "25",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__original/img/HT6NQPT0cSFcZXjSewtjTO_NBAE=/0x0/filters:format(png)/pic8443569.png",
+    "thumbnail": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__small/img/4p4Xydg0tze9UFcd6oUbCnVyxCw=/fit-in/200x150/filters:strip_icc()/pic8443569.png",
+    "rating": 7.3,
+    "weight": 1.24
   },
   "Stay Cool": {
-    "query": "Stay Cool",
-    "matched": false
+    "matched": true,
+    "bgg_id": "267475",
+    "bgg_name": "Stay Cool",
+    "year": "2019",
+    "minplayers": "3",
+    "maxplayers": "7",
+    "playingtime": "25",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/nNHGboSx2J0DLALg4W5k4A__original/img/wFeHlmBUTPLq020cdXzC4vpZNvI=/0x0/filters:format(jpeg)/pic5182093.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nNHGboSx2J0DLALg4W5k4A__small/img/xgFgtpFfPYBA29Au1NU0VUl15xg=/fit-in/200x150/filters:strip_icc()/pic5182093.jpg",
+    "rating": 7.0,
+    "weight": 1.04
   },
   "Tilt": {
-    "query": "Tilt",
-    "matched": false
+    "matched": true,
+    "bgg_id": "21424",
+    "bgg_name": "Tilt",
+    "year": "1974",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "30",
+    "minage": "0",
+    "image": "https://cf.geekdo-images.com/ounQWJQxl7qh7DRW0IwOig__original/img/z-jFSZo7dEc-cSMNbKTzB2Qw96M=/0x0/filters:format(jpeg)/pic734911.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ounQWJQxl7qh7DRW0IwOig__small/img/NsSwOakpkXzBopsG5Hq_d-x6pgA=/fit-in/200x150/filters:strip_icc()/pic734911.jpg",
+    "rating": 6.0,
+    "weight": 1.2
   },
   "Dany": {
-    "query": "Dany",
-    "matched": false
+    "matched": true,
+    "bgg_id": "265381",
+    "bgg_name": "DANY",
+    "year": "2019",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "playingtime": "30",
+    "minage": "16",
+    "image": "https://cf.geekdo-images.com/15ZfT3y5Wndrg7Cxp8BAYg__original/img/szRj8CG3d7bnafbV-DL9xnr6-NY=/0x0/filters:format(jpeg)/pic4465422.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/15ZfT3y5Wndrg7Cxp8BAYg__small/img/kJTC0OB3o0_4WwrTPCIFuycpULw=/fit-in/200x150/filters:strip_icc()/pic4465422.jpg",
+    "rating": 6.7,
+    "weight": 1.21
   },
   "Hint": {
-    "query": "Hint",
-    "matched": false
+    "matched": true,
+    "bgg_id": "165628",
+    "bgg_name": "HINT",
+    "year": "2014",
+    "minplayers": "4",
+    "maxplayers": "10",
+    "playingtime": "60",
+    "minage": "15",
+    "image": "https://cf.geekdo-images.com/1Ebkya5qKEm0SWGiAI20DA__original/img/GZX5k_F8VHt8GVf2g1WZPFjGZ0Q=/0x0/filters:format(jpeg)/pic6164116.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/1Ebkya5qKEm0SWGiAI20DA__small/img/sZw3_Zh6UNEcSYwcEUNqckHzn4k=/fit-in/200x150/filters:strip_icc()/pic6164116.jpg",
+    "rating": 6.6,
+    "weight": 1.25
   },
   "Storie Horror: 50 Misteri da Risolvere": {
-    "query": "Storie Horror: 50 Misteri da Risolvere",
     "matched": false
   },
   "Emozionarium": {
-    "query": "Emozionarium",
-    "matched": false
+    "matched": true,
+    "bgg_id": "473906",
+    "bgg_name": "Emozionarium",
+    "year": "2026",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "playingtime": "60",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/gWfeTWVFoskRLTFNXxRJew__original/img/EcDLhGk9W_X-J-OzgcfvV8YR4Ew=/0x0/filters:format(jpeg)/pic9665512.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/gWfeTWVFoskRLTFNXxRJew__small/img/vsCa6bW8b2eyHgwuSajjajvNvmE=/fit-in/200x150/filters:strip_icc()/pic9665512.jpg",
+    "rating": 8.6,
+    "weight": 1.0
   },
   "Silver Mine": {
-    "query": "Silver Mine",
-    "matched": false
+    "matched": true,
+    "bgg_id": "1120",
+    "bgg_name": "Silver Mine",
+    "year": "1992",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "playingtime": "45",
+    "minage": "7",
+    "image": "https://cf.geekdo-images.com/-1R3Equ02YxiIJI-DtWc0g__original/img/zbctR214pRr2zYTH4krWPHc8Oiw=/0x0/filters:format(jpeg)/pic6959685.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-1R3Equ02YxiIJI-DtWc0g__small/img/IU3ZYQrwWJtZ4vRYqp3XdYlVPcw=/fit-in/200x150/filters:strip_icc()/pic6959685.jpg",
+    "rating": 6.0,
+    "weight": 1.38
   },
   "Doodles: Il Gioco degli Scarabocchi": {
-    "query": "Doodles: Il Gioco degli Scarabocchi",
-    "matched": false
+    "matched": true,
+    "bgg_id": "300866",
+    "bgg_name": "DOODLES: Il gioco degli scarabocchi",
+    "year": "2019",
+    "minplayers": "3",
+    "maxplayers": "7",
+    "playingtime": "60",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/-vpRFMKIQjIxJGijS2oElw__original/img/Smm__XigZZRXvMJQ1irE_IfLkWA=/0x0/filters:format(jpeg)/pic5258323.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-vpRFMKIQjIxJGijS2oElw__small/img/ZuRqiawREfW4FcvQfQbwg4ThvMI=/fit-in/200x150/filters:strip_icc()/pic5258323.jpg",
+    "rating": 7.1,
+    "weight": 1.0
   },
   "Sei Sicuro?": {
-    "query": "Sei Sicuro?",
-    "matched": false
+    "matched": true,
+    "bgg_id": "251726",
+    "bgg_name": "Confident?",
+    "year": "2018",
+    "minplayers": "3",
+    "maxplayers": "99",
+    "playingtime": "40",
+    "minage": "11",
+    "image": "https://cf.geekdo-images.com/6wrAKv3t9PXEw3OJDJXAHA__original/img/f1Mvtv9R2FEDI8uZpNUOcWRjaQ8=/0x0/filters:format(png)/pic5690370.png",
+    "thumbnail": "https://cf.geekdo-images.com/6wrAKv3t9PXEw3OJDJXAHA__small/img/HcE5RWx0o9vevI9TMZqvMmJGWas=/fit-in/200x150/filters:strip_icc()/pic5690370.png",
+    "rating": 6.6,
+    "weight": 1.0
   },
   "Nome in Codice": {
-    "query": "Nome in Codice",
-    "matched": false
+    "matched": true,
+    "bgg_id": "178900",
+    "bgg_name": "Codenames",
+    "year": "2015",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "playingtime": "15",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__original/img/Id-jjIer_61ZbvI2_RVRCeBZFY4=/0x0/filters:format(jpeg)/pic8907965.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__small/img/1iZav_8ZqurrDbvkZA9GcFhB5x0=/fit-in/200x150/filters:strip_icc()/pic8907965.jpg",
+    "rating": 7.5,
+    "weight": 1.25
   },
   "Party Lines": {
-    "query": "Party Lines",
-    "matched": false
+    "matched": true,
+    "bgg_id": "9548",
+    "bgg_name": "Party Lines",
+    "year": "1985",
+    "minplayers": "4",
+    "maxplayers": "14",
+    "playingtime": "60",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/tnMjrML-1qdUxa3bV_36aA__original/img/2nyAPpAd5qm4o-XrW3e0998nMNY=/0x0/filters:format(jpeg)/pic40844.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/tnMjrML-1qdUxa3bV_36aA__small/img/qUVs8E2nZTd1gcljr_Ge_fHLCPk=/fit-in/200x150/filters:strip_icc()/pic40844.jpg",
+    "rating": 5.4,
+    "weight": 1.0
   },
   "Just One": {
-    "query": "Just One",
-    "matched": false
-  },
-  "Just One (Nuova Edizione)": {
-    "query": "Just One (Nuova Edizione)",
-    "matched": false
+    "matched": true,
+    "bgg_id": "254640",
+    "bgg_name": "Just One",
+    "year": "2018",
+    "minplayers": "3",
+    "maxplayers": "7",
+    "playingtime": "60",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__original/img/hA22qL6nZxchA8FMTIfhLMcI53I=/0x0/filters:format(png)/pic8669313.png",
+    "thumbnail": "https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__small/img/feIV-gqMeza43ycvxh6PGx4lA_w=/fit-in/200x150/filters:strip_icc()/pic8669313.png",
+    "rating": 7.6,
+    "weight": 1.03
   },
   "That Sound Game": {
-    "query": "That Sound Game",
-    "matched": false
+    "matched": true,
+    "bgg_id": "367601",
+    "bgg_name": "That Sound Game",
+    "year": "2022",
+    "minplayers": "2",
+    "maxplayers": "30",
+    "playingtime": "120",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/Ti4Av8a7JxNnoWDUr9BSig__original/img/nt98EC5u3WRL7XxlutideyNfly0=/0x0/filters:format(jpeg)/pic8621075.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/Ti4Av8a7JxNnoWDUr9BSig__small/img/v_7roTh1eLQdzGOQOxlDf7CnIW4=/fit-in/200x150/filters:strip_icc()/pic8621075.jpg",
+    "rating": 6.3,
+    "weight": 1.0
   },
   "Skull": {
-    "query": "Skull",
-    "matched": false
+    "matched": true,
+    "bgg_id": "67466",
+    "bgg_name": "Skull",
+    "year": "1993",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "playingtime": "45",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/4FvrOFxgPqlGmO56WS08dg__original/img/N06naKr53l1AUlfVl6DORa8TEyo=/0x0/filters:format(jpeg)/pic744864.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4FvrOFxgPqlGmO56WS08dg__small/img/-DGFjUF0NHZo-6U4lcmE46utf-E=/fit-in/200x150/filters:strip_icc()/pic744864.jpg",
+    "rating": 4.9,
+    "weight": 0.0
   },
   "Cortex Challenge": {
-    "query": "Cortex Challenge",
-    "matched": false
+    "matched": true,
+    "bgg_id": "297478",
+    "bgg_name": "Cortex + Challenge",
+    "year": "2018",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "playingtime": "15",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/ook-qcEW-PJklmwkmXgI8Q__original/img/wOMKBX1FPx4Eoue8dOa4QYmDy5g=/0x0/filters:format(jpeg)/pic5142950.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ook-qcEW-PJklmwkmXgI8Q__small/img/qZPxwwaSo6lF66_fnTkfx63u7G8=/fit-in/200x150/filters:strip_icc()/pic5142950.jpg",
+    "rating": 6.3,
+    "weight": 1.25
   },
   "Cortex Challenge+": {
-    "query": "Cortex Challenge+",
-    "matched": false
+    "matched": true,
+    "bgg_id": "297478",
+    "bgg_name": "Cortex + Challenge",
+    "year": "2018",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "playingtime": "15",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/ook-qcEW-PJklmwkmXgI8Q__original/img/wOMKBX1FPx4Eoue8dOa4QYmDy5g=/0x0/filters:format(jpeg)/pic5142950.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ook-qcEW-PJklmwkmXgI8Q__small/img/qZPxwwaSo6lF66_fnTkfx63u7G8=/fit-in/200x150/filters:strip_icc()/pic5142950.jpg",
+    "rating": 6.3,
+    "weight": 1.25
   },
   "Super Cortex Challenge": {
-    "query": "Super Cortex Challenge",
-    "matched": false
+    "matched": true,
+    "bgg_id": "400942",
+    "bgg_name": "Super Cortex Challenge",
+    "year": "2022",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "playingtime": "15",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/5tnV72WN5PhdgZRxHJWboA__original/img/FnpWUo0XT0W3SqXV0dIGucB5f64=/0x0/filters:format(png)/pic7724063.png",
+    "thumbnail": "https://cf.geekdo-images.com/5tnV72WN5PhdgZRxHJWboA__small/img/7TwUHNGgwby0yWZbfZ3qFdcEuJU=/fit-in/200x150/filters:strip_icc()/pic7724063.png",
+    "rating": 6.4,
+    "weight": 3.0
   },
   "Cortex Challenge 3": {
-    "query": "Cortex Challenge 3",
-    "matched": false
+    "matched": true,
+    "bgg_id": "261355",
+    "bgg_name": "Cortex Challenge 3",
+    "year": "2018",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "playingtime": "15",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/4p5-n6Zx-TwMcxYlrTEZjA__original/img/ZLQY0DlczQhGW5ZLeB3Hpl7lnjs=/0x0/filters:format(jpeg)/pic4990504.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/4p5-n6Zx-TwMcxYlrTEZjA__small/img/g-GkawqMb8doep5PjhWSopSuCZ8=/fit-in/200x150/filters:strip_icc()/pic4990504.jpg",
+    "rating": 6.1,
+    "weight": 1.2
   },
   "What Do You Meme?": {
-    "query": "What Do You Meme?",
-    "matched": false
+    "matched": true,
+    "bgg_id": "132203",
+    "bgg_name": "What Do You Meme?",
+    "year": "2012",
+    "minplayers": "3",
+    "maxplayers": "6",
+    "playingtime": "90",
+    "minage": "18",
+    "image": "https://cf.geekdo-images.com/11n5l5NwDkUB40QPlw2yIg__original/img/XSTesT796EeeoBl7QeORoO7Ll4A=/0x0/filters:format(png)/pic4729721.png",
+    "thumbnail": "https://cf.geekdo-images.com/11n5l5NwDkUB40QPlw2yIg__small/img/-8i8V-TI5HEsYxRvQ7HVNvg7R1g=/fit-in/200x150/filters:strip_icc()/pic4729721.png",
+    "rating": 4.9,
+    "weight": 1.0
   },
   "Holy Sheep": {
-    "query": "Holy Sheep",
-    "matched": false
+    "matched": true,
+    "bgg_id": "454730",
+    "bgg_name": "Mouton Mouton",
+    "year": "2025",
+    "minplayers": "3",
+    "maxplayers": "9",
+    "playingtime": "20",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/exI9GI3g_Y8HEzJYQUT7QQ__original/img/qQmUsX5sGeZaXSEJwb1DHh4Z4hg=/0x0/filters:format(jpeg)/pic9113801.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/exI9GI3g_Y8HEzJYQUT7QQ__small/img/uESwe1W3aisMXSzWJrsFuTFahkk=/fit-in/200x150/filters:strip_icc()/pic9113801.jpg",
+    "rating": 6.5,
+    "weight": 1.0
   },
   "Quick Stop": {
-    "query": "Quick Stop",
-    "matched": false
+    "matched": true,
+    "bgg_id": "419421",
+    "bgg_name": "Slingz",
+    "year": "2022",
+    "minplayers": "2",
+    "maxplayers": "7",
+    "playingtime": "15",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/4zIkoE-cALEcZK_aYBw0xg__original/img/eqymq_ep7j_1yWibXa-o-_2QaBU=/0x0/filters:format(png)/pic8308472.png",
+    "thumbnail": "https://cf.geekdo-images.com/4zIkoE-cALEcZK_aYBw0xg__small/img/u61nd2vpEXGmRtCwnaA9I-BTW6Q=/fit-in/200x150/filters:strip_icc()/pic8308472.png",
+    "rating": 6.4,
+    "weight": 1.0
   },
   "Perudo": {
-    "query": "Perudo",
-    "matched": false
+    "matched": true,
+    "bgg_id": "45",
+    "bgg_name": "Perudo",
+    "year": "1800",
+    "minplayers": "2",
+    "maxplayers": "10",
+    "playingtime": "30",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/wX4cTWNjTG7XiGHGgSpiiw__original/img/86bXDwl4gmMb_GehNQ-9y6O9G0E=/0x0/filters:format(png)/pic8630033.png",
+    "thumbnail": "https://cf.geekdo-images.com/wX4cTWNjTG7XiGHGgSpiiw__small/img/vU6kaL3f06BaVfmwUV91trrvDng=/fit-in/200x150/filters:strip_icc()/pic8630033.png",
+    "rating": 6.9,
+    "weight": 1.25
   },
   "Taco Gatto Capra Cacio Pizza": {
-    "query": "Taco Gatto Capra Cacio Pizza",
-    "matched": false
+    "matched": true,
+    "bgg_id": "253664",
+    "bgg_name": "Taco Cat Goat Cheese Pizza",
+    "year": "2018",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "playingtime": "30",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/GHrnr-Khb0LvBU_QkrC_qA__original/img/1BR5aHWIz_v4ki-YB2IiMuS-uIs=/0x0/filters:format(png)/pic7192024.png",
+    "thumbnail": "https://cf.geekdo-images.com/GHrnr-Khb0LvBU_QkrC_qA__small/img/pFt03CkI8uo3rOi4E7_ZrZfSmIM=/fit-in/200x150/filters:strip_icc()/pic7192024.png",
+    "rating": 6.5,
+    "weight": 1.03
   },
   "Dream": {
-    "query": "Dream",
-    "matched": false
+    "matched": true,
+    "bgg_id": "420610",
+    "bgg_name": "Dream",
+    "year": "2024",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "20",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/DBLPgJUarcoWTHWF9dAdfw__original/img/RN3sT_JjPCTlRlm6KrDz3FSog3Y=/0x0/filters:format(jpeg)/pic8306756.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DBLPgJUarcoWTHWF9dAdfw__small/img/cf5-rlr4ZZStOGPYJiwTKaTgmbY=/fit-in/200x150/filters:strip_icc()/pic8306756.jpg",
+    "rating": 6.5,
+    "weight": 1.0
   },
   "Robots (Little Rocket Games)": {
-    "query": "Robots (Little Rocket Games)",
     "matched": false
   },
   "Hive": {
-    "query": "Hive",
-    "matched": false
+    "matched": true,
+    "bgg_id": "2655",
+    "bgg_name": "Hive",
+    "year": "2001",
+    "minplayers": "2",
+    "maxplayers": "2",
+    "playingtime": "20",
+    "minage": "9",
+    "image": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__original/img/eqUVrCJKcMBGBhw4Gfc9_9JabYE=/0x0/filters:format(jpeg)/pic791151.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__small/img/8ULXa8v7095ohgXMMmNlCGrC7zU=/fit-in/200x150/filters:strip_icc()/pic791151.jpg",
+    "rating": 7.3,
+    "weight": 2.31
   },
   "Jenga Classic": {
-    "query": "Jenga Classic",
-    "matched": false
+    "matched": true,
+    "bgg_id": "2452",
+    "bgg_name": "Jenga",
+    "year": "1983",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "playingtime": "20",
+    "minage": "6",
+    "image": "https://cf.geekdo-images.com/YH5C06snaoJtDqKjwMROPw__original/img/gB1mfMGbSkXgYxU5FA4QWForCZk=/0x0/filters:format(jpeg)/pic5140451.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/YH5C06snaoJtDqKjwMROPw__small/img/cSHIiN_mZQEqKMI1G7qRbTMp4nk=/fit-in/200x150/filters:strip_icc()/pic5140451.jpg",
+    "rating": 5.7,
+    "weight": 1.1
   },
   "Happy Salmon": {
-    "query": "Happy Salmon",
-    "matched": false
+    "matched": true,
+    "bgg_id": "194626",
+    "bgg_name": "Happy Salmon",
+    "year": "2016",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "playingtime": "2",
+    "minage": "6",
+    "image": "https://cf.geekdo-images.com/qiPO300rG73UqxJvpUe3og__original/img/r-ZepVlPDZRwmxcWJgLA4GpaXfY=/0x0/filters:format(jpeg)/pic7354069.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qiPO300rG73UqxJvpUe3og__small/img/jo26IkaY-DSx4MhfRQ7lDHCPtbo=/fit-in/200x150/filters:strip_icc()/pic7354069.jpg",
+    "rating": 6.6,
+    "weight": 1.06
   },
   "Camelio": {
-    "query": "Camelio",
-    "matched": false
+    "matched": true,
+    "bgg_id": "451930",
+    "bgg_name": "Camelio",
+    "year": "2025",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "20",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/ofJgBQhWUCDcJHo4XzfzSg__original/img/V4ZgzGXt5jbkNqH7q7I4jW2EyA8=/0x0/filters:format(jpeg)/pic9033956.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ofJgBQhWUCDcJHo4XzfzSg__small/img/bBgSmQ-GFlbKl_Mud0IXoXiBMTc=/fit-in/200x150/filters:strip_icc()/pic9033956.jpg",
+    "rating": 6.9,
+    "weight": 1.0
   },
   "Mini Crimes: Indagini dal Passato": {
-    "query": "Mini Crimes: Indagini dal Passato",
     "matched": false
   },
   "Love Letter": {
-    "query": "Love Letter",
-    "matched": false
+    "matched": true,
+    "bgg_id": "129622",
+    "bgg_name": "Love Letter",
+    "year": "2012",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "20",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__original/img/xIAzJY7rl-mtPStRZSqnTVsAr8Y=/0x0/filters:format(jpeg)/pic1401448.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__small/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg",
+    "rating": 7.2,
+    "weight": 1.18
   },
   "Tranquility": {
-    "query": "Tranquility",
-    "matched": false
+    "matched": true,
+    "bgg_id": "288513",
+    "bgg_name": "Tranquility",
+    "year": "2020",
+    "minplayers": "1",
+    "maxplayers": "5",
+    "playingtime": "20",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__original/img/ryAqjh1RzofMQXC77hyqMFVpNV8=/0x0/filters:format(png)/pic6152802.png",
+    "thumbnail": "https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__small/img/8YdbYqiyOw64OzqvXpWGzHb2Xr0=/fit-in/200x150/filters:strip_icc()/pic6152802.png",
+    "rating": 6.9,
+    "weight": 1.36
   },
   "Yes But No": {
-    "query": "Yes But No",
-    "matched": false
+    "matched": true,
+    "bgg_id": "451929",
+    "bgg_name": "Yes but No",
+    "year": "2025",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "playingtime": "25",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/ymAtDJifAjZVpcVOxl-sHQ__original/img/vGVwJb0d1WOdrWHf83rmYS9wyLQ=/0x0/filters:format(jpeg)/pic9035735.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/ymAtDJifAjZVpcVOxl-sHQ__small/img/yyDmIsSotMz7MP52hDwOu8nmOVU=/fit-in/200x150/filters:strip_icc()/pic9035735.jpg",
+    "rating": 6.7,
+    "weight": 0.0
   },
   "Indomimando": {
-    "query": "Indomimando",
-    "matched": false
+    "matched": true,
+    "bgg_id": "2379",
+    "bgg_name": "Guesstures",
+    "year": "1990",
+    "minplayers": "4",
+    "maxplayers": "99",
+    "playingtime": "10",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/d-nb2hUIkGqiA9o0pJoXjw__original/img/zJxp7VKCwwzabm0mBkhLFE5dbD4=/0x0/filters:format(jpeg)/pic3784837.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/d-nb2hUIkGqiA9o0pJoXjw__small/img/Edco377RbashsgUTVc_oB84xYIs=/fit-in/200x150/filters:strip_icc()/pic3784837.jpg",
+    "rating": 5.9,
+    "weight": 1.18
   },
   "Con Me Nella Tomba": {
-    "query": "Con Me Nella Tomba",
-    "matched": false
+    "matched": true,
+    "bgg_id": "246709",
+    "bgg_name": "It Dies With Me",
+    "year": "2018",
+    "minplayers": "4",
+    "maxplayers": "10",
+    "playingtime": "20",
+    "minage": "13",
+    "image": "https://cf.geekdo-images.com/DWMT6FxLomGvgYzfKJTuKw__original/img/3vVZocHrL83503Ya0dEXS1zTtwI=/0x0/filters:format(jpeg)/pic4466127.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/DWMT6FxLomGvgYzfKJTuKw__small/img/C6-AyY0PP5fFzG1eDyVcWCwHd1g=/fit-in/200x150/filters:strip_icc()/pic4466127.jpg",
+    "rating": 5.9,
+    "weight": 1.0
   },
   "Dinosaurus Paradespil": {
-    "query": "Dinosaurus Paradespil",
     "matched": false
   },
   "Mascarade": {
-    "query": "Mascarade",
-    "matched": false
+    "matched": true,
+    "bgg_id": "13592",
+    "bgg_name": "Mascarade",
+    "year": "1975",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "15",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/01eKHU6-WKLV9yNwRTqaRg__original/img/GIibga4JSjxg9CKdkxHrIIRBksU=/0x0/filters:format(jpeg)/pic210884.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/01eKHU6-WKLV9yNwRTqaRg__small/img/mzB5eQQgx0LjYUX3g70m4I-MwOQ=/fit-in/200x150/filters:strip_icc()/pic210884.jpg",
+    "rating": 5.8,
+    "weight": 1.33
   },
   "Domino": {
-    "query": "Domino",
-    "matched": false
+    "matched": true,
+    "bgg_id": "472143",
+    "bgg_name": "Dominoé",
+    "year": "2026",
+    "minplayers": "2",
+    "maxplayers": "6",
+    "playingtime": "25",
+    "minage": "3",
+    "image": "https://cf.geekdo-images.com/D5eq1Os9V64Co48ErlXikQ__original/img/TpZVTih3LDRIvOJy-Qa-yUfJOcI=/0x0/filters:format(png)/pic9628595.png",
+    "thumbnail": "https://cf.geekdo-images.com/D5eq1Os9V64Co48ErlXikQ__small/img/BaLU4XE3deTLxUZNfI1PiXbu698=/fit-in/200x150/filters:strip_icc()/pic9628595.png",
+    "rating": 0.0,
+    "weight": 0.0
   },
   "Passa Parola": {
-    "query": "Passa Parola",
-    "matched": false
+    "matched": true,
+    "bgg_id": "16727",
+    "bgg_name": "Play on Wordz",
+    "year": "1984",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "playingtime": "30",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/asDr6EII7opGeOhAO1SCBg__original/img/YPf44TkJ2yvnRQMMCpb2h7rMu0w=/0x0/filters:format(jpeg)/pic1753693.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/asDr6EII7opGeOhAO1SCBg__small/img/9pvHqmsytWb8d7-uEwwdJxyuB5o=/fit-in/200x150/filters:strip_icc()/pic1753693.jpg",
+    "rating": 6.0,
+    "weight": 1.5
   },
   "Hens": {
-    "query": "Hens",
-    "matched": false
+    "matched": true,
+    "bgg_id": "348447",
+    "bgg_name": "Hens",
+    "year": "2023",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "playingtime": "20",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/h_bVZGn0gcOq1BLse8mpug__original/img/FQWTLuJH_CrpL1pyRNPtzC0BXvY=/0x0/filters:format(jpeg)/pic6431805.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/h_bVZGn0gcOq1BLse8mpug__small/img/SAoVofKlZJON-AuH3TfN7xjyVCM=/fit-in/200x150/filters:strip_icc()/pic6431805.jpg",
+    "rating": 6.8,
+    "weight": 1.86
   },
   "Traditori a Bordo": {
-    "query": "Traditori a Bordo",
-    "matched": false
+    "matched": true,
+    "bgg_id": "403000",
+    "bgg_name": "Traitors Aboard",
+    "year": "2023",
+    "minplayers": "3",
+    "maxplayers": "8",
+    "playingtime": "30",
+    "minage": "10",
+    "image": "https://cf.geekdo-images.com/qhSNXXPrqHwMjXz5lcoOGA__original/img/IO0AVpQ_iVLQI3bS8NhnKNlEAOM=/0x0/filters:format(jpeg)/pic9517319.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/qhSNXXPrqHwMjXz5lcoOGA__small/img/4mGCduepK3DrqJiyOnY1flqX-f4=/fit-in/200x150/filters:strip_icc()/pic9517319.jpg",
+    "rating": 6.8,
+    "weight": 1.19
   },
   "Beccato": {
-    "query": "Beccato",
-    "matched": false
+    "matched": true,
+    "bgg_id": "338797",
+    "bgg_name": "Beccato",
+    "year": "2020",
+    "minplayers": "4",
+    "maxplayers": "9",
+    "playingtime": "20",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/84maAZCDOCt3XaLa___wWQ__original/img/SQqITmc0IAs2JokxeQYTdmYibL0=/0x0/filters:format(jpeg)/pic6222260.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/84maAZCDOCt3XaLa___wWQ__small/img/AfrkCHEfMl9Rzo6hoI-2Ke7tp0Y=/fit-in/200x150/filters:strip_icc()/pic6222260.jpg",
+    "rating": 6.4,
+    "weight": 1.0
   },
   "Shit Happens": {
-    "query": "Shit Happens",
-    "matched": false
+    "matched": true,
+    "bgg_id": "196379",
+    "bgg_name": "Shit Happens",
+    "year": "2016",
+    "minplayers": "2",
+    "maxplayers": "8",
+    "playingtime": "60",
+    "minage": "18",
+    "image": "https://cf.geekdo-images.com/-DIfXIDpTWS7m3J9yg87oQ__original/img/q1U4KRwR5wuLY9QGhOhoU_GyMrM=/0x0/filters:format(jpeg)/pic3943080.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/-DIfXIDpTWS7m3J9yg87oQ__small/img/SB8g7W1Zh3o4V9M1o1s4xMpGgTU=/fit-in/200x150/filters:strip_icc()/pic3943080.jpg",
+    "rating": 5.3,
+    "weight": 1.05
   },
   "Kluster": {
-    "query": "Kluster",
-    "matched": false
+    "matched": true,
+    "bgg_id": "277458",
+    "bgg_name": "Kluster",
+    "year": "2018",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "playingtime": "20",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/emWxjnD9LSb6NSkX2h2p0w__original/img/ZBvmBJnIRLjFdLtmcga0nHnA_dg=/0x0/filters:format(jpeg)/pic9151948.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/emWxjnD9LSb6NSkX2h2p0w__small/img/xiyD7bFM4vDD4yynKyZlW0lnEhc=/fit-in/200x150/filters:strip_icc()/pic9151948.jpg",
+    "rating": 6.5,
+    "weight": 1.04
   }
 }
