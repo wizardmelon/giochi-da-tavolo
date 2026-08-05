@@ -109,6 +109,7 @@ def fetch_thing(bgg_id):
             break
     image_el = item.find("image")
     thumb_el = item.find("thumbnail")
+    desc_el = item.find("description")
     stats = item.find("statistics/ratings")
     rating = None
     weight = None
@@ -118,6 +119,34 @@ def fetch_thing(bgg_id):
         wt = stats.find("averageweight")
         weight = wt.get("value") if wt is not None else None
 
+    categories = [l.get("value") for l in item.findall("link[@type='boardgamecategory']")]
+    mechanics = [l.get("value") for l in item.findall("link[@type='boardgamemechanic']")]
+    expansions_bgg = [l.get("value") for l in item.findall("link[@type='boardgameexpansion']")]
+
+    best_players = None
+    lang_dependence = None
+    for poll in item.findall("poll"):
+        if poll.get("name") == "suggested_numplayers":
+            best_votes = {}
+            for res in poll.findall("results"):
+                numplayers = res.get("numplayers")
+                for r in res.findall("result"):
+                    if r.get("value") == "Best":
+                        best_votes[numplayers] = int(r.get("numvotes", 0))
+            if best_votes:
+                max_votes = max(best_votes.values())
+                if max_votes > 0:
+                    best_players = ", ".join(sorted(
+                        (k for k, v in best_votes.items() if v == max_votes),
+                        key=lambda x: int(re.sub(r"[^0-9]", "", x) or 0)
+                    ))
+        elif poll.get("name") == "language_dependence":
+            results = poll.find("results")
+            if results is not None:
+                top = max(results.findall("result"), key=lambda r: int(r.get("numvotes", 0)), default=None)
+                if top is not None and int(top.get("numvotes", 0)) > 0:
+                    lang_dependence = top.get("value")
+
     return {
         "bgg_id": bgg_id,
         "bgg_name": name,
@@ -125,9 +154,17 @@ def fetch_thing(bgg_id):
         "minplayers": text("minplayers"),
         "maxplayers": text("maxplayers"),
         "playingtime": text("playingtime"),
+        "minplaytime": text("minplaytime"),
+        "maxplaytime": text("maxplaytime"),
         "minage": text("minage"),
         "image": image_el.text if image_el is not None else None,
         "thumbnail": thumb_el.text if thumb_el is not None else None,
+        "description": (desc_el.text or "").strip() if desc_el is not None else None,
+        "categories": categories,
+        "mechanics": mechanics,
+        "expansions_bgg": expansions_bgg,
+        "best_players": best_players,
+        "language_dependence": lang_dependence,
         "rating": round(float(rating), 1) if rating else None,
         "weight": round(float(weight), 2) if weight else None,
     }
@@ -164,11 +201,7 @@ def main():
                 json.dump(cache, f, ensure_ascii=False, indent=2)
             time.sleep(1.2)
 
-        merged = {
-            "name": title,
-            "expansions": g.get("expansions", []),
-            **{k: v for k, v in entry.items()},
-        }
+        merged = {**g, **entry}
         results.append(merged)
 
     with open(OUT_PATH, "w", encoding="utf-8") as f:

@@ -14,9 +14,45 @@
     "minplayers": "2",
     "maxplayers": "5",
     "playingtime": "90",
+    "minplaytime": "90",
+    "maxplaytime": "90",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/_al0scMG_pQfGVM31Scf1Q__original/img/h4jBTaOjznJgWELa6tTrfPqqSeA=/0x0/filters:format(jpeg)/pic6107853.jpg",
     "thumbnail": "https://cf.geekdo-images.com/_al0scMG_pQfGVM31Scf1Q__small/img/OMVAMJX95HNO-vSRdk-kGjAzzBY=/fit-in/200x150/filters:strip_icc()/pic6107853.jpg",
+    "description": "Play as a god of ancient Egypt, competing to survive as society begins to forget the old ways, so that only you and your followers remain.\n\nBuild caravans, summon monsters, and convert followers in your quest to reign supreme in Ankh: Gods of Egypt. Deities, monsters, and the people of ancient Egypt have been lovingly reimagined and interpreted in beautiful illustrations and detailed miniatures, and players will truly feel like gods as they shake the very foundations of Egypt. All gameplay in Ankh, including combat, is streamlined and non-random. Compete and win solely on your godly wits alone.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Ancient",
+      "Fantasy",
+      "Fighting",
+      "Mythology",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Retrieval",
+      "Alliances",
+      "Area Majority / Influence",
+      "Auction: Sealed Bid",
+      "Card Play Conflict Resolution",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Kill Steal",
+      "Player Elimination",
+      "Race",
+      "Tech Trees / Tech Tracks",
+      "Variable Player Powers"
+    ],
+    "expansions_bgg": [
+      "Ankh (2nd Edition): Eternal Expansion Pack",
+      "Ankh: Gods of Egypt – Enigma Sphinx Promo Card",
+      "Ankh: Gods of Egypt – Guardians Set",
+      "Ankh: Gods of Egypt – Pantheon",
+      "Ankh: Gods of Egypt – Pharaoh",
+      "Ankh: Gods of Egypt – Tomb of Wonders",
+      "Iron Maiden Pack #1",
+      "Iron Maiden Pack #2"
+    ],
+    "best_players": "2",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.7,
     "weight": 3.13
   },
@@ -35,9 +71,56 @@
     "minplayers": "1",
     "maxplayers": "5",
     "playingtime": "120",
+    "minplaytime": "90",
+    "maxplaytime": "120",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/SPpzri7fwLRgVWMKOocHxw__original/img/4TI0rpw6w0EpkgfvQpusj5Idmpw=/0x0/filters:format(png)/pic9712872.png",
     "thumbnail": "https://cf.geekdo-images.com/SPpzri7fwLRgVWMKOocHxw__small/img/5efn0qgWmGKa-JNYzcD3wAx7ybU=/fit-in/200x150/filters:strip_icc()/pic9712872.png",
+    "description": "In Cthulhu: Death May Die, inspired by the writings of H.P. Lovecraft, you and your fellow players represent investigators in the 1920s who instead of trying to stop the coming of Elder Gods, want to summon those otherworldly beings so that you can put a stop to them permanently. You start the game insane, and while your long-term goal is to shoot Cthulhu in the face, so to speak, at some point during the game you'll probably fail to mitigate your dice rolls properly and your insanity will cause you to do something terrible &mdash; or maybe advantageous. Hard to know for sure.\n\nThe game has multiple episodes, and each of them has a similar structure of two acts, those being before and after you summon whatever it is you happen to be summoning. If any character dies prior to the summoning, then the game ends and you lose; once the Elder One is on the board, as long as one of you is still alive, you still have a chance to win.\n\nThe episodes are all standalone and not contingent on being played in a certain order or with the same players.",
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Horror",
+      "Miniatures",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Movement",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Role Playing",
+      "Scenario / Mission / Campaign Game",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "expansions_bgg": [
+      "Cthulhu: Death May Die – Atlach-Nacha Elder One Box",
+      "Cthulhu: Death May Die – Black Goat of the Woods",
+      "Cthulhu: Death May Die – CMON Comics: Vol. 1 Promos",
+      "Cthulhu: Death May Die – CMON Comics: Vol. 2 Promos",
+      "Cthulhu: Death May Die – Dark Providence Investigators",
+      "Cthulhu: Death May Die – Exclusive Insanities",
+      "Cthulhu: Death May Die – Extra Campaigns",
+      "Cthulhu: Death May Die – Fear of the Unknown: Animal Allies",
+      "Cthulhu: Death May Die – Godzilla Rising",
+      "Cthulhu: Death May Die – Godzilla Vs Cthulhu",
+      "Cthulhu: Death May Die – Ithaqua the Wind-Walker",
+      "Cthulhu: Death May Die – R'lyeh Rising",
+      "Cthulhu: Death May Die – R'lyehian Seizures Promo",
+      "Cthulhu: Death May Die – Robinson Crusoe Investigator",
+      "Cthulhu: Death May Die – Scarlett Hayes",
+      "Cthulhu: Death May Die – Season 2 Expansion",
+      "Cthulhu: Death May Die – Season 4 Expansion",
+      "Cthulhu: Death May Die – Season 6",
+      "Cthulhu: Death May Die – Unspeakable Box",
+      "Cthulhu: Death May Die – Yog–Sothoth",
+      "Iron Maiden Pack #1",
+      "Iron Maiden Pack #2",
+      "Iron Maiden Pack #3"
+    ],
+    "best_players": "3",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 8.2,
     "weight": 2.49
   },
@@ -51,9 +134,93 @@
     "minplayers": "2",
     "maxplayers": "5",
     "playingtime": "60",
+    "minplaytime": "30",
+    "maxplaytime": "60",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__original/img/LOC8D0q01ZRvZ6v1n7l8Zueos-E=/0x0/filters:format(jpeg)/pic9580918.jpg",
     "thumbnail": "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__small/img/XE-BFNwHZ0NZVko1pCj3gdFaGxY=/fit-in/200x150/filters:strip_icc()/pic9580918.jpg",
+    "description": "Ticket to Ride: Europe takes you on a new train adventure across Europe. From Edinburgh to Constantinople and from Lisbon to Moscow, you'll visit great cities of turn-of-the-century Europe. Like the original Ticket to Ride, the game remains elegantly simple, can be learned in 5 minutes, and appeals to both families and experienced gamers. Ticket to Ride: Europe is a complete, new game and does not require the original version.\n\nMore than just a new map, Ticket to Ride: Europe features brand new gameplay elements. Tunnels may require you to pay extra cards to build on them, Ferries require locomotive cards in order to claim them, and Stations allow you to sacrifice a few points in order to use an opponent's route to connect yours. The game also includes larger format cards and Train Station game pieces.\n\nThe overall goal remains the same: collect and play train cards in order to place your pieces on the board, attempting to connect cities on your ticket cards. Points are earned both from placing trains and completing tickets but uncompleted tickets lose you points. The player who has the most points at the end of the game wins.\n\nCopyright 2002-2014 Days of Wonder, inc.\n\nPart of the Ticket to Ride series.",
+    "categories": [
+      "Trains"
+    ],
+    "mechanics": [
+      "Connections",
+      "Contracts",
+      "End Game Bonuses",
+      "Hand Management",
+      "Network and Route Building",
+      "Open Drafting",
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "expansions_bgg": [
+      "Alsace (fan expansion for Ticket to Ride)",
+      "Austria (fan expansion of Ticket to Ride)",
+      "Les Aventuriers du Rail: à Lyon (fan expansion for Ticket to Ride)",
+      "Les Aventuriers du Rail: en Belgique (fan expansion to Ticket to Ride)",
+      "Baltic Sea (Östersjön) (fan expansion for Ticket to Ride: Rails & Sails)",
+      "Bretagne (fan expansion for Ticket to Ride)",
+      "Bretagne TT Version (fan expansion for Ticket to Ride)",
+      "Britain & Ireland (fan expansion for Ticket to Ride: Europe)",
+      "Castilla y León (fan expansion for Ticket to Ride)",
+      "Eurasia (fan expansion for Ticket to Ride)",
+      "Extension France (fan expansion for Ticket to Ride)",
+      "Göteborg (fan expansion for Ticket to Ride)",
+      "Holland (fan expansion for Ticket to Ride)",
+      "Holland Express (fan expansion for Ticket to Ride)",
+      "Hungarian Kingdom 1899 (fan expansion for Ticket to Ride)",
+      "Italy (fan expansion for Ticket to Ride)",
+      "Italy (fan expansion for Ticket to Ride)",
+      "Italy (fan expansion for Ticket to Ride)",
+      "Komorów (fan expansion for Ticket to Ride)",
+      "Lietuva (fan expansion for Ticket to Ride)",
+      "London Underground (fan expansion for Ticket to Ride)",
+      "Mexico (fan expansion for Ticket to Ride)",
+      "New destination tickets (fan expansion for Ticket to Ride Europe)",
+      "Norrköping/Linköping (fan expansion for Ticket to Ride)",
+      "North-Africa (fan expansion for Ticket to Ride)",
+      "Øresund Runt (fan expansion for Ticket to Ride)",
+      "Östergötland (fan expansion for Ticket to Ride)",
+      "Östergötland in the 1930's (fan expansion for Ticket to Ride)",
+      "Portugal (fan expansion for Ticket to Ride)",
+      "România (fan expansion for Ticket to Ride: Europe)",
+      "Russian Empire 1912 (fan expansion for Ticket to Ride)",
+      "Sardinia (fan expansion for Ticket to Ride)",
+      "Scandinavia (fan expansion for Ticket to Ride)",
+      "Skåne (fan expansion for Ticket to Ride)",
+      "South-East Sweden 1925 (fan expansion for Ticket to Ride)",
+      "Sweden (fan expansion for Ticket to Ride)",
+      "Tåg till Rydsgård (fan expansion for Ticket to Ride)",
+      "Tåg till Rydsgård: andra upplagan (fan expansion for Ticket to Ride)",
+      "Ticket to Finland (fan expansion for Ticket to Ride)",
+      "Ticket to Ride Map Collection 1: Asia + Legendary Asia",
+      "Ticket to Ride Map Collection 2: India & Switzerland",
+      "Ticket to Ride Map Collection 3: The Heart of Africa",
+      "Ticket to Ride Map Collection 4: Nederland",
+      "Ticket to Ride Map Collection 5: United Kingdom & Pennsylvania",
+      "Ticket to Ride Map Collection 6: France & Old West",
+      "Ticket to Ride Map Collection 6½: Poland",
+      "Ticket to Ride Map Collection 7: Japan & Italy",
+      "Ticket to Ride Map Collection 8: Iberia & South Korea",
+      "Ticket to Ride Syria (fan expansion for Ticket to Ride)",
+      "Ticket to Ride: Alvin & Dexter",
+      "Ticket to Ride: Europa 1912",
+      "Ticket to Ride: Europe – London/København",
+      "Ticket to Ride: Europe – Orient Express",
+      "Ticket To Ride: Italia – Commemorazione Per il Centenario del Milite Ignoto 1921 - 2021",
+      "Ticket to Ride: Stay at Home",
+      "Ticket to Ride: Switzerland",
+      "Ticket to Ride: The Dice Expansion",
+      "Triveneto (fan expansion for Ticket to Ride)",
+      "UK (fan expansion for Ticket to Ride)",
+      "UK (fan expansion for Ticket to Ride)",
+      "UK Cynical Edition (fan expansion for Ticket to Ride)",
+      "UK version 2.0 (fan expansion for Ticket to Ride)",
+      "Ukraine (fan expansion for Ticket to Ride)",
+      "USSR (fan expansion for Ticket to Ride)"
+    ],
+    "best_players": "4",
+    "language_dependence": "No necessary in-game text",
     "rating": 7.5,
     "weight": 1.91
   },
@@ -69,9 +236,52 @@
     "minplayers": "3",
     "maxplayers": "5",
     "playingtime": "120",
+    "minplaytime": "90",
+    "maxplaytime": "120",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__original/img/pKJ1XyLN4hvHim5eRj2VJHijv1E=/0x0/filters:format(jpeg)/pic3880340.jpg",
     "thumbnail": "https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__small/img/UNKv6MWzJUAwhhP7-ng6HoinRa8=/fit-in/200x150/filters:strip_icc()/pic3880340.jpg",
+    "description": "The great and forgotten Kami have returned from the underworld, displeased with the affairs of the Empire&rsquo;s present Shōgun. At the start of spring in the Great New Year, the Kami have gathered their sacred clans with one quest: reclaim the lands of Nippon and return them to their honorable, spiritual traditions. However, each clan is bound by their own proud traditions to a unique vision for this great return and must wage a powerful diplomatic war across eight provinces. Alliances must be forged, betrayal is inevitable, honorable standing rises and falls. Political mandates must be navigated and devastating war must be fought, each won by expert skill and cunning negotiation. And only one may stand victorious at the coming of winter. You, honorable Shōgun, lead one of these great clans. Do you have the strength of honor, virtue, and spirit, as well as the mastery of steel necessary to deliver on this ancient promise?\n\nRising  Sun is a board game for 3 to 5 players set in legendary feudal Japan. Each player chooses a Clan and competes to lead theirs to victory by accumulating Victory Points over the course of the Seasons. Each Clan possesses a unique ability and differs in Seasonal Income, Starting Honor Rank, and Home Province.\nOver the course of the game, players will forge and break alliances, choose political actions, worship the gods, customize their clans, and position their figures around Japan. In the process, Honor is a palpable element in Rising Sun: Having high Honor gives several advantages, while having low Honor may grant the allegiance of the darker elements of the world. But above all, Honor settles all disputes: Whenever there is a tie, the tied player with the highest Honor wins.\n\nIn Rising  Sun, players are encouraged to use diplomacy, negotiation, and even bribery to further their cause. Players can make deals at any point in the game but no deals are truly binding.\nVictory Points can be gained in several ways, from winning battles, to harvesting the right provinces, to playing to the Virtues accumulated by your Clan.\n\nThe game is played over the course of 4 rounds or Seasons: Spring, Summer, and then Autumn; when  Winter  comes,  the  game  draws to a close and players calculate bonuses to decide who is the winner. \nEach Season is divided into five phases: \n1) Seasonal Setup because every Season has a certain Season deck with different cards, \n2) Tea Ceremony in which players sit down and negotiate their Alliances for the Season, \n3) Political Phase during which players will select Political Mandates to prepare their Clans and position their forces,\n4) War Phase, during which players battle over several Provinces, and \n5) Seasonal Cleanup.\n\nAs already mentioned, the start of the Winter Season signifies the end of the game. Peace falls over the land as it gets covered in white snow, and a new Emperor will rise under the power of the great Kami.",
+    "categories": [
+      "Bluffing",
+      "Fantasy",
+      "Mythology",
+      "Negotiation",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Alliances",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Auction: Sealed Bid",
+      "Betting and Bluffing",
+      "Closed Drafting",
+      "End Game Bonuses",
+      "Follow",
+      "Force Commitment",
+      "Negotiation",
+      "Set Collection",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Variable Phase Order",
+      "Variable Player Powers",
+      "Variable Set-up"
+    ],
+    "expansions_bgg": [
+      "Iron Maiden Pack #1",
+      "Raging Sun (fan expansion for Rising Sun)",
+      "Rising Sun (2nd Edition): Celestial Influence",
+      "Rising Sun: Comic Book Extras",
+      "Rising Sun: Daimyo Box",
+      "Rising Sun: Dynasty Invasion",
+      "Rising Sun: Kami Unbound",
+      "Rising Sun: Monster Pack",
+      "Rising Sun: Promo 1 – Sacred Warrior, Phoenix, and Nure-Onna",
+      "Rising Sun: Tower Season Cards Set"
+    ],
+    "best_players": "4",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.8,
     "weight": 3.3
   },
@@ -80,6 +290,7 @@
     "expansions": [
       "5° Giocatore"
     ],
+    "maxplayers_override": 5,
     "matched": true,
     "bgg_id": "170216",
     "bgg_name": "Blood Rage",
@@ -87,9 +298,49 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "90",
+    "minplaytime": "60",
+    "maxplaytime": "90",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__original/img/Myy6IPDJDzLoPdXrPXVZcddBQoQ=/0x0/filters:format(jpeg)/pic2439223.jpg",
     "thumbnail": "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__small/img/NLhVdU8xazrgS5dA6nVCYmN2DNI=/fit-in/200x150/filters:strip_icc()/pic2439223.jpg",
+    "description": "\"Life is Battle; Battle is Glory; Glory is ALL\"\n\nIn Blood Rage, players control the warriors, leader, and ship of their own Viking clan. Ragnar&ouml;k has come and it&rsquo;s the end of the world! It&rsquo;s the Vikings&rsquo; last chance to go down in a blaze of glory and secure their places in Valhalla at Odin&rsquo;s side! As a Viking you can pursue one of many pathways to glory. You can: invade and pillage the land for its rewards; crush your opponents in battle: fulfill quests: increase your clan's stats: or even die gloriously in battle or from Ragnar&ouml;k, the ultimate inescapable doom.\n\nMost player strategies are guided by the cards drafted at the beginning of each of the three game rounds (or Ages). These &ldquo;Gods&rsquo; Gifts&rdquo; grant you numerous boons for your clan including: increased Viking strength and devious battle strategies, upgrades to your clan, or even the aid of legendary creatures from Norse mythology. They may also include various quests, from dominating specific provinces, to having many of your Vikings sent to Valhalla. Most of these cards are aligned with one of the Norse gods, hinting at the kind of strategy they support. For example, Thor gives more glory for victory in battle. Heimdall grants you foresight and surprises. Tyr strengthens you in battle, while the trickster Loki actually rewards you for losing battles or punishes the winner.\n\nPlayers must choose their strategies carefully during the draft phase, but also be ready to adapt and react to their opponents&rsquo; strategies as the action phase unfolds. Battles are decided not only by the strength of the figures involved but also by cards played in secret. By observing your opponent&rsquo;s actions and allegiances to specific gods you may predict what card they are likely to play, and plan accordingly. Winning battles is not always the best course of action, as the right card can get you even more rewards by being crushed. The only losing strategy in Blood Rage is to shy away from battle and a glorious death!",
+    "categories": [
+      "Fantasy",
+      "Fighting",
+      "Miniatures",
+      "Mythology"
+    ],
+    "mechanics": [
+      "Action Points",
+      "Area Majority / Influence",
+      "Area Movement",
+      "Card Play Conflict Resolution",
+      "Closed Drafting",
+      "Contracts",
+      "Hand Management",
+      "Interrupts",
+      "Map Reduction",
+      "Memory",
+      "Simultaneous Action Selection",
+      "Take That",
+      "Turn Order: Progressive"
+    ],
+    "expansions_bgg": [
+      "Blood Rage (2nd Edition): End Times",
+      "Blood Rage: 5th Player Expansion",
+      "Blood Rage: 5th Player Extras – Kickstarter Exclusives",
+      "Blood Rage: Fenrir",
+      "Blood Rage: Gods of Ásgard",
+      "Blood Rage: Hili – The Even-Handed",
+      "Blood Rage: Mountain Giant",
+      "Blood Rage: Mystic Troll",
+      "Blood Rage: Mystics of Midgard",
+      "Blood Rage: Promos Box",
+      "Blood Rage: Wildboar Clan Expansion",
+      "Blood Rage: Wolfman"
+    ],
+    "best_players": "4",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.9,
     "weight": 2.88
   },
@@ -103,9 +354,40 @@
     "minplayers": "1",
     "maxplayers": "8",
     "playingtime": "60",
+    "minplaytime": "30",
+    "maxplaytime": "60",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/-JcXkwLKB0LoHmPotzQA6Q__original/img/ADCITOxTL8YZF2TyiOin_1k1M-g=/0x0/filters:format(png)/pic6366846.png",
     "thumbnail": "https://cf.geekdo-images.com/-JcXkwLKB0LoHmPotzQA6Q__small/img/kELuHmMqAa1a17mhPyLrkje6dVM=/fit-in/200x150/filters:strip_icc()/pic6366846.png",
+    "description": "Trapped in a prison in which each room has four doors but apparently no exit, the players must try to find Room 25, the supposed exit to this nightmare. But some amongst them might be guardians of the prison, waiting for the right moment to strike. In the cooperative game Room 25, not everyone wants to escape from imprisonment &ndash; but who is the traitor? Each turn, the player moves are preprogrammed, requiring discussion, negotiation &ndash; and possibly betrayal.\n\nRoom 25 Ultimate has 2 great game modes:\n\nSocial hidden identity and Cooperation. With its 2 levels, it offers a fluid and exciting experience for 1 to 8 players..\n\nThis version includes the base game and the first expansion.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Bluffing",
+      "Horror",
+      "Maze",
+      "Movies / TV / Radio theme",
+      "Science Fiction"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Cooperative Game",
+      "Memory",
+      "Modular Board",
+      "Player Elimination",
+      "Simultaneous Action Selection",
+      "Team-Based Game",
+      "Traitor Game",
+      "Variable Player Powers"
+    ],
+    "expansions_bgg": [
+      "Room 25: Dice Tower Promo Tile",
+      "Room 25: Escape Room",
+      "Room 25: Festival",
+      "Room 25: Promo – The Audience",
+      "Room 25: VIP",
+      "Room 25: VIP – Raptor Promo Tile"
+    ],
+    "best_players": "6",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.3,
     "weight": 2.14
   },
@@ -119,9 +401,26 @@
     "minplayers": "3",
     "maxplayers": "10",
     "playingtime": "30",
+    "minplaytime": "30",
+    "maxplaytime": "30",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/jdR8WW75HkaoHGMTCIx9lA__original/img/i8nlw_c9CYgJMzixadYVh7GTTPc=/0x0/filters:format(jpeg)/pic5390676.jpg",
     "thumbnail": "https://cf.geekdo-images.com/jdR8WW75HkaoHGMTCIx9lA__small/img/EJ5gcczwsYvSavYuO4UoNPS45vo=/fit-in/200x150/filters:strip_icc()/pic5390676.jpg",
+    "description": "What hue do you think of when we say &ldquo;apple&rdquo;? Hues and Cues is a vibrant game of colorful communication where players are challenged to make connections to colors with words. Using only one and two-word cues, players try to get others to guess a specific hue from the 480 colors on the game board. The closer the guesses are to the target, the more points you earn. Since everyone imagines colors differently, connecting colors and clues has never been this much fun!\n\nGather around with three to ten people to play a quick and simple game with a prism of possibilities! First, a &ldquo;cue giver&rdquo; hides a specific color they&rsquo;ve chosen out of a deck of cards. There are 480 shades on the board in front of you! After getting one- and two-word cues, everyone places their marker on which color they think is being described. &ldquo;Coffee.&rdquo; Is it dark brown, as in freshly brewed? &ldquo;Au lait.&rdquo; With milk. That means I should pick a lighter shade!\n\nUse examples from everyday life, from nature to pop culture, or materials and moods. Everyone around the table gets a turn to give cues and guess. The better your hints or guesses, the more points you earn. Play off others' experiences to narrow down what they have in mind!\n\n&mdash;description from the publisher",
+    "categories": [
+      "Deduction",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Deduction",
+      "Score-and-Reset Game",
+      "Targeted Clues",
+      "Turn Order: Progressive"
+    ],
+    "expansions_bgg": [],
+    "best_players": "6",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.4,
     "weight": 1.06
   },
@@ -131,6 +430,7 @@
       "Meteo",
       "Peloton"
     ],
+    "maxplayers_override": 6,
     "matched": true,
     "bgg_id": "199478",
     "bgg_name": "Flamme Rouge",
@@ -138,9 +438,44 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "45",
+    "minplaytime": "30",
+    "maxplaytime": "45",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/sUrK5CCscls-tTc2hJWDPg__original/img/hQOFypZgCn4CQrJnXiNaQc_hjCw=/0x0/filters:format(jpeg)/pic3482521.jpg",
     "thumbnail": "https://cf.geekdo-images.com/sUrK5CCscls-tTc2hJWDPg__small/img/tBSMuRSHRl4M8-dVxcThAC1yXbs=/fit-in/200x150/filters:strip_icc()/pic3482521.jpg",
+    "description": "The excitement in the air is electric as the leaders round the last corner and head for the finish line. Each team has used cunning and skill to position their sprinter for this moment, but only one has done enough to pull off the win!\n\nWill your team lead from the front and risk exhaustion? Should you play it safe in the middle of the pack? Could you surprise everyone by striking from the back? Can you time your move perfectly?\n\nAnyone can race, few become champions!\n\nFlamme Rouge is a fast-paced, tactical bicycle racing game where each player controls a team of two riders: a Rouleur and a Sprinteur. The players&rsquo; goal is to be the first to cross the finish line with one of their riders. Players move their riders forward by drawing and playing cards from that riders specific deck, depleting it as they go. Use slipstreams to avoid exhaustion and position your team for a well timed sprint for the win.",
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "mechanics": [
+      "Catch the Leader",
+      "Hand Management",
+      "Modular Board",
+      "Programmed Movement",
+      "Race",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Track Movement"
+    ],
+    "expansions_bgg": [
+      "Brettspiel Adventskalender 2017",
+      "Flamme Rouge: Brettspiel Adventskalender 2017 Promo",
+      "Flamme Rouge: Dice Tower Stage Cards Promo Pack",
+      "Flamme Rouge: Etape de la Vallée",
+      "Flamme Rouge: Grand Tour",
+      "Flamme Rouge: Le Grand Baroud (Team Direct Énergie)",
+      "Flamme Rouge: Le Grand Tour 2018",
+      "Flamme Rouge: Meteo",
+      "Flamme Rouge: Peloton",
+      "Flamme Rouge: Plateaux de Wallonie",
+      "Flamme Rouge: Styrkeprøven",
+      "Flamme Rouge: Team Trial",
+      "Flamme Rouge: Vätternrundan",
+      "Flamme Rouge: Vuokatin vaara"
+    ],
+    "best_players": "4",
+    "language_dependence": "No necessary in-game text",
     "rating": 7.5,
     "weight": 1.7
   },
@@ -154,9 +489,35 @@
     "minplayers": "1",
     "maxplayers": "6",
     "playingtime": "60",
+    "minplaytime": "30",
+    "maxplaytime": "60",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__original/img/CK6xh0d01jIC7WOIGALHZCDli34=/0x0/filters:format(jpeg)/pic7227691.jpg",
     "thumbnail": "https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__small/img/SYowoPc4NsBcU6duKGUM93itzZY=/fit-in/200x150/filters:strip_icc()/pic7227691.jpg",
+    "description": "Rippling rivers, rustling forests, wheat fields swaying in the wind and here and there a cute little village - that's Dorfromantik! The video game from the small developer studio Toukana Interactive has been thrilling the gaming community since its Early Access in March 2021 and has already won all kinds of prestigious awards. Now Michael Palm and Lukas Zach are transforming the popular building strategy and puzzle game into a family game for young and old with Dorfromantik: The Board Game.\n\nIn Dorfromantik: The Board Game, up to six players work together to lay hexagonal tiles to create a beautiful landscape and try to fulfill the orders of the population, while at the same time laying as long a track and as long a river as possible, but also taking into account the flags that provide points in enclosed areas. The better the players manage to do this, the more points they can score at the end. In the course of the replayable campaign, the points earned can be used to unlock new tiles that are hidden in initially locked boxes. These pose new, additional tasks for the players and make it possible to raise the high score higher and higher.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Environmental",
+      "Puzzle",
+      "Territory Building",
+      "Video Game Theme"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Cooperative Game",
+      "Hexagon Grid",
+      "Map Addition",
+      "Modular Board",
+      "Scenario / Mission / Campaign Game",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "expansions_bgg": [
+      "Dorfromantik: Expansion Content from Dorfromantik – The Duel",
+      "Dorfromantik: The Board Game – Die Wetterau",
+      "Dorfromantik: The Board Game – Great Mill"
+    ],
+    "best_players": "2",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.6,
     "weight": 1.64
   },
@@ -170,9 +531,37 @@
     "minplayers": "1",
     "maxplayers": "6",
     "playingtime": "60",
+    "minplaytime": "30",
+    "maxplaytime": "60",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__original/img/iXU8a9WaVlwrkiEiOxWN06y9y5g=/0x0/filters:format(png)/pic6940449.png",
     "thumbnail": "https://cf.geekdo-images.com/-vOrd4bOspibyohYExLqWg__small/img/2GbaKvYOzWIxfgbYTk2R9puiyzo=/fit-in/200x150/filters:strip_icc()/pic6940449.png",
+    "description": "Based on simple and intuitive hand management, Heat: Pedal to the Metal puts players in the driver's seat of intense car races, jockeying for position to cross the finish line first, while managing their car's speed if they don't want to overheat. Selecting the right upgrades for their car will help them hug the curves and keep their engine cool enough to maintain top speeds. Ultimately, their driving skills will be the key to victory!\n\nDrivers can compete in a single race or use the \"Championship System\" to play a whole season in one game night, customizing their car before each race to claim the top spot of the podium. They have to be careful as the weather, road conditions, and events will change every race to spice up their championship. Players can also enjoy a solo mode with the Legends Module or add automated drivers as additional opponents in multiplayer games.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Racing",
+      "Sports"
+    ],
+    "mechanics": [
+      "Catch the Leader",
+      "Deck, Bag, and Pool Building",
+      "Hand Management",
+      "Programmed Movement",
+      "Push Your Luck",
+      "Race",
+      "Simulation",
+      "Simultaneous Action Selection",
+      "Solo / Solitaire Game",
+      "Track Movement",
+      "Variable Set-up"
+    ],
+    "expansions_bgg": [
+      "Heat: Heavy Rain",
+      "Heat: Legends",
+      "Heat: Rocky Roads",
+      "Heat: Tunnel Vision"
+    ],
+    "best_players": "6",
+    "language_dependence": "No necessary in-game text",
     "rating": 8.0,
     "weight": 2.2
   },
@@ -186,9 +575,141 @@
     "minplayers": "3",
     "maxplayers": "4",
     "playingtime": "120",
+    "minplaytime": "60",
+    "maxplaytime": "120",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__original/img/oRc0AomWA9ZtFqQDZiZbIyKE1j0=/0x0/filters:format(png)/pic9156909.png",
     "thumbnail": "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__small/img/SNVfF23OQafv3u8xdFolJnMkBoM=/fit-in/200x150/filters:strip_icc()/pic9156909.png",
+    "description": "In CATAN (formerly The Settlers of Catan), players try to be the dominant force on the island of Catan by building settlements, cities and roads. On each turn dice are rolled to determine which resources the island produces. Players build structures by 'spending' resources (sheep, wheat, wood, brick and ore) which are represented by the relevant resource cards; each land type, with the exception of the unproductive desert, produces a specific resource: hills produce brick, forests produce wood, mountains produce ore, fields produce wheat, and pastures produce sheep.\n\nSet-up includes randomly placing large hexagonal tiles (each depicting one of the five resource-producing terrain types--or the desert) in a honeycomb shape and surrounding them with water tiles, some of which contain ports of exchange. A number disk, the value of which will correspond to the roll of two 6-sided dice, are placed on each terrain tile. Each player is given two settlements (think: houses) and roads (sticks) which are placed on intersections and borders of the terrain tiles. Players collect a hand of resource cards based on which terrain tiles their last-placed settlement is adjacent to. A robber pawn is placed on the desert tile.\n\nA turn consists of rolling the dice, collecting resource cards based on this dice roll and the position of settlements (or upgraded cities&mdash;think: hotels), turning in resource cards (if possible and desired) for improvements, trading cards at a port, possibly playing a development card, or trading resource cards with other players. If the dice roll is a 7, the active player moves the robber to a new terrain tile and steals a resource card from another player who has a settlement adjacent to that tile.\n\nPoints are accumulated by building settlements and cities, having the longest road or the largest army (from some of the development cards), and gathering certain development cards that simply award victory points. When a player has gathered 10 points (some of which may be held in secret), s/he announces this and claims the win.",
+    "categories": [
+      "Economic",
+      "Negotiation"
+    ],
+    "mechanics": [
+      "Chaining",
+      "Dice Rolling",
+      "Hand Management",
+      "Hexagon Grid",
+      "Hidden Victory Points",
+      "Income",
+      "Market",
+      "Modular Board",
+      "Network and Route Building",
+      "Race",
+      "Random Production",
+      "Take That",
+      "Trading",
+      "Variable Set-up"
+    ],
+    "expansions_bgg": [
+      "The Dragon & Wizards of Catan",
+      "18CTN",
+      "20 Jahre Darmstadt Spielt",
+      "Brettspiel Adventskalender 2015",
+      "Catan Austria / Wien meets Catan",
+      "Catan Cenários: Portugal",
+      "Catan Geographies: Austria",
+      "Catan Geographies: Bayern Edition",
+      "Catan Geographies: Corsica",
+      "Catan Geographies: Georgia",
+      "Catan Geographies: Kennessee",
+      "Catan Geographies: Mallorca",
+      "Catan Geographies: North Rhine – Westphalia",
+      "Catan Geographies: Rickshaw Run",
+      "Catan Geographies: Settlers of Hesse",
+      "Catan Geographies: The Carolinas",
+      "Catan Rhein-Main-Neckar",
+      "Catan Scenario #westayathome",
+      "Catan Scenario: Crop Trust",
+      "Catan Scenario: Durango",
+      "Catan Scenario: Malta",
+      "Catan Scenarios:  Easter Bunny",
+      "Catan Scenarios: #WeStayHome",
+      "Catan Scenarios: Big Game Big Honor",
+      "Catan Scenarios: Catanimals",
+      "Catan Scenarios: Frenemies",
+      "Catan Scenarios: Global Warming",
+      "Catan Scenarios: Helpers of Catan",
+      "Catan Scenarios: Oil Springs",
+      "Catan scenariusze: Mapy – Polska",
+      "Catan: 5-6 Player Expansion",
+      "Catan: Catakatoa",
+      "Catan: Catan Day 2015 Exclusive Expansion",
+      "Catan: Cities & Knights",
+      "Catan: Cities & Knights – 5-6 Player Extension",
+      "Catan: Cities & Knights – Legend of the Conquerors",
+      "Catan: Delmarva",
+      "Catan: Die Stoffräuber",
+      "Catan: Ein Herz für den Räuber!",
+      "Catan: Event Cards",
+      "Catan: Explorers & Pirates",
+      "Catan: Explorers & Pirates – 5-6 Player Extension",
+      "Catan: Hawai'i Scenario",
+      "Catan: High Priests of the Inkas",
+      "Catan: Indiana & Ohio",
+      "Catan: Mowlin, the Benevolent Ram",
+      "Catan: New England",
+      "Catan: New York",
+      "Catan: Penn-Jersey",
+      "Catan: Playmat Atoll",
+      "Catan: Playmat Desert",
+      "Catan: Playmat Gold",
+      "Catan: Playmat Island",
+      "Catan: Seafarers",
+      "Catan: Seafarers – 5-6 Player Extension",
+      "Catan: Seafarers Scenario – Legend of the Sea Robbers",
+      "Catan: Seefahrer – 20 Jahre Jubiläums-Edition",
+      "Catan: Soccer Fever Scenario",
+      "Catan: Szenario Der Kölner Dom",
+      "Catan: The Helpers",
+      "Catan: The Helpers – Leader of the Flock",
+      "Catan: Traders & Barbarians",
+      "Catan: Traders & Barbarians – 5-6 Player Expansion",
+      "Catan: Treasures, Dragons & Adventurers",
+      "Combat & Politics",
+      "The Explorers of Catan",
+      "Der Hafenmeister",
+      "Heroes & Capitols (fan expansion for Settlers of Catan)",
+      "Hexen, Zauberer & Drachen (fan expansion for Catan: Cities and Knights)",
+      "Katani  pankur",
+      "Kirche, Glaube & Reformation (fan expansion for Catan: Cities and Knights)",
+      "De Kolonisten van Catan: De Diamanten",
+      "De Kolonisten van Catan: De drie Handelsteden van Noord-Nederland",
+      "De Kolonisten van Catan: De Koloniën",
+      "De Kolonisten van Catan: De Specialisten",
+      "De Kolonisten van Catan: De Wereldwonderen",
+      "De Kolonisten van Catan: De Woestijnruiters",
+      "De Kolonisten van Catan: Het Grote Kanaal",
+      "Settlers of Crypto: The Siege",
+      "Mayfair Game Variants & Mini-Expansions Set #1",
+      "Mayfair Games' Limited Edition Promo Expansion Set #17",
+      "Pax Romana",
+      "Die Pioniere (fan expansion for The Settlers of Catan)",
+      "Random Events & Treachery",
+      "Rise of Civilizations",
+      "Saggsen-Gadan: De säggs'schn Siedler / Catan-OFFENSIVE in Chemnitz",
+      "Settlers of Catan Scenario: The Jungle",
+      "Settlers of Catan Scenario: The Volcano",
+      "The Settlers of Catan: The Fishermen of Catan",
+      "The Settlers of Catan: The Great River",
+      "Settlers of New Catan (and extra modules)",
+      "Die Siedler von Catan: Atlantis – Szenarien & Varianten",
+      "Die Siedler von Catan: Cheops",
+      "Die Siedler von Catan: Das Buch zum Spielen",
+      "Die Siedler von Catan: Der Schokoladenmarkt",
+      "Die Siedler von Catan: Die große Karawane",
+      "Die Siedler von Catan: Hispania Edition",
+      "Die Siedler von Catan: Historische Szenarien",
+      "Die Siedler von Catan: Historische Szenarien II",
+      "Die Siedler von Catan: Hochzeitsturm",
+      "Die Siedler von Catan: Renaissance in der Steiermark & Burgbau auf Chaffenberch",
+      "Die Siedler von Catan: Rincewind und der Tourist  /  Die Gilden von Ankh-Morpork",
+      "Die Siedler von Catan: Thüringen Edition",
+      "Die Siedler von Luxemburg",
+      "World Wonders (fan expansion for Catan)"
+    ],
+    "best_players": "4",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.1,
     "weight": 2.28
   },
@@ -202,9 +723,45 @@
     "minplayers": "1",
     "maxplayers": "5",
     "playingtime": "70",
+    "minplaytime": "40",
+    "maxplaytime": "70",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw=/0x0/filters:format(jpeg)/pic4458123.jpg",
     "thumbnail": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__small/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg",
+    "description": "Wingspan is&nbsp;a competitive, medium-weight, card-driven, engine-building board game from Stonemaier Games. It's designed by Elizabeth Hargrave and features 180 birds illustrated by Natalia Rojas and Ana Maria Martinez.\n\nYou are bird enthusiasts&mdash;researchers, bird watchers, ornithologists, and collectors&mdash;seeking to discover and attract the best birds to your network of wildlife preserves. Each bird extends a chain of powerful combinations in one of your habitats (actions). These habitats  focus on several key aspects of growth:\n\n\n     Gain food tokens via custom dice in a birdfeeder dice tower\n     Lay eggs using egg miniatures in a variety of colors\n     Draw from hundreds of unique bird cards and play them\n\n\nThe winner is the player with the most points after 4 rounds.\n\n&mdash;description from the publisher\n\nFrom the 7th printing on, the base game box includes Wingspan: Swift-Start Promo Pack.",
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Educational"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Hand Management",
+      "Once-Per-Game Abilities",
+      "Open Drafting",
+      "Set Collection",
+      "Solo / Solitaire Game",
+      "Turn Order: Progressive"
+    ],
+    "expansions_bgg": [
+      "Frogmouth Fan Pack (fan expansion for Wingspan)",
+      "Wingspan: Americas Expansion",
+      "Wingspan: European Expansion",
+      "Wingspan: Fan-Designed Bird Promo Pack – Additional Asian Avians",
+      "Wingspan: Fan-Designed Bird Promo Pack – Birds of Canada",
+      "Wingspan: Fan-Designed Bird Promo Pack – Birds of Continental Europe",
+      "Wingspan: Fan-Designed Bird Promo Pack – Birds of New Zealand",
+      "Wingspan: Fan-Designed Bird Promo Pack – Birds of the U.S.A.",
+      "Wingspan: Fan-Designed Bird Promo Pack – British Birds",
+      "Wingspan: Fan-Designed Card Packs – Set 1",
+      "Wingspan: Grus Japonensis Promo Card",
+      "Wingspan: Oceania Expansion",
+      "Wingspan: Swift-Start Promo Pack"
+    ],
+    "best_players": "3",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 8.0,
     "weight": 2.48
   },
@@ -218,9 +775,27 @@
     "minplayers": "2",
     "maxplayers": "7",
     "playingtime": "40",
+    "minplaytime": "15",
+    "maxplaytime": "40",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/6XFaGyeG_ZrvO7lna8kDQA__original/img/z1DgjKhNsUMeX0I45RYPx20a-bQ=/0x0/filters:format(jpeg)/pic4419988.jpg",
     "thumbnail": "https://cf.geekdo-images.com/6XFaGyeG_ZrvO7lna8kDQA__small/img/S8yL6oyGY5EnFMwZfcxN3tto9L8=/fit-in/200x150/filters:strip_icc()/pic4419988.jpg",
+    "description": "An exceptional party game where imaginary ancient Egyptians are trying to overcome the language barrier with&hellip; Aliens.\n\nIn each turn Aliens would draw weird symbols, trying to explain which earthly items they&rsquo;d like to collect. Puzzled Egyptians are to figure out what this could mean. On top of that, Aliens compete for being the first to grab the souvenirs and fly back home, while each human wants to be the best at learning the Alien language!\n\n&laquo;First Contact&raquo; is perfect for associative-deductive games lovers. The unique theme adds even more fun to the game process, and every setup gives players new puzzles to solve. Incredibly good time guaranteed!",
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Humor",
+      "Party Game",
+      "Science Fiction",
+      "Word Game"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Deduction"
+    ],
+    "expansions_bgg": [],
+    "best_players": "6",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.9,
     "weight": 1.98
   },
@@ -234,9 +809,31 @@
     "minplayers": "2",
     "maxplayers": "99",
     "playingtime": "20",
+    "minplaytime": "10",
+    "maxplaytime": "20",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__original/img/zPbWjPYgLscrjd96Uitf3GTPb34=/0x0/filters:format(jpeg)/pic4991962.jpg",
     "thumbnail": "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__small/img/0qjQ2T0wXNZDVvMie54bEVmKeT8=/fit-in/200x150/filters:strip_icc()/pic4991962.jpg",
+    "description": "Eat brains. Don't get shotgunned.\n\nIn Zombie Dice, you are a zombie. You want braaains &ndash; more brains than any of your zombie buddies. The 13 custom dice are your victims. Push your luck to eat their brains, but stop rolling before the shotgun blasts end your turn! Whoever collects 13 brains first wins. Each game takes 10 to 20 minutes and can be taught in a single round.\n\nEach turn, you take three dice from the box and roll them. A brain symbol is worth one point at the end of the round, while footsteps allow you to reroll this particular dice. Shotgun blasts on the other hand are rather bad, cause if you collect three shotgun blasts during your turn, it is over for you and you get no points. After rolling three dice, you may decide if you want to score your current brain collection or if you want to push your luck by grabbing new dice so you have three again and roll once more.",
+    "categories": [
+      "Dice",
+      "Horror",
+      "Humor",
+      "Party Game",
+      "Zombies"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Push Your Luck",
+      "Re-rolling and Locking"
+    ],
+    "expansions_bgg": [
+      "Zombie Dice 2: Double Feature",
+      "Zombie Dice 3: School Bus"
+    ],
+    "best_players": "4",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.2,
     "weight": 1.09
   },
@@ -250,9 +847,42 @@
     "minplayers": "1",
     "maxplayers": "8",
     "playingtime": "120",
+    "minplaytime": "60",
+    "maxplaytime": "120",
     "minage": "13",
     "image": "https://cf.geekdo-images.com/ptDZ2tJ6dSNiONAx3HH8Tw__original/img/iu21NR45DwHyFY-UPW0m7hwY_vw=/0x0/filters:format(jpeg)/pic3514298.jpg",
     "thumbnail": "https://cf.geekdo-images.com/ptDZ2tJ6dSNiONAx3HH8Tw__small/img/TKoDj4fKzLa_m45TCQeDGcBf63o=/fit-in/200x150/filters:strip_icc()/pic3514298.jpg",
+    "description": "Have you ever had the desire to walk the streets of Victorian London with Sherlock Holmes in search of Professor Moriarty? To search the docks for the giant rat of Sumatra? To walk up Baker Street as the fog is rolling in and hear Holmes cry out, \"Come, Watson, come! The game is afoot!\"? Now you can! You can enter the opium den beneath the Bar of Gold, but beware, that may be Colonel Sebastian Moran lurking around the corner. You can capture the mystery and excitement of Holmes' London in this challenging and informative game. You, the player, will match your deductive abilities against your opponents and the master sleuth himself, Sherlock Holmes.\n\nIn Sherlock Holmes Consulting Detective, you are presented with a mystery to solve, and it is then up to you to trace the threads of evidence through the byways and mansions of nineteenth century London. You will interview suspects, search the newspapers for clues, and put together the facts to reach a solution.\n\nWhy were two lions murdered in Hyde Park? Who is responsible for the missing paintings from the National Gallery? Who murdered Oswald Mason and why? These are just a few of the cases that will challenge your ingenuity and deductive abilities.\n\nThis is not a board game: No dice, no luck, but a challenge to your mental ability. The game has been thoroughly researched for Holmesian and Victorian accuracy so as to capture a feeling of that bygone era.",
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Novel-based",
+      "Post-Napoleonic"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Narrative Choice / Paragraph",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ],
+    "expansions_bgg": [
+      "The Diavolo Case (fan expansion for Sherlock Holmes Consulting Detective)",
+      "Sherlock Holmes Consulente Investigativo: Il Mistero dell'Impiccato",
+      "Sherlock Holmes Consulting Detective: Adventures by Gaslight",
+      "Sherlock Holmes Consulting Detective: Murder Behind Closed Doors",
+      "Sherlock Holmes Consulting Detective: Sherlock Holmes & The Baby",
+      "Sherlock Holmes Consulting Detective: The Mansion Murders",
+      "Sherlock Holmes Consulting Detective: The Queen's Park Affair",
+      "Sherlock Holmes Détective Conseil: L'Homme Sans Visage",
+      "Sherlock Holmes Détective Conseil: La Piste Tordue",
+      "Sherlock Holmes Détective Conseil: La rançon du diable",
+      "Sherlock Holmes Détective Conseil: Les Masques Africains",
+      "Sherlock Holmes Détective Conseil: Octobre 1891",
+      "Sherlock Holmes Détective Conseil: Oliver Stone"
+    ],
+    "best_players": "2",
+    "language_dependence": "Unplayable in another language",
     "rating": 7.6,
     "weight": 2.66
   },
@@ -266,9 +896,28 @@
     "minplayers": "1",
     "maxplayers": "8",
     "playingtime": "90",
+    "minplaytime": "90",
+    "maxplaytime": "90",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/o3B4ld2Nz9e7wQuRhxJBDw__original/img/z6PE755XxEt8AdNJAlVJnMQoMHs=/0x0/filters:format(jpeg)/pic3238299.jpg",
     "thumbnail": "https://cf.geekdo-images.com/o3B4ld2Nz9e7wQuRhxJBDw__small/img/bYTNTaCtTbEBVmjcyMcyekgIFio=/fit-in/200x150/filters:strip_icc()/pic3238299.jpg",
+    "description": "Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures is a standalone expansion to Sherlock Holmes Consulting Detective with updated graphics that features ten more cases to be solved in Sherlock Holmes' Victorian-era London, England. A \"London Directory\", map, and newspaper archives are included with the cases.\n\nIncluded are six independent \"West End Adventures\" cases (redesigned and updated from the 1995 expansion), and a series of four new cases based on the Jack the Ripper murders.\n\nJack the Ripper Cases:\n\n      Mary Ann Nichols\n      Annie Chapman\n      Elizabeth Stride, Catherine Eddowes\n      Mary Jane Kelly\n\n\nWest End Adventures:\n\n      The Strange Case of Dr. Goldfire\n      The Murder of Sherlock Holmes\n      A Case of Identity\n      The Death of a Transylvanian Count\n      A Royal Huggermugger at the Savage Club\n      A Simple Case of Murder",
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Novel-based",
+      "Post-Napoleonic",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Narrative Choice / Paragraph",
+      "Solo / Solitaire Game",
+      "Storytelling"
+    ],
+    "expansions_bgg": [],
+    "best_players": "2",
+    "language_dependence": "Unplayable in another language",
     "rating": 7.5,
     "weight": 2.21
   },
@@ -282,9 +931,28 @@
     "minplayers": "1",
     "maxplayers": "8",
     "playingtime": "90",
+    "minplaytime": "90",
+    "maxplaytime": "90",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/g9Y8cisx4RqmiFgVqONYxg__original/img/m_dxitgQJeA6wEBUyCEe1YL6skU=/0x0/filters:format(jpeg)/pic4484880.jpg",
     "thumbnail": "https://cf.geekdo-images.com/g9Y8cisx4RqmiFgVqONYxg__small/img/L4I7VOTAxN_2D0thjrSQ_09HoBw=/fit-in/200x150/filters:strip_icc()/pic4484880.jpg",
+    "description": "Welcome to the Carlton House. Enjoy the luxury and solve the murders! How about a stroll in beautiful Queen's Park? Beware dogs and the occasional crime scene&hellip;\n\nReturn to the streets of Victorian London, but also venture into brand new locations in the latest installment in the Sherlock Holmes Consulting Detective line: Carlton House & Queen's Park! Like the previously released The Thames Murders and Other Cases, Carlton House & Queen's Park introduces ten exciting cases, each one drawing players deep into the world of Sherlock Holmes. Among these cases includes two classic, long out-of-print expansions which are now revised and updated. Whether you're playing solo or with up to eight possible players, you need your wits about you to solve the cases and beat Holmes himself!\n\n&mdash;description from the publisher",
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Novel-based",
+      "Post-Napoleonic",
+      "Puzzle",
+      "Spies / Secret Agents"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Narrative Choice / Paragraph",
+      "Storytelling"
+    ],
+    "expansions_bgg": [],
+    "best_players": "2",
+    "language_dependence": "Unplayable in another language",
     "rating": 7.7,
     "weight": 2.24
   },
@@ -298,9 +966,26 @@
     "minplayers": "1",
     "maxplayers": "8",
     "playingtime": "90",
+    "minplaytime": "90",
+    "maxplaytime": "90",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/demwo7nCkIHbUcFohLwfsQ__original/img/rKRPGfBV4dKWehRNWBsEsM3RuWM=/0x0/filters:format(jpeg)/pic5198810.jpg",
     "thumbnail": "https://cf.geekdo-images.com/demwo7nCkIHbUcFohLwfsQ__small/img/1OnuuguBS4FcheU9o0XLTQoGKj8=/fit-in/200x150/filters:strip_icc()/pic5198810.jpg",
+    "description": "In 1880, Sherlock Holmes appointed a group of street children as The Baker Street Irregulars, his unofficial \"police force\". This is their story, and the story of a particular year that thrusts the Irregulars and the master detective into a series of challenging and dangerous events...\n\nSherlock Holmes Consulting Detective is a cooperative game where the players try to solve mysterious cases by walking the foggy London streets in search of clues. Unravel the thread of intrigue, answer a series of questions, and compare your detective skills to those of the master sleuth himself, Sherlock Holmes.\n\nThe Baker Street Irregulars is a standalone game containing ten cases, including introductory cases that are perfect for new players, while also offering novel mechanisms and surprises to give seasoned investigators something different.\n\nCases:\n\n1. The Curzon Street Kidnapping\n2. The Mudlark Mystery\n3. The Three Customers\n4. The Promise\n5. The Red River Valley\n6. The Busker of Bridge Street\n7. The Tiger's Eye\n8. The Heist in Harp Lane\n9. The Dog in the Night Time\n10. Death of a Detective",
+    "categories": [
+      "Deduction",
+      "Murder / Mystery",
+      "Novel-based"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Narrative Choice / Paragraph",
+      "Storytelling"
+    ],
+    "expansions_bgg": [],
+    "best_players": "2",
+    "language_dependence": "Unplayable in another language",
     "rating": 8.2,
     "weight": 2.27
   },
@@ -314,9 +999,35 @@
     "minplayers": "2",
     "maxplayers": "8",
     "playingtime": "60",
+    "minplaytime": "20",
+    "maxplaytime": "60",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__original/img/G5HKV77V6Q62qaArIHGRLjMnvzY=/0x0/filters:format(jpeg)/pic636868.jpg",
     "thumbnail": "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__small/img/Y_o8GdhShAWME_ZH2c7yTxHJIWk=/fit-in/200x150/filters:strip_icc()/pic636868.jpg",
+    "description": "In Citadels, players take on new roles each round to represent characters they hire in order to help them acquire gold and erect buildings. The game ends at the close of a round in which a player erects his/her eighth building. Players then tally their points, and the player with the highest score wins.\n\nPlayers start with a number of building cards in their hand; buildings come in five colors, with the purple buildings typically having a special ability and the other colored buildings providing a benefit when you play particular characters. At the start of each round, the player who was king the previous round discards one of the eight character cards at random, chooses one, then passes the cards to the next player, etc. until each player has secretly chosen a character. Each character has a special ability, and the usefulness of any character depends upon your situation, and that of your opponents. The characters then carry out their actions in numerical order: the assassin eliminating another character for the round, the thief stealing all gold from another character, the wizard swapping building cards with another player, the warlord optionally destroys a building in play, and so on.\n\nOn a turn, a player earns two or more gold (or draws two building cards then discards one), then optionally constructs one building (or up to three if playing the architect this round). Buildings cost gold equal to the number of symbols on them, and each building is worth a certain number of points. In addition to points from buildings, at the end of the game a player scores bonus points for having eight buildings or buildings of all five colors.\n\nThe expansion Citadels: The Dark City was initially released as a separate item, but the second edition of the game from Hans im Gl&uuml;ck (packaged in a tin box) and the third edition from Fantasy Flight Games included this expansion and can be recognized by its rectangular box (not square). With Dark City, Citadels supports a maximum of eight players.",
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "City Building",
+      "Deduction",
+      "Fantasy",
+      "Medieval"
+    ],
+    "mechanics": [
+      "Action Drafting",
+      "Closed Drafting",
+      "Income",
+      "Lose a Turn",
+      "Set Collection",
+      "Take That",
+      "Turn Order: Role Order",
+      "Variable Player Powers"
+    ],
+    "expansions_bgg": [
+      "Citadels: The Dark City"
+    ],
+    "best_players": "5",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.1,
     "weight": 2.05
   },
@@ -329,9 +1040,25 @@
     "minplayers": "1",
     "maxplayers": "4",
     "playingtime": "90",
+    "minplaytime": "60",
+    "maxplaytime": "90",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/3yeiNlbVyZgncmTYVRy5vw__original/img/hvPqBSshgiha-Hmt-fJJR2s89r8=/0x0/filters:format(png)/pic4968290.png",
     "thumbnail": "https://cf.geekdo-images.com/3yeiNlbVyZgncmTYVRy5vw__small/img/JP9z17MAUw2aiTz8NFIYSDCkPIk=/fit-in/200x150/filters:strip_icc()/pic4968290.png",
+    "description": "Michael is the most complex case of Dissociative Personality Disorder ever studied. His actions are guided by 24 different Personalities, who take over him and control his mind and his body relentlessly.\nEven if his case became famous and the media talked about him for some times, nobody really found a solution to help him and he is now old, living with his mother in a country house.\nIn the role of 4 brilliant psychiatry students, you will be asked to talk to Michael one last time, in order to understand who &ldquo;they&rdquo; are and how they can be finally reunite with the real Michael. But you will have to be very careful, someone is not pleased by your presence...\n\nMichael is a cooperative game with a strong narrative component. The game is divided into 4 round called &ldquo;Sessions&rdquo;, where the players talk with the Personalities and discuss about their requests and the hints they give to comprehend the thick connections between them. Every time the players talk with Michael, the Stress of the patient increase, pushing the players to understand when it&rsquo;s time to take a break, switch to the next Session and give him some rest. But with the time passing, the game evolves: thanks to 4 different decks of answers, the Personalities change their behavior. Some of them will understand the importance of your effort and help you, but someone else want you to fail in the attempt, so they can remain alive in Michael&rsquo;s mind. Each Personality has a request and has a reaction, listen to them will lead the players to carefully talk with them in the right moment, obtaining objects useful to satisfy the requests of someone else, and so on.\nMichael is a &ldquo;mind puzzle&rdquo;, fully replayable thanks to the mathematic system beneath the game and the random starting setup that creates a different path each time the game is played.\n\n&mdash;description from the designers",
+    "categories": [
+      "Card Game",
+      "Murder / Mystery",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Narrative Choice / Paragraph",
+      "Set Collection"
+    ],
+    "expansions_bgg": [],
+    "best_players": "4",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 6.5,
     "weight": 2.4,
     "matched": true
@@ -346,9 +1073,25 @@
     "minplayers": "3",
     "maxplayers": "6",
     "playingtime": "45",
+    "minplaytime": "30",
+    "maxplaytime": "45",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/AUYtLDXh-sawBG8rEuJ2yg__original/img/nTGVnkwKx_12YJWGRCHasT-3GJc=/0x0/filters:format(png)/pic3779573.png",
     "thumbnail": "https://cf.geekdo-images.com/AUYtLDXh-sawBG8rEuJ2yg__small/img/O39cnxhff2SmObFvKGbS0zs7DSA=/fit-in/200x150/filters:strip_icc()/pic3779573.png",
+    "description": "Are you ready to discover Lovecraftian words in Vudulhu, the party game that cursed thousands of players with tentacles?\n\nGive your opponents a hard time by casting curses on them, forcing them to maintain twisted poses, gurgle like shoggoths, and hold things as if they have tentacles instead of arms and hands. You will gain victory points if they don't resist...",
+    "categories": [
+      "Action / Dexterity",
+      "Humor",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Acting",
+      "Dice Rolling",
+      "Hand Management"
+    ],
+    "expansions_bgg": [],
+    "best_players": "5, 6",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.2,
     "weight": 1.33
   },
@@ -364,9 +1107,42 @@
     "minplayers": "2",
     "maxplayers": "2",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__original/img/mWOQnkpyYBorh_Y1-0Y2o-ew17k=/0x0/filters:format(jpeg)/pic7398904.jpg",
     "thumbnail": "https://cf.geekdo-images.com/uXMeQzNenHb3zK7Hoa6b2w__small/img/WyPClajMWU9lV5BdCXiZnqdZgmU=/fit-in/200x150/filters:strip_icc()/pic7398904.jpg",
+    "description": "Sky Team is a co-operative game, exclusively for two players, in which you play a pilot and co-pilot at the controls of an airliner. Your goal is to work together as a team to land your airplane in different airports around the world.\n\nTo land your plane, you need to silently assign your dice to the correct spaces in your cockpit to balance the axis of your plane, control its speed, deploy the flaps, extend the landing gear, contact the control tower to clear your path, and even have a little coffee to improve your concentration enough to change the value of your dice.\n\nIf the aircraft tilts too much and stalls, overshoots the airport, or collides with another aircraft, you lose the game...and your pilot's license...and probably your life.\n\nFrom Montreal to Tokyo, each airport offers its own set of challenges. Watch out for the turbulence as this could end up being a bumpy ride!\n\n&mdash;description from the publisher",
+    "categories": [
+      "Aviation / Flight",
+      "Dice"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Dice Rolling",
+      "Scenario / Mission / Campaign Game",
+      "Turn Order: Progressive",
+      "Variable Player Powers",
+      "Variable Set-up",
+      "Worker Placement with Dice Workers"
+    ],
+    "expansions_bgg": [
+      "Halo wieża: WAW Warszawa, Lotnisko Chopina",
+      "Sky Team: BLQ Guglielmo Marconi",
+      "Sky Team: BUD Budapest Ferenc Liszt",
+      "Sky Team: CDG Paris-Charles de Gaulle",
+      "Sky Team: DUS Düsseldorf",
+      "Sky Team: LGA La Guardia",
+      "Sky Team: MAD Madrid-Barajas",
+      "Sky Team: NZIR Ice Runway",
+      "Sky Team: PKX Beijing Daxing",
+      "Sky Team: TER Lajes, Açores",
+      "Sky Team: Turbulence",
+      "Пілоти: KBP Бориспіль (Sky Team: KBP Boryspil)"
+    ],
+    "best_players": "2",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 8.1,
     "weight": 2.04
   },
@@ -380,9 +1156,37 @@
     "minplayers": "2",
     "maxplayers": "6",
     "playingtime": "30",
+    "minplaytime": "30",
+    "maxplaytime": "30",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/nceIrgwaOiQkYvlaby9omg__original/img/cu78u4yKVsThG543ZDcdFPWKo3E=/0x0/filters:format(jpeg)/pic269322.jpg",
     "thumbnail": "https://cf.geekdo-images.com/nceIrgwaOiQkYvlaby9omg__small/img/aqKsLetSwttHiFBJUi54GqFwtFY=/fit-in/200x150/filters:strip_icc()/pic269322.jpg",
+    "description": "1939. The German war machine starts steamrolling over Europe. Earth and sky are aflame with battles. It&rsquo;s the dawn of the largest war fought by mankind, and supremacy in the air can mean victory or defeat.\n\nThe WW2 series of Wings of War is an easy, fun to play, fast and furious system which previous fans of the game will be able to start playing minutes after opening the box! New game mechanics support a simulation which must encompass planes with very different flight capabilities and firepower, while still keeping the flow of the combat simple as it is in the WW1 series. The innovations to maneuver cards and to the fire deck system provide all the needed historical accuracy with no headaches to the players!\n\n&ldquo;Dawn of War&rdquo; is the first set in the new series of Wings of War games, which will allow you to re-create dogfights, bombing missions, escorts, and endless other aerial combat situations set in World War Two. Including fighter planes from the first years (1939-1941) of the war, but also used later in the conflict, &ldquo;Dawn of War&rdquo; provides the foundation for a new, exciting evolution of the Wings of War system. Pilot a Spitfire, a Messerschmitt, a Hurricane, a Wildcat, a Zero... Up to 6 planes can fly with the contents of this set, for scenarios with 2 to 6 players.\n\nPart of the Wings of War series\n\nRe-Implemented by:\n\n     Wings of War: WW2 Deluxe set\n     Wings of War: WW2 Airplane Packs\n     Wings of Glory: WW2 Starter Set",
+    "categories": [
+      "Aviation / Flight",
+      "Card Game",
+      "Miniatures",
+      "Wargame",
+      "World War II"
+    ],
+    "mechanics": [
+      "Action Queue",
+      "Movement Template",
+      "Player Elimination",
+      "Programmed Movement",
+      "Simulation",
+      "Simultaneous Action Selection"
+    ],
+    "expansions_bgg": [
+      "Wings of War: Eagles of the Reich Squadron Pack",
+      "Wings of War: Flying Legend Squadron Pack",
+      "Wings of War: Rain of Destruction",
+      "Wings of War: Revolution in the Sky Squadron Pack",
+      "Wings of War: The Dawn of World War II – Aichi D3A1 Val",
+      "Wings of War: The Last Biplanes Squadron Pack"
+    ],
+    "best_players": "4",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.9,
     "weight": 1.96
   },
@@ -396,9 +1200,26 @@
     "minplayers": "2",
     "maxplayers": "12",
     "playingtime": "60",
+    "minplaytime": "15",
+    "maxplaytime": "60",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/DqWfi4J7tpAe36Do_p4v5w__original/img/F8EobzZNqU0PYAwQ21KF3D0w5hs=/0x0/filters:format(png)/pic4745794.png",
     "thumbnail": "https://cf.geekdo-images.com/DqWfi4J7tpAe36Do_p4v5w__small/img/l2BB2-ExwKOY7HM65kBo4E-f6cs=/fit-in/200x150/filters:strip_icc()/pic4745794.png",
+    "description": "BILDER is a tabletop game for 2 to 12 players  where you unleash your imagination.\n\nUse the 40 wooden pieces to create structures, tell stories and move the pieces around to make scenes come to life. Guess what the others are making to collect all the letters in B-I-L-D-E-R and win the game.   \nEveryone takes turns being the bilder. That's when you get to use wooden bilding blocks to bild something as the other players guess.\n\nFirst, you draw a What card. The 'What' card gives you 2 choices of things to bild, could be anything. The letters and colors represent the category. There are six in total: \n\n     Category Beings is for biological bodies, be it human being, beast, or botanical. Examples could be a lumberjack, or conjoined twins.\n     Category Imagined indicates invented ideas and implausible imaginings, including Frankenstein&rsquo;s monster or the Tooth fairy\n     Category Locations lists lots of places and landmarks, local or less closeby,  like the Berlin Wall or the Garden of Eden.\n     Category Devices designates doodads and doohickeys. The domain of designed objects, like a jetpack or a game boy.\n     Category Events entails epic or everyday encounters and experiences, for example a rocket launch or an alien abduction\n     Category rest is a random ragbag of everything that remains outside the reach of previous categories, like Wheel of Fortune or a witch burning.\n\n\nThe goal of the game is to collect all 6 letters, which conveniently spell out B-I-L-D-E-R.\n\nYou earn cards by guessing whatever the bilder is bilding. The Bilder, however, can only score a letter by choosing one of 3 revealed HOW cards. \n\n     Most HOW cards make bilding harder by adding an extra rule\n     Some HOW cards make it easier, by allowing extra hints\n\n\nChallenges are wildcards that change the game rules. Not just bilding something, but a test of skill that you must pass to earn this card. It&rsquo;s also a joker that can be used as any letter.\n\n&mdash;description from the designer",
+    "categories": [
+      "Action / Dexterity",
+      "Deduction",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Pattern Building",
+      "Simulation"
+    ],
+    "expansions_bgg": [
+      "Bilder: The Complex Expansion"
+    ],
+    "best_players": "4, 5, 6",
+    "language_dependence": null,
     "rating": 6.6,
     "weight": 2.0
   },
@@ -412,9 +1233,29 @@
     "minplayers": "4",
     "maxplayers": "16",
     "playingtime": "30",
+    "minplaytime": "30",
+    "maxplaytime": "30",
     "minage": "13",
     "image": "https://cf.geekdo-images.com/rKOHJmJWSjKPMVGZlCr6vQ__original/img/bmd-sjhrnuHFnwDt0UvzQ9vahtM=/0x0/filters:format(jpeg)/pic5335995.jpg",
     "thumbnail": "https://cf.geekdo-images.com/rKOHJmJWSjKPMVGZlCr6vQ__small/img/jFmP_QAwm8uzABZb14xgMgLadqc=/fit-in/200x150/filters:strip_icc()/pic5335995.jpg",
+    "description": "Aye, Dark Overlord! is a fantasy party game filled with humor that's fast to play and easy to learn.\n\nEach player is an evil goblin servant of the evil Dark Overlord &mdash; Rigor Mortis, the Master of all Evils &mdash; and all of them are gathered at the Dark Overlord's knees to explain why they brought that last important mission, ordered by \"His Evil Excellence\" himself, to failure again. Panic wraps you in its freezing grip; what can you do to save your poor skin? Could you say you are not the one to blame, but your inept companions? Yes, of course, that's the solution! There is only one little problem: They've probably got exactly the same idea...and the Dark Overlord is not known for his mercy...\n\nThis roleplaying game is all about telling lies and shifting the blame on your poor fellow ones, so the righteous wrath of your Master can give them what they deserve!\n\nAye, Dark Overlord! The Red Box is the most recent name of this game, to distinguish it from The Green Box, which is both a standalone game and an expansion for this one.",
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Humor",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Acting",
+      "Role Playing",
+      "Single Loser Game",
+      "Storytelling"
+    ],
+    "expansions_bgg": [
+      "Sì, Oscuro Signore! 2: L'alba degli eroi"
+    ],
+    "best_players": "5",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 5.8,
     "weight": 1.28
   },
@@ -428,9 +1269,63 @@
     "minplayers": "2",
     "maxplayers": "5",
     "playingtime": "60",
+    "minplaytime": "40",
+    "maxplaytime": "60",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4=/0x0/filters:format(jpeg)/pic7578350.jpg",
     "thumbnail": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__small/img/Xq8TNBmMl3Z7DoynvbUXchFAztc=/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
+    "description": "In Forest Shuffle, players compete to gather the most valuable trees, then attract species to these trees, thus creating an ecologically balanced habitat for flora and fauna.\n\nTo start, each player has six cards in hand, with cards depicting either a particular type of tree or two forest dwellers (animal, plant, mushroom, etc.), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.\n\nOn a turn, either draw two cards &mdash; whether face down from the deck or face up from the clearing &mdash; and add them to your hand, or play a card from your hand by paying the cost, then putting it into play.\n\nDuring set-up, three winter cards were placed into the bottom third of the deck. When the third winter card is drawn, the game ends immediately, then players tally their points based on the trees and dwellers in their forest. Whoever scores the most points wins.\n\nForest Shuffle is the first in a line of Lookout games sporting the Lookout Greenline label, produced on FSC certified paper and avoiding plastic completely.",
+    "categories": [
+      "Animals",
+      "Card Game",
+      "Educational",
+      "Environmental"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Hand Management",
+      "Layering",
+      "Melding and Splaying",
+      "Multi-Use Cards",
+      "Open Drafting",
+      "Set Collection",
+      "Tags"
+    ],
+    "expansions_bgg": [
+      "Embosca't: Geneta / Teixó Promo Card",
+      "Forest Shuffle: Alpine",
+      "Forest Shuffle: Arara-Azul / Guaraná Promo Card",
+      "Forest Shuffle: Australian Magpie / Short-Beaked Echidna Promo Card",
+      "Forest Shuffle: Blue Jay / Beaver Promo Card",
+      "Forest Shuffle: Brimstone / Marsh Cinquefoil Promo Card",
+      "Forest Shuffle: Cardinal / Say's Firefly Promo Card",
+      "Forest Shuffle: Cerro Promo Card",
+      "Forest Shuffle: Chinese Hare / Red Panda Promo Card",
+      "Forest Shuffle: Cigüeña negra / Lince ibérico Promo card",
+      "Forest Shuffle: Dracula / Paeonia peregrina Promo Card",
+      "Forest Shuffle: Elk / Troll Promo Card",
+      "Forest Shuffle: Exploration",
+      "Forest Shuffle: Gibbon / Pitta Promo Card",
+      "Forest Shuffle: Hobby Next Promo Cards",
+      "Forest Shuffle: Lookout Promo Card",
+      "Forest Shuffle: Maple Promo Card",
+      "Forest Shuffle: Maretak / Bostulp Promo Card",
+      "Forest Shuffle: Robin / Water Vole Promo Card",
+      "Forest Shuffle: Roseate Spoonbill / American Alligator Promo Card",
+      "Forest Shuffle: Sheep / Robber Promo Card",
+      "Forest Shuffle: Woodland Edge",
+      "Forest Shuffle: Песец / Соболь Promo Card",
+      "Forêt Mixte: Cigale / Fourmi Rousse Promo Card",
+      "Forêt Mixte: Palmier Promo Card",
+      "Leśne Rozdanie: Żubr / Bocian biały Promo Card",
+      "Mischwald: Dürer-Fledermaus / Feldhase Promokarte",
+      "Mischwald: Kuckuck / Chanterelle Promo Card",
+      "Mischwald: Meeps / Frischling Promo Card",
+      "Mischwald: Oh Tannenbaum Promo Card",
+      "Mischwald: Rotkäppchen / Großer, böser Wolf Promo Card"
+    ],
+    "best_players": "2",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.7,
     "weight": 2.22
   },
@@ -444,9 +1339,27 @@
     "minplayers": "2",
     "maxplayers": "2",
     "playingtime": "30",
+    "minplaytime": "25",
+    "maxplaytime": "30",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/mbEOIk06ky59Wchkrx8Bow__original/img/Ez3Alxz68QDEshjRSY_VBdKdkg4=/0x0/filters:format(jpeg)/pic8113129.jpg",
     "thumbnail": "https://cf.geekdo-images.com/mbEOIk06ky59Wchkrx8Bow__small/img/JkooYmKkoqEJKNNXfq9EkzO2UP4=/fit-in/200x150/filters:strip_icc()/pic8113129.jpg",
+    "description": "Autumn has arrived, and the fall flowers color the forest. The robin announces the imminent cold and the hoopoe, almost ready for the great nocturnal migration, feeds itself with the last available food. The fox grows its winter coat and toads swarm the most humid areas of the grove, thriving with mushrooms and deciduous leaves.\n\nIn Fall you create, together with your opponent, an autumn ecosystem. You both place leaves tiles in the same environment to grow the forest and host its flora, fauna, and funga. However, each player scores points for different objectives, and only at the end of the game the opponent's scoring conditions will be revealed, thanks to the Fox, Bird, and Flower scoring cards, which are different for each player in each game.\n\nDuring the game, try to understand your opponent's strategy, to counteract it and make it turn in your favor.\n\nSingle tableau for both players, with variable scoring opportunities for each player.",
+    "categories": [
+      "Animals",
+      "Environmental",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Hexagon Grid",
+      "Hidden Victory Points",
+      "Pattern Building",
+      "Tile Placement"
+    ],
+    "expansions_bgg": [],
+    "best_players": "2",
+    "language_dependence": "No necessary in-game text",
     "rating": 7.3,
     "weight": 2.18
   },
@@ -460,9 +1373,29 @@
     "minplayers": "1",
     "maxplayers": "4",
     "playingtime": "90",
+    "minplaytime": "60",
+    "maxplaytime": "90",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/HmUxa92nnooCKC7RYGL9-g__original/img/bjhH_xl172XG8BujTWeZhoV0rxw=/0x0/filters:format(jpeg)/pic6978734.jpg",
     "thumbnail": "https://cf.geekdo-images.com/HmUxa92nnooCKC7RYGL9-g__small/img/m3AyLXWV3aJfjesjcmfaZRl-crM=/fit-in/200x150/filters:strip_icc()/pic6978734.jpg",
+    "description": "A continuation of the Set A Watch series, Forsaken Isles features a new band of adventurers sailing to islands and other tropical locations to face new monsters and challenges.\n\nDefend your campfire from a horde of creatures and unhallowed bosses using each hero's unique abilities to survive the night. One hero stays in camp to rest and maintain the fire while the others battle. Each round, you draw a new location to setup camp in. Survive all 8 nights (rounds) to win the game.\n\nNew adventurers include:\n\n    Corsair who earns coin by defeating enemies and mitigates bad dice rolls by taking gambles.\n    Druid who has their own unique nature deck full of animals that will aid him in battle. This deck can allow the Druid to shapeshift or seed the creature deck with his animal allies.\n    Earth Golem with d12 dice whose powers trigger off the location card for each round of the game. It can use stored earth essence to pip up its dice when bad luck strikes, making it one of the most consistent warriors in the series.\n    Fire Sorceress who draws her power from the campfire itself. Drawing too much from the fire means you can see less enemies in the darkness so balancing offensive abilities with her other abilities that rekindle the campfire are essential.\n\n\nSet a Watch: Forsaken Isles is both a standalone game for 1-4 players and an expansion that can be combined with the original Set A Watch and Set A Watch: Swords of the Coin.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Adventure",
+      "Card Game",
+      "Fantasy"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Dice Rolling",
+      "Solo / Solitaire Game",
+      "Variable Player Powers"
+    ],
+    "expansions_bgg": [
+      "Set a Watch: Doomed Run",
+      "Set a Watch: Winterlands"
+    ],
+    "best_players": "1",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 7.9,
     "weight": 2.75
   },
@@ -476,9 +1409,25 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "45",
+    "minplaytime": "30",
+    "maxplaytime": "45",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/sx6284Fv2m-VHjGes1pADw__original/img/PGOKdJyiJtTXYB_Ly5V9_eR9jmE=/0x0/filters:format(png)/pic8273396.png",
     "thumbnail": "https://cf.geekdo-images.com/sx6284Fv2m-VHjGes1pADw__small/img/pdkwVaa8fsF3HMnyiFwzPknH1IA=/fit-in/200x150/filters:strip_icc()/pic8273396.png",
+    "description": "Deep in the forest, the Tree Society is a prospering community that wants to expand the neighborhood to welcome newcomers.\n\nIn the game Tree Society, players are asked to help various guilds follow the blueprints to construct new buildings. Take advantage of other players to sell your resources at the best price, and earn the favor of new guilds by skillfully combining their powers.\n\nEveryone around the table works together to help the Tree Society, but only one can climb to the top and claim victory!\n\n&mdash;description from the publisher",
+    "categories": [
+      "Economic",
+      "Fantasy"
+    ],
+    "mechanics": [
+      "End Game Bonuses",
+      "Income",
+      "Set Collection",
+      "Variable Set-up"
+    ],
+    "expansions_bgg": [],
+    "best_players": "2, 3",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 6.5,
     "weight": 2.08
   },
@@ -492,9 +1441,40 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "120",
+    "minplaytime": "60",
+    "maxplaytime": "120",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__original/img/43ianMZOks7UHlZILx0VBRntOmM=/0x0/filters:format(png)/pic8145530.png",
     "thumbnail": "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__small/img/Ry-6KHwNgERWadyxs1X1_P3dMvY=/fit-in/200x150/filters:strip_icc()/pic8145530.png",
+    "description": "Arcs is a sharp, tactical space opera game set in a dark yet silly universe. Players represent officials from a distant, decaying and neglectful Empire who are now free to vie for dominance whether through battle, gathering scarce resources or diplomatic intrigue. Ready yourself for dramatic twists and turns as you launch into this galactic struggle.\n\nA deck of cards in 4 suits with ranks from 1-7 (2-6 for fewer than 4 players) defines the action selection system. These cards are played in a trick-taking adjacent system to select actions, take the initiative and declare Ambitions. The 3 declared Ambitions are what will score in that deal. Timing is everything. Bad hands must be mitigated by careful card play and benefitting from other players' card play.\n\nBattles are resolved quickly with the attacker choosing their level of risk. The defenders must be prepared with adequate defensive ships and cards in their tableau.\n\nEach game contains a hundred wooden ships and agents, 18 custom engraved dice, a beautiful six-panel board, and tons of cards with over 60 pieces of unique art. The base game may be played without the optional Leaders and Lore cards (for an easier teach) or with them for a richer, fuller and asymmetric game. It is also the core of the campaign game (requiring the Blighted Reach Expansion), which provides an epic, more thematic experience.",
+    "categories": [
+      "Science Fiction",
+      "Space Exploration",
+      "Wargame"
+    ],
+    "mechanics": [
+      "Area Majority / Influence",
+      "Area Movement",
+      "Campaign / Battle Card Driven",
+      "Dice Rolling",
+      "Die Icon Resolution",
+      "Hand Management",
+      "Negotiation",
+      "Resource to Move",
+      "Take That",
+      "Trick-taking",
+      "Turn Order: Claim Action",
+      "Variable Player Powers"
+    ],
+    "expansions_bgg": [
+      "Arcs: Beyond the Reach Campaign Expansion",
+      "Arcs: Halls of Power Expansion",
+      "Arcs: Leaders & Lore Pack",
+      "Arcs: Lost Vaults & Fated Leaders Expansion",
+      "Arcs: The Blighted Reach Expansion"
+    ],
+    "best_players": "3",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 8.0,
     "weight": 3.44
   },
@@ -512,9 +1492,56 @@
     "minplayers": "2",
     "maxplayers": "8",
     "playingtime": "60",
+    "minplaytime": "30",
+    "maxplaytime": "60",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/8_5xvpsrrX5JVzO7eBLSgw__original/img/XkKaT-quh8xGl2uHD5zULSWTpuM=/0x0/filters:format(jpeg)/pic3912914.jpg",
     "thumbnail": "https://cf.geekdo-images.com/8_5xvpsrrX5JVzO7eBLSgw__small/img/fV4UWCHC1ImGFUN7lcJju9K8_zo=/fit-in/200x150/filters:strip_icc()/pic3912914.jpg",
+    "description": "Build a Unicorn Army. Betray your friends. Unicorns are your friends now.\n\nUnstable Unicorns is a strategic card game about everyone&rsquo;s two favorite things: Destruction and Unicorns!\n\nPlayers draw and discard cards in a race to build an army of 7 unicorns. Sound easy? Not so fast. Someone could have a Neigh Card (Get it? Neigh?) or Downgrade cards to stop you in your tracks. But you can do the same to them.\n\nThe first person to complete their Unicorn Army shall hereafter be known as The Righteous Ruler of All Things Magical.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Card Game",
+      "Humor",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Set Collection",
+      "Take That"
+    ],
+    "expansions_bgg": [
+      "Unstable Unicorns:  Nightmares Expansion Pack",
+      "Unstable Unicorns: Adventures",
+      "Unstable Unicorns: Apocalypse Expansion Pack",
+      "Unstable Unicorns: Chimeracorn Promo Card",
+      "Unstable Unicorns: Christmas Special Expansion Pack",
+      "Unstable Unicorns: Cosplay Unicorn Promo Card",
+      "Unstable Unicorns: Creature Master Unicorn Promo Card",
+      "Unstable Unicorns: Cursed Ritual Unicorn",
+      "Unstable Unicorns: Dark Matron Unicorn Promo Card",
+      "Unstable Unicorns: Disaster Relief Unicorn Promo Card",
+      "Unstable Unicorns: Draconic Unicorn Promo Card",
+      "Unstable Unicorns: Dragons Expansion Pack",
+      "Unstable Unicorns: Espresso Oracle Unicorn Promo Card",
+      "Unstable Unicorns: Golden Glazed Unicorn Promo Card",
+      "Unstable Unicorns: Kickstarter Exclusive Cards",
+      "Unstable Unicorns: Mystic Rainbow Unicorn Promo Card",
+      "Unstable Unicorns: NSFW Pack",
+      "Unstable Unicorns: Portal Master Unicorn Promo Card",
+      "Unstable Unicorns: Rainbow Apocalypse Expansion Pack",
+      "Unstable Unicorns: Rainbow Sprinkles Expansion Pack",
+      "Unstable Unicorns: Respawn Unicorn",
+      "Unstable Unicorns: Sentinel Unicorn Promo Card",
+      "Unstable Unicorns: Siren Unicorn Promo Card",
+      "Unstable Unicorns: Soul Sucking Unicorn Promo Card",
+      "Unstable Unicorns: Steampunk Unicorn Promo Card",
+      "Unstable Unicorns: Sugar Raid Unicorn Promo Card",
+      "Unstable Unicorns: Titanium Unicorn",
+      "Unstable Unicorns: Unicorn of Illusions Promo Card",
+      "Unstable Unicorns: Unicorns of Legend Expansion Pack",
+      "Unstable Unicorns: Zombie Knight Unicorn Promo Card"
+    ],
+    "best_players": "4",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.2,
     "weight": 1.47
   },
@@ -528,9 +1555,27 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "90",
+    "minplaytime": "60",
+    "maxplaytime": "90",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/JgTKT2j61ctBjhtzg_vZ-A__original/img/3KP-OIw2Sv1oqNXyXNYnHZafcng=/0x0/filters:format(jpeg)/pic5055378.jpg",
     "thumbnail": "https://cf.geekdo-images.com/JgTKT2j61ctBjhtzg_vZ-A__small/img/eW0qcRRQV9ho86Pl8aUDr8Hrxyc=/fit-in/200x150/filters:strip_icc()/pic5055378.jpg",
+    "description": "Build a better future underground in Fallout Shelter: The Board Game, a post-nuclear worker-placement board game for two to four players. Based on the hit mobile game from Bethesda Softworks, Fallout Shelter sees you take on the role of a vault officer fostering happiness among the citizens of your vault. With the election of a new Overseer looming, the officer who can gain the most happiness among the dwellers is sure to lock up the election and attain victory.\n\nAs an officer, you'll have to direct your dwellers to where they'll spend their time in the vault, whether it's spending some time relaxing in the lounge, gathering vital resources like food in the community gardens, or battling a radroach infestation in the game room. The choice is always yours, but remember, you'll have to balance happiness and efficiency to lead your people to a brighter future underground!\n\n&mdash;description from the publisher",
+    "categories": [
+      "Video Game Theme"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "End Game Bonuses",
+      "Layering",
+      "Modular Board",
+      "Turn Order: Claim Action",
+      "Worker Placement",
+      "Worker Placement, Different Worker Types"
+    ],
+    "expansions_bgg": [],
+    "best_players": "3",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.2,
     "weight": 2.03
   },
@@ -544,9 +1589,27 @@
     "minplayers": "2",
     "maxplayers": "5",
     "playingtime": "40",
+    "minplaytime": "20",
+    "maxplaytime": "40",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/O88iI1-V3dkrJX7IPQMlnw__original/img/YtUOyjMvv3CJNkbytNQWQH89HuY=/0x0/filters:format(jpeg)/pic7380048.jpg",
     "thumbnail": "https://cf.geekdo-images.com/O88iI1-V3dkrJX7IPQMlnw__small/img/G4Ttm28hgquIlVPzvZRInvDXcHI=/fit-in/200x150/filters:strip_icc()/pic7380048.jpg",
+    "description": "What are little Johnny, Suzy, and Fido supposed to do when the suburban droll has them down? I know, Let's Summon Demons!  Whether you're building sadistic synergies with the \"rotten\" kids or sharing the love with the \"sweet\" kids, only the savviest (and luckiest!) player--the best Demon Summoner--will walk away a winner!\n\n\n     Shuffle up the Demon Deck and the Block Deck, and deal everyone a Starting Candle and a hand of 3 Demons. Your goal is to summon all 3 of those little devils before your opponents beat you to it... \n     At all times, a rotating assortment of five cards will be available for purchase (the low, low price of 3 soul tokens) to all players--this is called THE BLOCK and it has Boys, Girls, and Animals of every style and strategy! Look for cards that combo together! \n     On each players' turn, they'll roll the dice--if any player's cards they've acquired \"match\" the total rolled then that card activates--often resulting in the acquisition of more soul tokens! More soul tokens means more cards from THE BLOCK, means even more soul tokens--but to what end?\n     Well, you can sacr--er--discard 3 of your cards to SUMMON A DEMON! The most powerful cards of all! Once any player has summoned all 3 of their Demons --and has a balance of 10 souls on top of that--they are declared the ultimate Demon Summoner and the game is over! With all of the variety offered between the 20 unique demons and the diverse BLOCK DECK, there is plenty of content to explore and master!\n\n\n&mdash;description from the publisher",
+    "categories": [
+      "Card Game",
+      "Fantasy",
+      "Horror"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Open Drafting",
+      "Random Production",
+      "Set Collection",
+      "Take That"
+    ],
+    "expansions_bgg": [],
+    "best_players": "4",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 6.9,
     "weight": 1.44
   },
@@ -560,9 +1623,30 @@
     "minplayers": "3",
     "maxplayers": "16",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/GSV9m1Yhm7dGGp9BfkUONw__original/img/hhrhSPvohXSd-M1viPx8kZ7ntAQ=/0x0/filters:format(jpeg)/pic3090549.jpg",
     "thumbnail": "https://cf.geekdo-images.com/GSV9m1Yhm7dGGp9BfkUONw__small/img/HIwRv_RZVvn6CkIE3Kd43JdQPjY=/fit-in/200x150/filters:strip_icc()/pic3090549.jpg",
+    "description": "Incredible! The shifty thief who operates undisturbed from months is about to be caught! After copious failures, a team of detectives has a secret weapon: a witness. However this witness is quite weird; he doesn't remember anything about the appearance of the criminal, but he knows everything about their habits and behavior. Will the investigative team be able to find out the criminal only from these elements?\n\nIn Insoliti Sospetti (\"Unusual Suspects\"), one player is the Witness and the other players play the part of the Investigative Team. The Witness knows the real identity of the Guilty and tries to make the Team hit it only with his answers. The Team asks questions to the Witness and, depending on his answers, will exclude the innocent suspects after players have discussed what they learned.\n\nInsoliti Sospetti can also be played competitively or collaboratively (team vs team). In the latter case, a grid of twelve suspects is created. Every round the team reveals a question card and the Witness has to answer yes/no. According to the answer, the team has to remove suspects until only the Guilty one is on the board.",
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Murder / Mystery",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Team-Based Game",
+      "Voting"
+    ],
+    "expansions_bgg": [
+      "Unusual Suspects: Burn After Playing",
+      "Unusual Suspects: You Promo"
+    ],
+    "best_players": "4",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.4,
     "weight": 1.1
   },
@@ -576,9 +1660,19 @@
     "minplayers": "2",
     "maxplayers": "99",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/Xn2zq5fCk1dH3cSxaKnZOg__original/img/W_wkccghD4hFSuxd1K15g_wCSRc=/0x0/filters:format(png)/pic7606035.png",
     "thumbnail": "https://cf.geekdo-images.com/Xn2zq5fCk1dH3cSxaKnZOg__small/img/9dUc5gJAak5EyTdfYns9YmLVznM=/fit-in/200x150/filters:strip_icc()/pic7606035.png",
+    "description": "Without Fail is a party game of seemingly easy challenges that are made horribly difficult by the other players.\n\nThe game includes 150 challenges that involve props like a blindfold, cups and balls, dice, pens, and more &ndash; all provided in the game box. The challenges are simple, but there's a catch: Before a player begins a challenge, their friends bet on how difficult the challenge can be made without failing. The friend who makes the challenge the hardest becomes that player's teammate, and they both score if the player can successfully complete the challenge. However, if they upped the stakes too high and the challenger fails, then all other players earn a point, and the challenger and their teammate both lose points. Success is based entirely on whether players are good judges of their friends' abilities.",
+    "categories": [
+      "Party Game"
+    ],
+    "mechanics": [],
+    "expansions_bgg": [],
+    "best_players": "4, 5, 6",
+    "language_dependence": null,
     "rating": 6.3,
     "weight": 1.0
   },
@@ -592,9 +1686,25 @@
     "minplayers": "3",
     "maxplayers": "8",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/K-Hp2v5Bc_UKMGlBF2oIEQ__original/img/Yrr-KrZV24OPZyqPq9KR5CJO-pA=/0x0/filters:format(jpeg)/pic3061260.jpg",
     "thumbnail": "https://cf.geekdo-images.com/K-Hp2v5Bc_UKMGlBF2oIEQ__small/img/7iWqJ6jHsgKCTcNs41nEgT7_NzA=/fit-in/200x150/filters:strip_icc()/pic3061260.jpg",
+    "description": "More than one thousand items from all walks of life can be guessed through the use of 61 transparent cards in Imagine, whether they're placed next to one another or superimposed. Almost everything in the world can be represented by a simplified concept &mdash; just don't speak while you're playing...",
+    "categories": [
+      "Deduction",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Acting",
+      "Team-Based Game"
+    ],
+    "expansions_bgg": [
+      "Imagine: jeux de société promo"
+    ],
+    "best_players": "4",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.8,
     "weight": 1.06
   },
@@ -608,9 +1718,34 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "25",
+    "minplaytime": "15",
+    "maxplaytime": "25",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__original/img/HT6NQPT0cSFcZXjSewtjTO_NBAE=/0x0/filters:format(png)/pic8443569.png",
     "thumbnail": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__small/img/4p4Xydg0tze9UFcd6oUbCnVyxCw=/fit-in/200x150/filters:strip_icc()/pic8443569.png",
+    "description": "Kingdomino is a tile-laying game in which players take the role of monarchs expanding their kingdoms by claiming and arranging lands. Over the course of the game, players build a compact kingdom from forests, lakes, wheat fields, grasslands, swamps, and mines, carefully connecting matching terrain types while planning for valuable crown symbols that increase the prestige of their territories.\n\nEach round, players place the domino they selected on the previous turn, following placement rules that require at least one matching terrain connection (or connection to the starting castle tile). After placing a domino, they choose a new one from the available row for a future turn. The order in which dominoes are chosen also determines the turn order for the next round, creating a balance between claiming the most desirable tiles and securing an earlier turn.\n\nAt the end of the game, players score each connected territory by multiplying its number of squares by the number of crowns within that territory. Territories without crowns score no points. The player with the highest total score wins, with ties broken first by the size of the largest territory, then by the total number of crowns.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Abstract Strategy",
+      "Medieval",
+      "Puzzle",
+      "Territory Building"
+    ],
+    "mechanics": [
+      "Enclosure",
+      "Open Drafting",
+      "Tile Placement",
+      "Turn Order: Claim Action"
+    ],
+    "expansions_bgg": [
+      "Heroes and Divided Lands (fan expansion for Kingdomino and Queendomino)",
+      "Kingdomino: Age of Giants",
+      "Kingdomino: The Court",
+      "Kingdomino: The Lost Treasures",
+      "Royal Wedding XXL (fan expansion for Kingdomino)",
+      "Super Power"
+    ],
+    "best_players": "2",
+    "language_dependence": "No necessary in-game text",
     "rating": 7.3,
     "weight": 1.24
   },
@@ -624,9 +1759,24 @@
     "minplayers": "3",
     "maxplayers": "7",
     "playingtime": "25",
+    "minplaytime": "25",
+    "maxplaytime": "25",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/nNHGboSx2J0DLALg4W5k4A__original/img/wFeHlmBUTPLq020cdXzC4vpZNvI=/0x0/filters:format(jpeg)/pic5182093.jpg",
     "thumbnail": "https://cf.geekdo-images.com/nNHGboSx2J0DLALg4W5k4A__small/img/xgFgtpFfPYBA29Au1NU0VUl15xg=/fit-in/200x150/filters:strip_icc()/pic5182093.jpg",
+    "description": "Stay Cool is easy. We ask you to do nothing complicated &mdash; but you must do it all at the same time...\n\nWhen you are the active player in the first round, you must answer verbally the questions asked by your left-hand neighbor while you \"write\" answers to the questions asked by your right-hand neighbor, using seven letter dice to \"write\" three- or four-letter answers. While you're doing this, another player flips a 30-second sand timer four times, giving you two minutes to answer as many questions as possible. At the end of that time, multiply the number of answers you gave for the questions from the left and from the right to determine your score.\n\nIn the second round, you do the same thing once again with new questions, but you must tell the player watching the sand timer to flip it before it runs out of sand, with a maximum of two minutes of playing time. If you fail to tell the player to flip the timer before it runs out of sand, your turn ends immediately. However your turn ends, you score points as described above.\n\nIn the third and final round, you must do everything described in the third round except now the sand timer is hidden from your eyes!\n\n&mdash;description from the publisher",
+    "categories": [
+      "Party Game",
+      "Real-time",
+      "Trivia"
+    ],
+    "mechanics": [
+      "Real-Time",
+      "Spelling"
+    ],
+    "expansions_bgg": [],
+    "best_players": "4",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 7.0,
     "weight": 1.04
   },
@@ -640,9 +1790,25 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "30",
+    "minplaytime": "30",
+    "maxplaytime": "30",
     "minage": "0",
     "image": "https://cf.geekdo-images.com/ounQWJQxl7qh7DRW0IwOig__original/img/z-jFSZo7dEc-cSMNbKTzB2Qw96M=/0x0/filters:format(jpeg)/pic734911.jpg",
     "thumbnail": "https://cf.geekdo-images.com/ounQWJQxl7qh7DRW0IwOig__small/img/NsSwOakpkXzBopsG5Hq_d-x6pgA=/fit-in/200x150/filters:strip_icc()/pic734911.jpg",
+    "description": "Tilt is yet another marble race game. The object of the game is to be the first player to move all four of his marbles around the board and into the center \"home\" area. The twist is that the board see-saws up and down depending on the position of the marbles. At the start, the board is perfectly balanced, but as the players move the marbles, the board tilts back and forth depending on the weight distribution of the marbles.\n\nThere are 18 \"slide\" areas around the board, and should your marble end up in one of these slides, a tilt of the board may send your marble forward or backward, or possibly right into the \"home\" area.\" (Think \"Chutes and Ladders\" with actual chutes.)\n\nThough essentially a children's roll-and-move game, young players will quickly learn how to make the laws of gravity work for them. There is also some low-level strategy as players may choose to move their marbles backward if it would allow them to enter a slide.",
+    "categories": [
+      "Dice",
+      "Maze",
+      "Racing"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Point to Point Movement",
+      "Roll / Spin and Move"
+    ],
+    "expansions_bgg": [],
+    "best_players": "2, 3, 4",
+    "language_dependence": null,
     "rating": 6.0,
     "weight": 1.2
   },
@@ -656,9 +1822,26 @@
     "minplayers": "3",
     "maxplayers": "8",
     "playingtime": "30",
+    "minplaytime": "20",
+    "maxplaytime": "30",
     "minage": "16",
     "image": "https://cf.geekdo-images.com/15ZfT3y5Wndrg7Cxp8BAYg__original/img/szRj8CG3d7bnafbV-DL9xnr6-NY=/0x0/filters:format(jpeg)/pic4465422.jpg",
     "thumbnail": "https://cf.geekdo-images.com/15ZfT3y5Wndrg7Cxp8BAYg__small/img/kJTC0OB3o0_4WwrTPCIFuycpULw=/fit-in/200x150/filters:strip_icc()/pic4465422.jpg",
+    "description": "Each player embodies a personality in DANY's head and one player will secretly be DANY&rsquo;s true personality. Each turn, the Active Personality will be awarded one of five Ideas he/she will have to make the other personalities guess using Memory cards (illustrated cards). Once the cards composition is made, and after some discussion between the players, the one to the right of the Active Personality gives the answer of his/her choice and success or failure is given to all players. A new tour begins with a new Active Personality.\n\nThe game ends if there is: \n- 6 successes: secondary personalities win,\n- 3 failures or if the Memory draw pile is empty: the Final Twist takes place. Players must eliminate DANY in a vote. If DANY is eliminated, the secondary personalities win, otherwise DANY wins and finally gets to live with some peace of mind.",
+    "categories": [
+      "Bluffing",
+      "Deduction",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Hidden Roles",
+      "Team-Based Game"
+    ],
+    "expansions_bgg": [
+      "Dany: Promo cards"
+    ],
+    "best_players": "6, 7",
+    "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.7,
     "weight": 1.21
   },
@@ -672,9 +1855,24 @@
     "minplayers": "4",
     "maxplayers": "10",
     "playingtime": "60",
+    "minplaytime": "45",
+    "maxplaytime": "60",
     "minage": "15",
     "image": "https://cf.geekdo-images.com/1Ebkya5qKEm0SWGiAI20DA__original/img/GZX5k_F8VHt8GVf2g1WZPFjGZ0Q=/0x0/filters:format(jpeg)/pic6164116.jpg",
     "thumbnail": "https://cf.geekdo-images.com/1Ebkya5qKEm0SWGiAI20DA__small/img/sZw3_Zh6UNEcSYwcEUNqckHzn4k=/fit-in/200x150/filters:strip_icc()/pic6164116.jpg",
+    "description": "In HINT, your teammates have to guess what you are trying to tell them. Along the way you both mime, draw, hum and talk about everything from 'European Capitals' and 'Movie Villains' to 'Fictional Vehicles' and 'Pizza Toppings'. You must be both quick and creative, but beware! There is always one forbidden word that you may not use. An entertaining party game for everyone that gets the hint.",
+    "categories": [
+      "Party Game"
+    ],
+    "mechanics": [
+      "Acting",
+      "Line Drawing",
+      "Singing",
+      "Team-Based Game"
+    ],
+    "expansions_bgg": [],
+    "best_players": "6",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 6.6,
     "weight": 1.25
   },
@@ -687,9 +1885,26 @@
     "minplayers": "2",
     "maxplayers": "15",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/TTBxU_7nUdebSgxH4TBhzw__original/img/Nw24gFOE3o6kad-gtPd41Ietxeo=/0x0/filters:format(jpeg)/pic304003.jpg",
     "thumbnail": "https://cf.geekdo-images.com/TTBxU_7nUdebSgxH4TBhzw__small/img/0euQC-8yBJjB1slqqms2sfOzYUA=/fit-in/200x150/filters:strip_icc()/pic304003.jpg",
+    "description": "How could that have happened? Black Stories are fiddly, morbid and mysterious riddles for teenagers and adults. The players try to reconstruct the crime by asking, guessing and fiddling about. Only yes/no answers are allowed. A spooky card game just right for any party. This version of the black stories has mysteries about vampires, aliens, undead and other fantasy based themes.",
+    "categories": [
+      "Deduction",
+      "Fantasy",
+      "Horror",
+      "Humor",
+      "Murder / Mystery",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Storytelling"
+    ],
+    "expansions_bgg": [],
+    "best_players": "4, 5, 6",
+    "language_dependence": "Unplayable in another language",
     "rating": 5.5,
     "weight": 1.12,
     "matched": true
@@ -704,9 +1919,25 @@
     "minplayers": "3",
     "maxplayers": "8",
     "playingtime": "60",
+    "minplaytime": "30",
+    "maxplaytime": "60",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/gWfeTWVFoskRLTFNXxRJew__original/img/EcDLhGk9W_X-J-OzgcfvV8YR4Ew=/0x0/filters:format(jpeg)/pic9665512.jpg",
     "thumbnail": "https://cf.geekdo-images.com/gWfeTWVFoskRLTFNXxRJew__small/img/vsCa6bW8b2eyHgwuSajjajvNvmE=/fit-in/200x150/filters:strip_icc()/pic9665512.jpg",
+    "description": "Are you the terrified photographer at a wedding or the ecstatic retiree at the post office?\nEmozionarium is a party game for 3 to 8 players in which each person is assigned a role to play and a secret emotion for the others to guess.\n\nBut this isn&rsquo;t your typical game where the best actor wins! Here, you have to bring your EMOTIONS into play, with a little help from the &ldquo;Plutchik flower.&rdquo;\nLaughter is guaranteed in this mix of party game and role-playing game &mdash; which can even help sharpen your emotional intelligence &mdash; that truly wins everyone over!\n\nHow It Works\nEach round, you receive two cards: a Situation (public) that assigns you a character, and an Emotion (secret) that only you know. Your task is to act out that situation, making the others understand what your character is feeling &mdash; without naming the emotion, without using synonyms, and without bluffing or cheating.\nJust pure acting.\nMeanwhile, the other players must guess your emotion. And you must guess theirs.\nYou score points if you guess correctly. You score points if they guess yours correctly. Simple, right?\n\nThree rounds of increasing difficulty, guided by the Plutchik flower &mdash; the scientific tool that maps human emotions &mdash; make every game a unique journey.\n\n&mdash;description from the publisher\n\nSei il fotografo terrorizzato al matrimonio o il pensionato in estasi all&rsquo;ufficio postale?\nEmozionarium &egrave; un party game da 3 a 8 giocatori in cui ogni persona riceve un ruolo da interpretare e un&rsquo;emozione segreta da far indovinare agli altri.\n\nMa non &egrave; il classico gioco in cui vince chi &egrave; pi&ugrave; bravo a recitare! Qui si devono mettere in gioco le EMOZIONI, facendosi aiutare dal &ldquo;fiore di Plutchik&rdquo;.\nRisate garantite in questo mix tra party game e gioco di ruolo &ndash; capace anche di affinare la tua intelligenza emotiva &ndash; che sa conquistare davvero tutti!\n\nCome funziona\nOgni round ricevi due carte: una Situazione (pubblica) che ti assegna un personaggio, e un'Emozione (segreta) che solo tu conosci. Il tuo compito &egrave; mettere in scena quella situazione facendo capire agli altri cosa prova il tuo personaggio &mdash; senza nominarla, senza sinonimi, senza barare.\nSolo interpretazione pura.\nGli altri giocatori, intanto, devono indovinare la tua emozione. E tu devi indovinare le loro.\nFai punti se indovini. Fai punti se ti fai indovinare. Semplice, no?\nTre round di difficolt&agrave; crescente, guidati dal Fiore di Plutchick &mdash; lo strumento scientifico che mappa le emozioni umane &mdash; rendono ogni partita un viaggio diverso.\n\n&mdash;description from the publisher (Italian)",
+    "categories": [
+      "Deduction",
+      "Educational",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Acting",
+      "Deduction",
+      "Role Playing"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": null,
     "rating": 8.6,
     "weight": 1.0
   },
@@ -720,9 +1951,21 @@
     "minplayers": "2",
     "maxplayers": "6",
     "playingtime": "45",
+    "minplaytime": "30",
+    "maxplaytime": "45",
     "minage": "7",
     "image": "https://cf.geekdo-images.com/-1R3Equ02YxiIJI-DtWc0g__original/img/zbctR214pRr2zYTH4krWPHc8Oiw=/0x0/filters:format(jpeg)/pic6959685.jpg",
     "thumbnail": "https://cf.geekdo-images.com/-1R3Equ02YxiIJI-DtWc0g__small/img/IU3ZYQrwWJtZ4vRYqp3XdYlVPcw=/fit-in/200x150/filters:strip_icc()/pic6959685.jpg",
+    "description": "Silver Mine is a racing game in which the goal is to NOT cross into the dangerous area of \"Mina del Plata\" (silver mine). More specifically, the player who is still on the path there once all the others have already arrived banks the victory.\n\nOn each turn, the closest player to the mine entrance rolls one die, the next closest one two dice, the next three dice, and so on. The laziest player &mdash; that is, the one farthest from the entrance &mdash; can even roll six dice on a turn, but any player can buy the right to not roll their dice. A game stretches over several rounds, but the payment doubles, then triples as the game progresses.",
+    "categories": [
+      "Racing"
+    ],
+    "mechanics": [
+      "Roll / Spin and Move"
+    ],
+    "expansions_bgg": [],
+    "best_players": "4",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.0,
     "weight": 1.38
   },
@@ -736,9 +1979,19 @@
     "minplayers": "3",
     "maxplayers": "7",
     "playingtime": "60",
+    "minplaytime": "30",
+    "maxplaytime": "60",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/-vpRFMKIQjIxJGijS2oElw__original/img/Smm__XigZZRXvMJQ1irE_IfLkWA=/0x0/filters:format(jpeg)/pic5258323.jpg",
     "thumbnail": "https://cf.geekdo-images.com/-vpRFMKIQjIxJGijS2oElw__small/img/ZuRqiawREfW4FcvQfQbwg4ThvMI=/fit-in/200x150/filters:strip_icc()/pic5258323.jpg",
+    "description": "Can you draw an ALIEN? Of course you can! But what if some player is drawing a MARTIAN and others an EXTRA-TERRESTRIAL? Can you understand which SUBJECTS scribbled the other players in 30 SECONDS?\nAre you a landslide to draw and you only manage scribbles? It doesn't matter, in 30 seconds you can only scribble to make other players understand which of the three words, very similar to each other, happened to you to draw. In Doodles what matters is not how you draw but what you draw! Guess and be guessed with pencil strokes!",
+    "categories": [
+      "Party Game"
+    ],
+    "mechanics": [],
+    "expansions_bgg": [],
+    "best_players": "5, 6",
+    "language_dependence": "Unplayable in another language",
     "rating": 7.1,
     "weight": 1.0
   },
@@ -752,9 +2005,25 @@
     "minplayers": "3",
     "maxplayers": "99",
     "playingtime": "40",
+    "minplaytime": "20",
+    "maxplaytime": "40",
     "minage": "11",
     "image": "https://cf.geekdo-images.com/6wrAKv3t9PXEw3OJDJXAHA__original/img/f1Mvtv9R2FEDI8uZpNUOcWRjaQ8=/0x0/filters:format(png)/pic5690370.png",
     "thumbnail": "https://cf.geekdo-images.com/6wrAKv3t9PXEw3OJDJXAHA__small/img/HcE5RWx0o9vevI9TMZqvMmJGWas=/fit-in/200x150/filters:strip_icc()/pic5690370.png",
+    "description": "CONFIDENT? is a highly entertaining family party game where you answer questions like \"how many slices are there in a loaf of bread?\". But, instead of giving exact answers, you guess with a RANGE! You only need to get the right answer in your range to win points so everyone can have a go, but the smaller your range compared to everyone else, the more you score! Are you CONFIDENT enough to win?",
+    "categories": [
+      "Educational",
+      "Number",
+      "Party Game",
+      "Print & Play",
+      "Trivia"
+    ],
+    "mechanics": [
+      "Variable Player Powers"
+    ],
+    "expansions_bgg": [],
+    "best_players": "6",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 6.6,
     "weight": 1.0
   },
@@ -768,9 +2037,70 @@
     "minplayers": "2",
     "maxplayers": "8",
     "playingtime": "15",
+    "minplaytime": "15",
+    "maxplaytime": "15",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__original/img/Id-jjIer_61ZbvI2_RVRCeBZFY4=/0x0/filters:format(jpeg)/pic8907965.jpg",
     "thumbnail": "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__small/img/1iZav_8ZqurrDbvkZA9GcFhB5x0=/fit-in/200x150/filters:strip_icc()/pic8907965.jpg",
+    "description": "Two rival spymasters know the secret identities of 25 agents. Their teammates know the agents only by their codenames &mdash; single-word labels like \"disease\", \"Germany\", and \"carrot\". Yes, carrot. It's a legitimate codename. Each spymaster wants their team to identify their agents first...without uncovering the assassin by mistake.\n\nIn Codenames, two teams compete to see who can make contact with all of their agents first. Lay out 25 cards, each bearing a single word. The spymasters look at a card showing the identity of each card, then take turns clueing their teammates. A clue consists of a single word and a number, with the number suggesting how many cards in play have some association to the given clue word. The teammates then identify one agent they think is on their team; if they're correct, they can keep guessing up to one more than the stated number of times; if the agent belongs to the opposing team or is an innocent bystander, the team's turn ends; and if they fingered the assassin, they lose the game.\n\nSpymasters continue giving clues until one team has identified all of their agents or the assassin has removed one team from play.",
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Party Game",
+      "Spies / Secret Agents",
+      "Word Game"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Deduction",
+      "Memory",
+      "Race",
+      "Team-Based Game"
+    ],
+    "expansions_bgg": [
+      "Brettspiel Adventskalender 2018",
+      "Codenames: 10 jarig Jubileum bonus set 2020 NL",
+      "Codenames: Authors & Games",
+      "Codenames: Bonus Pack – Board Gaming (English)",
+      "Codenames: Bonus Pack – Board Gaming (German)",
+      "Codenames: Bonus Pack – CGE Games",
+      "Codenames: Bonus Pack – Literatur",
+      "Codenames: Bonus Pack – Schweiz",
+      "Codenames: Bonus Pack – Through the Ages",
+      "Codenames: Bonus Pack – Webhallen",
+      "Codenames: Bonuskaarten 2016",
+      "Codenames: Bonuskaarten 2018",
+      "Codenames: Bonuskaarten 2019",
+      "Codenames: Bonuskaarten 2020",
+      "Codenames: Brazil Promotional Expansion",
+      "Codenames: Cartes promo – Personnalités",
+      "Codenames: Cartes promo – Univers Geek",
+      "Codenames: Fairy Tales Expansion Pack",
+      "Codenames: Mini-Erweiterung – Weihnachten",
+      "Codenames: Sci-Fi Expansion Pack",
+      "Código Secreto: Expansão promocional Brasil",
+      "Código Secreto: Expansão promocional Portugal",
+      "Código Secreto: Expansión promocional Américas",
+      "Código secreto: Expansión promocional Andalucía",
+      "Código Secreto: Expansión promocional Argentina",
+      "Código Secreto: Expansión promocional Chile",
+      "Código Secreto: Expansión Promocional México",
+      "Deutscher Spielepreis 2016 Goodie Box",
+      "Fedőnevek: Magyar bónusz csomag",
+      "Krycí jména: Bonusové karty – 10 let MINDOK",
+      "Nome in Codice: Carte Bonus Comics and Games 2016",
+      "Nome in Codice: Carte Bonus da Torneo",
+      "Tajniacy: Agenci na kwarantannie",
+      "Tajniacy: Fantastyczne Światy",
+      "Tajniacy: Nowi Agenci",
+      "Tajniacy: Obcy Agenci",
+      "Tajniacy: Sami Nieswoi",
+      "コードネーム　ボーナスパック　COOL JAPAN (Codenames: Bonus Pack – COOL JAPAN)",
+      "コードネーム　ボーナスパック　JAPAN2020 (Codenames: Bonus Pack 2 – Japan 2020)",
+      "코드네임: 미니획장1 – 합성어 동물 (Codenames: Mini-Expansion 1 – Compound Animals"
+    ],
+    "best_players": "6",
+    "language_dependence": "Unplayable in another language",
     "rating": 7.5,
     "weight": 1.25
   },
@@ -784,9 +2114,23 @@
     "minplayers": "4",
     "maxplayers": "14",
     "playingtime": "60",
+    "minplaytime": "60",
+    "maxplaytime": "60",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/tnMjrML-1qdUxa3bV_36aA__original/img/2nyAPpAd5qm4o-XrW3e0998nMNY=/0x0/filters:format(jpeg)/pic40844.jpg",
     "thumbnail": "https://cf.geekdo-images.com/tnMjrML-1qdUxa3bV_36aA__small/img/qUVs8E2nZTd1gcljr_Ge_fHLCPk=/fit-in/200x150/filters:strip_icc()/pic40844.jpg",
+    "description": "Player write responses to a phrase read off a card. Players then try to guess who gave what response. Points are scored for a correct guess and for stumping all other players.",
+    "categories": [
+      "Bluffing",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Team-Based Game"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": null,
     "rating": 5.4,
     "weight": 1.0
   },
@@ -802,9 +2146,34 @@
     "minplayers": "3",
     "maxplayers": "7",
     "playingtime": "60",
+    "minplaytime": "20",
+    "maxplaytime": "60",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__original/img/hA22qL6nZxchA8FMTIfhLMcI53I=/0x0/filters:format(png)/pic8669313.png",
     "thumbnail": "https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__small/img/feIV-gqMeza43ycvxh6PGx4lA_w=/fit-in/200x150/filters:strip_icc()/pic8669313.png",
+    "description": "Just One is a co-operative party game in which you all play together to get the best score! Your goal each round is to get one player &mdash; the active player &mdash; to guess a mystery word based on the clues given by teammates. Can you achieve a perfect score by guessing all the mystery words?\n\nIn more detail, everyone who is not the active player sees the mystery word, then each player independently writes a clue on their personal easel. Once everyone has finished, you reveal the clues to one another. All identical clues are removed from play, so try to be original!\n\nAfter eliminating duplicate clues, reveal the remaining clues to the active player. If they correctly guess the mystery word, your team scores a point. If they decline to guess, you don't score the current card. If they guess wrong, you don't score the current card and you lose one of the points you had already scored. Thus, be original, but not so original that you don't help the active player guess correctly!",
+    "categories": [
+      "Deduction",
+      "Party Game",
+      "Word Game"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Deduction",
+      "Score-and-Reset Game"
+    ],
+    "expansions_bgg": [
+      "Deutscher Spielepreis Classic Goodie Box",
+      "Jednym słowem: Dzień Gier Planszowych Promo",
+      "Just One: BGG Promo Pack",
+      "Just One: Deutscher Spielepreis Classic Goodie Box Promo Cards",
+      "Just One: Dice Tower 2021 Promo Pack",
+      "Just One: Gathering of Friends Promo Cards",
+      "Just One: Neue Begriffe"
+    ],
+    "best_players": "6",
+    "language_dependence": "Unplayable in another language",
     "rating": 7.6,
     "weight": 1.03
   },
@@ -818,9 +2187,28 @@
     "minplayers": "2",
     "maxplayers": "30",
     "playingtime": "120",
+    "minplaytime": "30",
+    "maxplaytime": "120",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/Ti4Av8a7JxNnoWDUr9BSig__original/img/nt98EC5u3WRL7XxlutideyNfly0=/0x0/filters:format(jpeg)/pic8621075.jpg",
     "thumbnail": "https://cf.geekdo-images.com/Ti4Av8a7JxNnoWDUr9BSig__small/img/v_7roTh1eLQdzGOQOxlDf7CnIW4=/fit-in/200x150/filters:strip_icc()/pic8621075.jpg",
+    "description": "That Sound Game is a fast paced, interactive and very noisy party game.\n\nThe goal is to get your team to guess as many answers on the category cards as they can in\na minute. Use any combination of sounds and movements, but your hands must be behind your back.\n\nYou also get Lifelines. Use them strategically to help you win.\n\n&mdash;description from the designer",
+    "categories": [
+      "Action / Dexterity",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Acting",
+      "Communication Limits"
+    ],
+    "expansions_bgg": [
+      "That Sound Game: Festive Pack",
+      "That Sound Game: Turbo Pack",
+      "That Sound Game: Uncuffed Pack",
+      "That Sound Game: X-tension Pack"
+    ],
+    "best_players": "4, 5, 6",
+    "language_dependence": null,
     "rating": 6.3,
     "weight": 1.0
   },
@@ -834,9 +2222,23 @@
     "minplayers": "2",
     "maxplayers": "2",
     "playingtime": "45",
+    "minplaytime": "45",
+    "maxplaytime": "45",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/4FvrOFxgPqlGmO56WS08dg__original/img/N06naKr53l1AUlfVl6DORa8TEyo=/0x0/filters:format(jpeg)/pic744864.jpg",
     "thumbnail": "https://cf.geekdo-images.com/4FvrOFxgPqlGmO56WS08dg__small/img/-DGFjUF0NHZo-6U4lcmE46utf-E=/fit-in/200x150/filters:strip_icc()/pic744864.jpg",
+    "description": "Post apocalyptic football game. \nBased on the movie 'The Blood of Heroes'.\n\nThe aim of the game is to get a 'dogskull' onto a spike at the opposing end of the field while preventing the opposing team from doing the same.\n\nThe team of each player may choose between:\n Runner: The only piece allowed to touch the skull and score points. (mandatory)\nChain: The piece with the greatest reach on the field and strong damage.\nPole: Fighting piece able to block front field spaces.\nNet: Catch enemy pieces\nHook: Pin enemy pieces\n\nCards are used for movement and to determine the outcome of fights.\n\nThe game comes in a video cassette box, with board, tokens and cards.",
+    "categories": [
+      "Science Fiction",
+      "Sports"
+    ],
+    "mechanics": [
+      "Open Drafting",
+      "Variable Player Powers"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": null,
     "rating": 4.9,
     "weight": 0.0
   },
@@ -850,9 +2252,25 @@
     "minplayers": "2",
     "maxplayers": "6",
     "playingtime": "15",
+    "minplaytime": "10",
+    "maxplaytime": "15",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/ook-qcEW-PJklmwkmXgI8Q__original/img/wOMKBX1FPx4Eoue8dOa4QYmDy5g=/0x0/filters:format(jpeg)/pic5142950.jpg",
     "thumbnail": "https://cf.geekdo-images.com/ook-qcEW-PJklmwkmXgI8Q__small/img/qZPxwwaSo6lF66_fnTkfx63u7G8=/fit-in/200x150/filters:strip_icc()/pic5142950.jpg",
+    "description": "Cortex + Challenge tests up to 2-6  players&rsquo; memory, cognition, and sensory perception. It even includes texture cards that are used during \"touch challenges\" in which players must guess what they are feeling, adding a unique element that is often neglected in games.\n\nWinning challenges allows players to add pieces to their brain 3D puzzle which they must complete before their opponents in order to win the game.\n\nThis game contains 170 new cards, including 9 new challenges and can be mixed with cortex 1, cortex 2, and/ cortex 3",
+    "categories": [
+      "Card Game",
+      "Educational",
+      "Memory",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Memory",
+      "Pattern Recognition"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": "No necessary in-game text",
     "rating": 6.3,
     "weight": 1.25
   },
@@ -866,9 +2284,25 @@
     "minplayers": "2",
     "maxplayers": "6",
     "playingtime": "15",
+    "minplaytime": "10",
+    "maxplaytime": "15",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/ook-qcEW-PJklmwkmXgI8Q__original/img/wOMKBX1FPx4Eoue8dOa4QYmDy5g=/0x0/filters:format(jpeg)/pic5142950.jpg",
     "thumbnail": "https://cf.geekdo-images.com/ook-qcEW-PJklmwkmXgI8Q__small/img/qZPxwwaSo6lF66_fnTkfx63u7G8=/fit-in/200x150/filters:strip_icc()/pic5142950.jpg",
+    "description": "Cortex + Challenge tests up to 2-6  players&rsquo; memory, cognition, and sensory perception. It even includes texture cards that are used during \"touch challenges\" in which players must guess what they are feeling, adding a unique element that is often neglected in games.\n\nWinning challenges allows players to add pieces to their brain 3D puzzle which they must complete before their opponents in order to win the game.\n\nThis game contains 170 new cards, including 9 new challenges and can be mixed with cortex 1, cortex 2, and/ cortex 3",
+    "categories": [
+      "Card Game",
+      "Educational",
+      "Memory",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Memory",
+      "Pattern Recognition"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": "No necessary in-game text",
     "rating": 6.3,
     "weight": 1.25
   },
@@ -882,9 +2316,25 @@
     "minplayers": "2",
     "maxplayers": "6",
     "playingtime": "15",
+    "minplaytime": "15",
+    "maxplaytime": "15",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/5tnV72WN5PhdgZRxHJWboA__original/img/FnpWUo0XT0W3SqXV0dIGucB5f64=/0x0/filters:format(png)/pic7724063.png",
     "thumbnail": "https://cf.geekdo-images.com/5tnV72WN5PhdgZRxHJWboA__small/img/7TwUHNGgwby0yWZbfZ3qFdcEuJU=/fit-in/200x150/filters:strip_icc()/pic7724063.png",
+    "description": "In Cortex Challenge, you'll need to be witty and quick to win! Turn over a card, and 1 of 8 types of puzzles will be revealed. The first player to solve it wins that card! With special tactile cards, Cortex Challenge is a unique experience.\n\nThis version of Cortex is for super brains only! Tougher challenges and complex tactile cards await players who are up for the challenge.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Card Game",
+      "Maze",
+      "Memory",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Memory",
+      "Pattern Recognition"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": null,
     "rating": 6.4,
     "weight": 3.0
   },
@@ -898,9 +2348,23 @@
     "minplayers": "2",
     "maxplayers": "6",
     "playingtime": "15",
+    "minplaytime": "15",
+    "maxplaytime": "15",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/4p5-n6Zx-TwMcxYlrTEZjA__original/img/ZLQY0DlczQhGW5ZLeB3Hpl7lnjs=/0x0/filters:format(jpeg)/pic4990504.jpg",
     "thumbnail": "https://cf.geekdo-images.com/4p5-n6Zx-TwMcxYlrTEZjA__small/img/g-GkawqMb8doep5PjhWSopSuCZ8=/fit-in/200x150/filters:strip_icc()/pic4990504.jpg",
+    "description": "Cortex 3 is another member of the Cortex family of popular games. Cortex games practice logical thinking, memory, perception, but also the ability to solve tasks under time pressure. While Cortex 3 has special tactile cards in the first Cortexes, Do you know how to smell strawberries?\n\nYou can combine Cortex perceptual educational games together to create your own Cortex.\n\nGame Cortex 3 includes: 80 task cards, 10 scent cards, 6 brain puzzles and rules.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Card Game",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Memory",
+      "Pattern Recognition"
+    ],
+    "expansions_bgg": [],
+    "best_players": "4",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.1,
     "weight": 1.2
   },
@@ -914,9 +2378,21 @@
     "minplayers": "3",
     "maxplayers": "6",
     "playingtime": "90",
+    "minplaytime": "90",
+    "maxplaytime": "90",
     "minage": "18",
     "image": "https://cf.geekdo-images.com/11n5l5NwDkUB40QPlw2yIg__original/img/XSTesT796EeeoBl7QeORoO7Ll4A=/0x0/filters:format(png)/pic4729721.png",
     "thumbnail": "https://cf.geekdo-images.com/11n5l5NwDkUB40QPlw2yIg__small/img/-8i8V-TI5HEsYxRvQ7HVNvg7R1g=/fit-in/200x150/filters:strip_icc()/pic4729721.png",
+    "description": "How would you react if you:\n\n- Accidentally farted loudly in an elevator full of strangers? \n- Found out you were adopted? \n- Were offered a sandwich with nothing but bacon and Nutella?\n\nLean more about yourself and others, as you guess and bet on the reactions to the wide variety of comic, and mind-boggling scenarios in 'What do you meme?' - or make up your own scenarios as the game progresses!\n\nWith illustrations based on popular internet memes such as \"Me Gusta\", \"Challenge Accepted\" and \"Rage Guy\", you choose one of 7 meme cards, as a reaction to a loud-read scenario. The other players must then guess and bet on your reaction, and you'll bet on which of the other players you think has guessed it right.\n\nPlayers will take turns to react clockwise around the table, and after 3 rounds of betting a maximum of 3 tokens, you'll get the chance to catch up, or to obliterate the competition, by betting all of your accumulated cash from earlier rounds in the final, climatic 4th round where anything can happen!\n\nChallenge accepted?",
+    "categories": [
+      "Party Game"
+    ],
+    "mechanics": [
+      "Betting and Bluffing"
+    ],
+    "expansions_bgg": [],
+    "best_players": "3, 4, 5, 6",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 4.9,
     "weight": 1.0
   },
@@ -930,9 +2406,23 @@
     "minplayers": "3",
     "maxplayers": "9",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "12",
     "image": "https://cf.geekdo-images.com/exI9GI3g_Y8HEzJYQUT7QQ__original/img/qQmUsX5sGeZaXSEJwb1DHh4Z4hg=/0x0/filters:format(jpeg)/pic9113801.jpg",
     "thumbnail": "https://cf.geekdo-images.com/exI9GI3g_Y8HEzJYQUT7QQ__small/img/uESwe1W3aisMXSzWJrsFuTFahkk=/fit-in/200x150/filters:strip_icc()/pic9113801.jpg",
+    "description": "Mouton Mouton, the game that puts your team spirit to the test!\n\nComplete phrases at the same time as your partner &mdash; if your answers match, you win the card!\nChain together matching answers to boost your score&hellip; \nbut beware: one mistake, and it all comes crashing down!\n\nThe first team at 7 points wins.\n\nHighlights:\n\n     Super simple rules\n     Guaranteed laughter\n     High-stakes risk management\n     Incredibly addictive!\n\n\n&mdash;description from the publisher",
+    "categories": [
+      "Humor",
+      "Party Game",
+      "Trivia"
+    ],
+    "mechanics": [
+      "Team-Based Game"
+    ],
+    "expansions_bgg": [],
+    "best_players": "6, 8",
+    "language_dependence": "Unplayable in another language",
     "rating": 6.5,
     "weight": 1.0
   },
@@ -946,9 +2436,26 @@
     "minplayers": "2",
     "maxplayers": "7",
     "playingtime": "15",
+    "minplaytime": "15",
+    "maxplaytime": "15",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/4zIkoE-cALEcZK_aYBw0xg__original/img/eqymq_ep7j_1yWibXa-o-_2QaBU=/0x0/filters:format(png)/pic8308472.png",
     "thumbnail": "https://cf.geekdo-images.com/4zIkoE-cALEcZK_aYBw0xg__small/img/u61nd2vpEXGmRtCwnaA9I-BTW6Q=/fit-in/200x150/filters:strip_icc()/pic8308472.png",
+    "description": "Slingz is a dynamic card game in which you're trying to shout out answers faster than ever before.\n\nEach player starts with a hand of five letter cards, then you reveal a theme. Think of a word that fits the theme and starts with one of your letters, then sling that card on the table, yelling out the word. As soon as three words have been given, reveal a new theme and switch your brainwaves to the new challenge.\n\nThe first player to ditch their five letters wins the round.",
+    "categories": [
+      "Card Game",
+      "Mature / Adult",
+      "Party Game",
+      "Real-time",
+      "Word Game"
+    ],
+    "mechanics": [
+      "Real-Time",
+      "Speed Matching"
+    ],
+    "expansions_bgg": [],
+    "best_players": "4",
+    "language_dependence": "Unplayable in another language",
     "rating": 6.4,
     "weight": 1.0
   },
@@ -962,9 +2469,29 @@
     "minplayers": "2",
     "maxplayers": "10",
     "playingtime": "30",
+    "minplaytime": "15",
+    "maxplaytime": "30",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/wX4cTWNjTG7XiGHGgSpiiw__original/img/86bXDwl4gmMb_GehNQ-9y6O9G0E=/0x0/filters:format(png)/pic8630033.png",
     "thumbnail": "https://cf.geekdo-images.com/wX4cTWNjTG7XiGHGgSpiiw__small/img/vU6kaL3f06BaVfmwUV91trrvDng=/fit-in/200x150/filters:strip_icc()/pic8630033.png",
+    "description": "Liar's Dice, a.k.a. Bluff, Perudo or Dudo, is a South American dice game in which each player is given five dice and cup to roll and hide them with. Players make successively higher declarations regarding the results of all the dice remaining in the game, e.g. \"there are ten sixes\". However, someone can always contest the bid. When that happens, all the dice are revealed and either the bidder or the caller loses dice, depending on who was correct. The last player with dice is the winner.\n\nAs a public domain dice game, there are a number of variants or similar games called Liar's Dice. This includes one that is often played with Poker Dice, and differs from the marketed versions in that players only declare on their own hand's value (as opposed to all dice being in play), using poker-hand values.",
+    "categories": [
+      "Bluffing",
+      "Children's Game",
+      "Dice",
+      "Movies / TV / Radio theme",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Betting and Bluffing",
+      "Dice Rolling",
+      "Player Elimination"
+    ],
+    "expansions_bgg": [
+      "Cups 'N' Dice"
+    ],
+    "best_players": "6",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.9,
     "weight": 1.25
   },
@@ -978,9 +2505,44 @@
     "minplayers": "2",
     "maxplayers": "8",
     "playingtime": "30",
+    "minplaytime": "10",
+    "maxplaytime": "30",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/GHrnr-Khb0LvBU_QkrC_qA__original/img/1BR5aHWIz_v4ki-YB2IiMuS-uIs=/0x0/filters:format(png)/pic7192024.png",
     "thumbnail": "https://cf.geekdo-images.com/GHrnr-Khb0LvBU_QkrC_qA__small/img/pFt03CkI8uo3rOi4E7_ZrZfSmIM=/fit-in/200x150/filters:strip_icc()/pic7192024.png",
+    "description": "Taco Cat Goat Cheese Pizza is filled to the brim with hand-slapping mayhem! As in Snap and Dobble, each player places a card from their hand face up into a community pile while saying taco/cat/goat/cheese/pizza in player sequence. When the card matches the mantra &mdash; boom! &mdash; everyone slaps their hand on the deck, with the last one to slap picking up the cards. Whoever rids themselves of cards first wins!\n\nFor extra fun, special action cards &ndash; the gorilla, narwhal, and groundhog &mdash; force players to make certain gestures before racing to slap the deck!",
+    "categories": [
+      "Action / Dexterity",
+      "Card Game",
+      "Children's Game",
+      "Party Game",
+      "Real-time"
+    ],
+    "mechanics": [
+      "Interrupts",
+      "Pattern Recognition",
+      "Race",
+      "Real-Time",
+      "Speed Matching"
+    ],
+    "expansions_bgg": [
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Capivara 1",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Capivara 2",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Capivara 3",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Capivara 4",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Capivara 5",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Gorila 2",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Gorila 5",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Marmota 1",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Marmota 4",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Narval 3",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Narval 6",
+      "Taco Gato Cabra Queijo Pizza: Carta Especial Rena",
+      "Taco Gato Cabra Queso Pizza: Cabra promo",
+      "Taco Gato Cabra Queso Pizza: Carpincho promo"
+    ],
+    "best_players": "4",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.5,
     "weight": 1.03
   },
@@ -994,9 +2556,22 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "20",
+    "minplaytime": "10",
+    "maxplaytime": "20",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/DBLPgJUarcoWTHWF9dAdfw__original/img/RN3sT_JjPCTlRlm6KrDz3FSog3Y=/0x0/filters:format(jpeg)/pic8306756.jpg",
     "thumbnail": "https://cf.geekdo-images.com/DBLPgJUarcoWTHWF9dAdfw__small/img/cf5-rlr4ZZStOGPYJiwTKaTgmbY=/fit-in/200x150/filters:strip_icc()/pic8306756.jpg",
+    "description": "In Dream you must complete your dream by playing Dream and Rem cards, completing the sequence from 1 to 6 and you will try to hinder the success of your opponents&rsquo; dreams, thanks to the Nightmare cards.\nEach turn you will draw cards or play them, in your sequence or in that of an opponent, until a player completes their dream by winning the game.\n\nThe game takes place in several turns, until a player completes their Dream sequence, thanks to the Dream and/or Rem cards, or when all players have finished their cards in their hands.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Card Game"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Multi-Use Cards"
+    ],
+    "expansions_bgg": [],
+    "best_players": "2",
+    "language_dependence": null,
     "rating": 6.5,
     "weight": 1.0
   },
@@ -1009,16 +2584,34 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "30",
+    "minplaytime": "15",
+    "maxplaytime": "30",
     "minage": "6",
     "image": "https://cf.geekdo-images.com/SF1CpIxueo7kxtycghJwPA__original/img/kn4bcLX_3HttLRnRLeknn8GXSGc=/0x0/filters:format(jpeg)/pic5497692.jpg",
     "thumbnail": "https://cf.geekdo-images.com/SF1CpIxueo7kxtycghJwPA__small/img/WuobthCACt1X57RVas4LDECJ5fc=/fit-in/200x150/filters:strip_icc()/pic5497692.jpg",
+    "description": "Create your Robot, there are several models. But watch out for the devastating robot and its gang, dynamite ... and the wickedness of your opponents!\nThe aim of the game is to win the game by building your own Robot first with 1 Head, 1 Bust, 1 Left Arm, 1 Right Arm, 1 Left Leg, 1 Right Leg.\n\nPREPARATION and VICTORY\nShuffle the deck and place it face down in the center of the table.\nDuring the game, the discard pile (cards played) and the market area (where the Robot-components you have drawn and which cannot be used for your Robot) will be placed on the sides of the deck.\nThe youngest player starts the game by drawing the top card.\nThe game ends when a player completes his Robot with the six required Robot-Component cards. If there are no more cards to draw: take all the cards from the discards, from the market and from ALL the deposits, shuffle them and continue the game, repeat this operation until there is a winner.\n\nGAME TURN\nEach player during his turn can only perform ONE action from the following:\n\n- Draw a card from the deck showing it to everyone, if the card is a Robot-Component that you don't have, it must be placed in front of you\ngoing to train your Robot, otherwise if it is a Robot-Component you already own, it must be positioned in the market area.\nIf you lose one or all of the components of your Robot, due to MINI ROBOT DEVASTATOR or BAND of MINI ROBOTS DEVASTATORI cards, you can continue with different components from the previous one, by fishing or buying them on the market at the cost of 3 BOLTS.\nThe other cards: Bolt, Guard Robot, Mini Robot Devastator and Band of Mini Robots Devastators, must be positioned to the side of your Robot to form an area that we are going to call deposit, and played when you want, in a subsequent turn, when you decide not to draw a card or when you are attacked by an opponent.\nIf you draw the DYNAMITE card it must be played immediately.\n\n- Use one card from your warehouse: MINI ROBOT DEVASTATOR or BAND of MINI ROBOTS DEVASTATORI to distract the Robot from the opponents or three BOLT cards to purchase a ROBOT-COMPONENTS card from the market.",
+    "categories": [
+      "Card Game",
+      "Children's Game"
+    ],
+    "mechanics": [
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": null,
     "rating": 6.5,
     "weight": 0.0,
     "matched": true
   },
   {
     "name": "Hive",
-    "expansions": [],
+    "expansions": [
+      "Mosquito",
+      "Pillbug",
+      "Ladybug"
+    ],
     "matched": true,
     "bgg_id": "2655",
     "bgg_name": "Hive",
@@ -1026,9 +2619,51 @@
     "minplayers": "2",
     "maxplayers": "2",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "9",
     "image": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__original/img/eqUVrCJKcMBGBhw4Gfc9_9JabYE=/0x0/filters:format(jpeg)/pic791151.jpg",
     "thumbnail": "https://cf.geekdo-images.com/fQe85tsBZoH6ibPnm1k1UA__small/img/8ULXa8v7095ohgXMMmNlCGrC7zU=/fit-in/200x150/filters:strip_icc()/pic791151.jpg",
+    "description": "Hive is a strategic game for two players that is not restricted by a board and can be played anywhere on any flat surface. Hive is made up of twenty two pieces, eleven black and eleven white, resembling a variety of creatures each with a unique way of moving.\n\nWith no setting up to do, the game begins when the first piece is placed down. As the subsequent pieces are placed this forms a pattern that becomes the playing surface (the pieces themselves become the board). Unlike other such games, the pieces are never eliminated and not all have to be played. The object of the game is to totally surround your opponent's queen, while at the same time trying to block your opponent from doing likewise to your queen. The player to totally surround his opponent's queen wins the game.\n\n&bull;&bull;&bull;\n\nHive FAQ - please read before posting questions in the forum!",
+    "categories": [
+      "Abstract Strategy",
+      "Animals"
+    ],
+    "mechanics": [
+      "Enclosure",
+      "Grid Movement",
+      "Hexagon Grid",
+      "Pattern Movement",
+      "Pieces as Map",
+      "Three Dimensional Movement",
+      "Tile Placement"
+    ],
+    "expansions_bgg": [
+      "Assassin Bug (fan expansion for Hive)",
+      "Butterfly (fan expansion for Hive)",
+      "Centipede (fan expansion for Hive)",
+      "Cockroach (fan expansion for Hive)",
+      "Dragonfly (fan expansion for Hive)",
+      "The Earthworm (fan expansion for Hive)",
+      "Earwig (fan expansion for Hive)",
+      "Firefly (fan expansion for Hive)",
+      "The Firefly (fan expansion for Hive)",
+      "Flea (fan expansion for Hive)",
+      "Fly (fan expansion for Hive)",
+      "Hive Colony (fan expansion for Hive)",
+      "Hive: The Ladybug",
+      "Hive: The Mosquito",
+      "Hive: The Pillbug",
+      "Moth (fan expansion for Hive)",
+      "Praying Mantis (fan expansion for Hive)",
+      "Queen Wasp (fan expansion for Hive)",
+      "Scorpion (fan expansion for Hive)",
+      "Shieldbug (fan expansion for Hive)",
+      "Stick-bug (fan expansion for Hive)",
+      "Tick (fan expansion for Hive)"
+    ],
+    "best_players": "2",
+    "language_dependence": "No necessary in-game text",
     "rating": 7.3,
     "weight": 2.31
   },
@@ -1042,9 +2677,26 @@
     "minplayers": "1",
     "maxplayers": "8",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "6",
     "image": "https://cf.geekdo-images.com/YH5C06snaoJtDqKjwMROPw__original/img/gB1mfMGbSkXgYxU5FA4QWForCZk=/0x0/filters:format(jpeg)/pic5140451.jpg",
     "thumbnail": "https://cf.geekdo-images.com/YH5C06snaoJtDqKjwMROPw__small/img/cSHIiN_mZQEqKMI1G7qRbTMp4nk=/fit-in/200x150/filters:strip_icc()/pic5140451.jpg",
+    "description": "Jenga is tower building game played with 54 wooden blocks; each block is 3 times as long as it is wide, and slightly smaller in height than in width. The blocks are stacked in a tower formation; each story is three blocks placed adjacent to each other along their long side, and each story is placed perpendicular to the previous (so, for example, if the blocks in the first story are pointing north-south, the second story blocks will point east-west). There are therefore 18 stories to the Jenga tower. Since stacking the blocks neatly can be tedious, a plastic loading tray is included.\n\nOnce the tower is built, the person who built the tower moves first. Moving in Jenga consists of taking one and only one block from any story except the completed top story of the tower at the time of the turn, and placing it on the topmost story in order to complete it. Only one hand at a time may be used to remove a block; both hands can be used, but only one hand may be on the tower at a time. Blocks may be bumped to find a loose block that will not disturb the rest of the tower. Any block that is moved out of place may be left out of place if it is determined that it will knock the tower over if it is removed. The turn ends when the next person to move touches the tower, although he or she can wait 10 seconds before moving for the previous turn to end if they believe the tower will fall in that time.\n\nThe game ends when the tower falls in any significant way -- in other words, any piece falls from the tower, other than the piece being knocked out to move to the top. The loser is the person who made the tower fall (i.e. whose turn it was when the tower fell); the winner is the person who moved before the loser.\n\nThe same game concept was published in 1984 by Fagus under the name \"Hoppla - eins zuviel!\" According to the designer, the game was developed from Takoradi blocks/bricks. \"Jenga\" is Swahili for \"build\".",
+    "categories": [
+      "Action / Dexterity",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Physical Removal",
+      "Single Loser Game",
+      "Stacking and Balancing"
+    ],
+    "expansions_bgg": [
+      "Jenga: Downfall Expansion"
+    ],
+    "best_players": "4",
+    "language_dependence": "No necessary in-game text",
     "rating": 5.7,
     "weight": 1.1
   },
@@ -1058,9 +2710,24 @@
     "minplayers": "3",
     "maxplayers": "8",
     "playingtime": "2",
+    "minplaytime": "2",
+    "maxplaytime": "2",
     "minage": "6",
     "image": "https://cf.geekdo-images.com/qiPO300rG73UqxJvpUe3og__original/img/r-ZepVlPDZRwmxcWJgLA4GpaXfY=/0x0/filters:format(jpeg)/pic7354069.jpg",
     "thumbnail": "https://cf.geekdo-images.com/qiPO300rG73UqxJvpUe3og__small/img/jo26IkaY-DSx4MhfRQ7lDHCPtbo=/fit-in/200x150/filters:strip_icc()/pic7354069.jpg",
+    "description": "Happy Salmon is a simple, ultra-fast, very silly card game.\n\nThere are no turns. Players call out the action shown on their cards as fast as they can. When two players have a match, they celebrate by performing the action. Actions include the classic \"High 5\", the unifying \"Pound It\", the frantic \"Switcheroo\", and the delightful and bizarre \"Happy Salmon\".\n\nEach time a player celebrates a match, they quickly discard a card. The first person to get rid of all their cards wins.",
+    "categories": [
+      "Animals",
+      "Children's Game",
+      "Party Game",
+      "Real-time"
+    ],
+    "mechanics": [
+      "Real-Time"
+    ],
+    "expansions_bgg": [],
+    "best_players": "6",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 6.6,
     "weight": 1.06
   },
@@ -1074,9 +2741,22 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "20",
+    "minplaytime": "15",
+    "maxplaytime": "20",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/ofJgBQhWUCDcJHo4XzfzSg__original/img/V4ZgzGXt5jbkNqH7q7I4jW2EyA8=/0x0/filters:format(jpeg)/pic9033956.jpg",
     "thumbnail": "https://cf.geekdo-images.com/ofJgBQhWUCDcJHo4XzfzSg__small/img/bBgSmQ-GFlbKl_Mud0IXoXiBMTc=/fit-in/200x150/filters:strip_icc()/pic9033956.jpg",
+    "description": "In this clever card game of bluff and timing, players must collect exactly five Spheres of the same color to score a point. But beware &mdash; if you go over five, you bust and lose all cards of that color!\n\nOn your turn, choose one of two cards:\n\n     the face-up card (where both color and number of Spheres are visible),\n     or the face-down card (which reveals only partial information: either the color or the number of Spheres).\n\n\nThen decide: will you keep the card for yourself or give it to another player? You must choose before revealing the card!\n\nPlayers arrange cards in their play area by color. If you reach exactly five Spheres of a color, you score 1 point and move those cards to your scoring area. But if you exceed five, you must discard all cards of that color &mdash; and if it&rsquo;s a color you've already scored, you lose the point, too!\n\nCamelio mixes tactical decisions, lucky guesses, and sneaky moves to deliver a fast-paced and fun experience for all players!\n\n&mdash;description from the publisher",
+    "categories": [
+      "Card Game"
+    ],
+    "mechanics": [
+      "Push Your Luck",
+      "Set Collection"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": "No necessary in-game text",
     "rating": 6.9,
     "weight": 1.0
   },
@@ -1089,9 +2769,28 @@
     "minplayers": "1",
     "maxplayers": "8",
     "playingtime": "30",
+    "minplaytime": "30",
+    "maxplaytime": "30",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/ZxveyZzsTslxuw9E-Vk5ew__original/img/J5zqV8t5MBFcqSY-wXfyBqg2QXI=/0x0/filters:format(png)/pic9023465.png",
     "thumbnail": "https://cf.geekdo-images.com/ZxveyZzsTslxuw9E-Vk5ew__small/img/rG-bVEBBKLv2Mk38H1PzGPFoEYM=/fit-in/200x150/filters:strip_icc()/pic9023465.png",
+    "description": "Abbey in Valcamonica, 1385. An inquisitor is found dead in the ancient library. What mysteries does this sacred place hold?\n\nMini Crimes is a cooperative detective game in which you will test your observation and deduction skills to solve a mysterious case. You will analyze a crime scene and up to 10 clues. \nIn the Mysteries from the Past series, you will have to solve cases set in different eras: from ancient Greece to the Middle Ages, will you be able to discover the truth?\n\nSix chapters for six compact boxes to take with you in any situation: the box itself contains the rules of the game, and together with the deck of cards it contains, it will be enough to obtain all the clues necessary for the solution!\n\nIn Mini Crimes - Mysteries from the Past: Those who trespass, an inquisitor is found dead among the dusty shelves of a medieval abbey. Every monk has his secrets... and not all of them pray for the truth.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Medieval",
+      "Murder / Mystery",
+      "Puzzle"
+    ],
+    "mechanics": [
+      "Cooperative Game",
+      "Deduction",
+      "Scenario / Mission / Campaign Game",
+      "Storytelling"
+    ],
+    "expansions_bgg": [],
+    "best_players": "2",
+    "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 7.6,
     "weight": 1.0,
     "matched": true
@@ -1106,9 +2805,30 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__original/img/xIAzJY7rl-mtPStRZSqnTVsAr8Y=/0x0/filters:format(jpeg)/pic1401448.jpg",
     "thumbnail": "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__small/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg",
+    "description": "All of the eligible young men (and many of the not-so-young) seek to woo the princess of Tempest. Unfortunately, she has locked herself in the palace, and you must rely on others to take your romantic letters to her. Will yours reach her first?\n\nLove Letter is a game of risk, deduction, and luck for 2&ndash;4 players. Your goal is to get your love letter into Princess Annette's hands while deflecting the letters from competing suitors. From a deck with only sixteen cards, each player starts with only one card in hand; one card is removed from play. On a turn, you draw one card, and play one card, trying to expose others and knock them from the game. Powerful cards lead to early gains, but make you a target. Rely on weaker cards for too long, however, and your letter may be tossed in the fire!\n\nNumber 4 in the Setting: Tempest Shared World Game Series",
+    "categories": [
+      "Card Game",
+      "Deduction",
+      "Renaissance"
+    ],
+    "mechanics": [
+      "Deduction",
+      "Hand Management",
+      "Player Elimination",
+      "Score-and-Reset Game",
+      "Take That"
+    ],
+    "expansions_bgg": [
+      "Big Love Letter",
+      "Love Letter: Erweiterung"
+    ],
+    "best_players": "4",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.2,
     "weight": 1.18
   },
@@ -1122,9 +2842,29 @@
     "minplayers": "1",
     "maxplayers": "5",
     "playingtime": "20",
+    "minplaytime": "15",
+    "maxplaytime": "20",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__original/img/ryAqjh1RzofMQXC77hyqMFVpNV8=/0x0/filters:format(png)/pic6152802.png",
     "thumbnail": "https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__small/img/8YdbYqiyOw64OzqvXpWGzHb2Xr0=/fit-in/200x150/filters:strip_icc()/pic6152802.png",
+    "description": "Jump on board the good ship Tranquility and set sail for paradise. Take care, though, because in a land where the day blends into night it's easy to lose track of time and you still need to find that special little island to call home.\n\nTranquility is a co-operative card game in which players must fill the sea with islands &mdash; specifically island cards with numbers on them &mdash; and guide the ship home before any player runs out of cards. Note that in the world of Tranquility, the only way to play is in silence.\n\n---\n\nThe goal of the game is for the team to complete the grid before any player runs out of available actions. Cards must be placed so that the grid ascends in numerical order from bottom left to top right. All the players win if they manage to complete the grid and have placed a Start and Finish card. All players lose if a single player can no longer play or discard any cards legally following the instructions given below. The players may not, however, communicate.\n\nPlay is taken in turns moving clockwise with the quietest player going first. On a player&rsquo;s turn they must do one of the following: 1. Play a card or 2. Discard two cards. Then they must draw back up to a hand of five cards. Cards must be placed so that the grid ascends in numerical order from bottom left to top right. If the card is placed next to an existing card in the sequence then they must discard cards from their hand equal to the difference between the numbers face down in front of them e.g. placing a 5 next to a 3 will require two cards to be discarded from their hand. This applies even if the cards are on different rows.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Card Game",
+      "Nautical",
+      "Number"
+    ],
+    "mechanics": [
+      "Communication Limits",
+      "Cooperative Game",
+      "Hand Management",
+      "Solo / Solitaire Game",
+      "Tile Placement"
+    ],
+    "expansions_bgg": [
+      "Tranquility: Stormy Seas"
+    ],
+    "best_players": "2",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.9,
     "weight": 1.36
   },
@@ -1138,9 +2878,25 @@
     "minplayers": "2",
     "maxplayers": "8",
     "playingtime": "25",
+    "minplaytime": "15",
+    "maxplaytime": "25",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/ymAtDJifAjZVpcVOxl-sHQ__original/img/vGVwJb0d1WOdrWHf83rmYS9wyLQ=/0x0/filters:format(jpeg)/pic9035735.jpg",
     "thumbnail": "https://cf.geekdo-images.com/ymAtDJifAjZVpcVOxl-sHQ__small/img/yyDmIsSotMz7MP52hDwOu8nmOVU=/fit-in/200x150/filters:strip_icc()/pic9035735.jpg",
+    "description": "In each round, draw a category card and two letter cards&mdash;one yes and one no&mdash;and you'll have to quickly find a word that:\nBelongs to the indicated category\nContains the letter YES\nDoes NOT include the letter NO\n\nSounds easy? Just wait until you have to do it faster than everyone else!\nWith unpredictable categories and hilarious combinations, YES but NO is the party game that challenges your reflexes, vocabulary, and... nerves of steel!\nPerfect for groups, families, and game nights with friends.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Card Game",
+      "Party Game",
+      "Real-time",
+      "Word Game"
+    ],
+    "mechanics": [
+      "Real-Time",
+      "Speed Matching"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": null,
     "rating": 6.7,
     "weight": 0.0
   },
@@ -1154,9 +2910,26 @@
     "minplayers": "4",
     "maxplayers": "99",
     "playingtime": "10",
+    "minplaytime": "10",
+    "maxplaytime": "10",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/d-nb2hUIkGqiA9o0pJoXjw__original/img/zJxp7VKCwwzabm0mBkhLFE5dbD4=/0x0/filters:format(jpeg)/pic3784837.jpg",
     "thumbnail": "https://cf.geekdo-images.com/d-nb2hUIkGqiA9o0pJoXjw__small/img/Edco377RbashsgUTVc_oB84xYIs=/fit-in/200x150/filters:strip_icc()/pic3784837.jpg",
+    "description": "This game is like Charades on 'Speed'. The active player gets four cards. Each card has two words on it, one easy, one difficult. The harder the word, the more points it's worth. The player picks one word from each card and loads them into the timer device. They then have about a minute to communicate the words to teammates; when a word is guessed correctly, the card must be snatched out of the timer. The timer, meanwhile, will \"eat\" the cards, one at a time, if they aren't snatched. You get points for each card successfully rescued from the timer.\n\nReimplemented with different rules: Electronic Guesstures",
+    "categories": [
+      "Card Game",
+      "Party Game",
+      "Word Game"
+    ],
+    "mechanics": [
+      "Acting",
+      "Role Playing",
+      "Roll / Spin and Move",
+      "Team-Based Game"
+    ],
+    "expansions_bgg": [],
+    "best_players": "8",
+    "language_dependence": "Unplayable in another language",
     "rating": 5.9,
     "weight": 1.18
   },
@@ -1170,9 +2943,22 @@
     "minplayers": "4",
     "maxplayers": "10",
     "playingtime": "20",
+    "minplaytime": "20",
+    "maxplaytime": "20",
     "minage": "13",
     "image": "https://cf.geekdo-images.com/DWMT6FxLomGvgYzfKJTuKw__original/img/3vVZocHrL83503Ya0dEXS1zTtwI=/0x0/filters:format(jpeg)/pic4466127.jpg",
     "thumbnail": "https://cf.geekdo-images.com/DWMT6FxLomGvgYzfKJTuKw__small/img/C6-AyY0PP5fFzG1eDyVcWCwHd1g=/fit-in/200x150/filters:strip_icc()/pic4466127.jpg",
+    "description": "In most games - even your favorite one - there&rsquo;s nothing really serious at stake. But, It Dies With Me is different. Take a peek into the soul; the deep, dark, twisted heart of your opponent. The player that wins, will learn a secret, something never told to anyone! One player at the table has a secret, and it's about them. They've even written in down and placed it in a secret envelope on the table. Do you want to read it? WIN THE GAME. The secret can never be shared, or be repeated. That's because it's written on EDIBLE PAPER with a FOOD COLORING MARKER, and it must be EATEN to make sure the secret DIES with the winner of the game!\n\nEach player (including the player whose secret is in the game) has one six sided die and a mini coffin. Players use their coffins to hide a secret die number they've chosen, trying to be the highest or lowest unique number. That's right, no rolling of these dice. Players can choose any number from one to six. Everyone opens their coffin at the same time to see who wins each round. Choose wisely, or your number might get cancelled out!\n\nEach round there are TWO winners! One winner draws a card. The other moves their token. Players try to collect a set of four cards to form the phrase: IT - DIES - WITH - ME. OR, move their token across the six grave tiles, all the way to the SECRET ENVELOPE. Complete just one of these goals, and you win. You get to READ THE SECRET! Just remember, that secret must die with you.",
+    "categories": [
+      "Bluffing",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Take That"
+    ],
+    "expansions_bgg": [],
+    "best_players": "6",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 5.9,
     "weight": 1.0
   },
@@ -1191,9 +2977,19 @@
     "minplayers": "2",
     "maxplayers": "4",
     "playingtime": "15",
+    "minplaytime": "15",
+    "maxplaytime": "15",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/01eKHU6-WKLV9yNwRTqaRg__original/img/GIibga4JSjxg9CKdkxHrIIRBksU=/0x0/filters:format(jpeg)/pic210884.jpg",
     "thumbnail": "https://cf.geekdo-images.com/01eKHU6-WKLV9yNwRTqaRg__small/img/mzB5eQQgx0LjYUX3g70m4I-MwOQ=/fit-in/200x150/filters:strip_icc()/pic210884.jpg",
+    "description": "You have a board of 10x10 squares and enough tiles to fill it completely. All 100 tiles have a different face on it, there are no duplicate tiles. You place the tiles on the board one by one but you have to match at least one item (face, mouth, nose, hair, eyes) with adjacent tiles (orthogonally).\n\nThere is a variant for older players where you give points for each matching item per adjacent tile. Maximum score per tile is thus 4x4=16 points.",
+    "categories": [],
+    "mechanics": [
+      "Tile Placement"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": "No necessary in-game text",
     "rating": 5.8,
     "weight": 1.33
   },
@@ -1207,9 +3003,29 @@
     "minplayers": "2",
     "maxplayers": "6",
     "playingtime": "25",
+    "minplaytime": "10",
+    "maxplaytime": "25",
     "minage": "3",
     "image": "https://cf.geekdo-images.com/D5eq1Os9V64Co48ErlXikQ__original/img/TpZVTih3LDRIvOJy-Qa-yUfJOcI=/0x0/filters:format(png)/pic9628595.png",
     "thumbnail": "https://cf.geekdo-images.com/D5eq1Os9V64Co48ErlXikQ__small/img/BaLU4XE3deTLxUZNfI1PiXbu698=/fit-in/200x150/filters:strip_icc()/pic9628595.png",
+    "description": "Domino&eacute; is much more than a simple dominoes game. It&rsquo;s a fun, contemporary way to teach fundamental biblical values such as obedience, salvation and judgement, through a story we all know and love: Noah&rsquo;s ark.\n\nWhen God asked Noah to build an ark to save humanity and animals from the great Flood, He made sure to guide His creatures to enter the ark in pairs. In this game, your challenge is to find those pairs joining together male and female from the same species and distinguishing between clean and unclean animals according to the divine instructions found in Leviticus 11.\n\nSimple, strategic and purpose-filled, Domino&eacute; invites the whole family to delve into this adventure and help save the animals from the Flood.\n\n&mdash;description from the publisher",
+    "categories": [
+      "Ancient",
+      "Animals",
+      "Children's Game",
+      "Educational",
+      "Religious"
+    ],
+    "mechanics": [
+      "Connections",
+      "Matching",
+      "Pattern Recognition",
+      "Race",
+      "Tile Placement"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": null,
     "rating": 0.0,
     "weight": 0.0
   },
@@ -1223,9 +3039,30 @@
     "minplayers": "1",
     "maxplayers": "4",
     "playingtime": "30",
+    "minplaytime": "30",
+    "maxplaytime": "30",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/asDr6EII7opGeOhAO1SCBg__original/img/YPf44TkJ2yvnRQMMCpb2h7rMu0w=/0x0/filters:format(jpeg)/pic1753693.jpg",
     "thumbnail": "https://cf.geekdo-images.com/asDr6EII7opGeOhAO1SCBg__small/img/9pvHqmsytWb8d7-uEwwdJxyuB5o=/fit-in/200x150/filters:strip_icc()/pic1753693.jpg",
+    "description": "A set of 9 lettered dice are rolled simultaneously and players form as many words as possible as quickly as possible with points scored for non-duplicated words and for longer words.\n\nEach player tries to form 10 words with at least four of the letters shown, thus ending the round. Each word that only one player wrote scores a point; additional points are awarded for longer words; points are deducted for misspellings or using letters not shown.\n\nPlay on Wordz is a word dice game.\n\nSimilar to:\n\n    Stellar Speller (which has 7 dice instead of 9, and is sold by Discovery Toys)",
+    "categories": [
+      "Dice",
+      "Educational",
+      "Memory",
+      "Puzzle",
+      "Real-time",
+      "Word Game"
+    ],
+    "mechanics": [
+      "Dice Rolling",
+      "Memory",
+      "Paper-and-Pencil",
+      "Pattern Recognition",
+      "Spelling"
+    ],
+    "expansions_bgg": [],
+    "best_players": null,
+    "language_dependence": null,
     "rating": 6.0,
     "weight": 1.5
   },
@@ -1239,9 +3076,31 @@
     "minplayers": "1",
     "maxplayers": "4",
     "playingtime": "20",
+    "minplaytime": "15",
+    "maxplaytime": "20",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/h_bVZGn0gcOq1BLse8mpug__original/img/FQWTLuJH_CrpL1pyRNPtzC0BXvY=/0x0/filters:format(jpeg)/pic6431805.jpg",
     "thumbnail": "https://cf.geekdo-images.com/h_bVZGn0gcOq1BLse8mpug__small/img/SAoVofKlZJON-AuH3TfN7xjyVCM=/fit-in/200x150/filters:strip_icc()/pic6431805.jpg",
+    "description": "A puzzly abstract card game of hen breeding.\n\nIn Hens you are a hen breeder! Each round you will play a hen card from your hand, trying to create a harmonious barnyard with different hen breeds. The rules to place cards are few and simple, but the difficulty lies in making large groups of hens of the same breed.\n\nAt the end of the game you will gain points from your largest group of hens of the same breed in your barnyard, from your rooster token and from the goal card. Don&rsquo;t forget some rare hens give you medals worth points at the end of the game.\n\nThe hen breeder with the best barnyard wins!\n\n&mdash;description from the publisher",
+    "categories": [
+      "Abstract Strategy",
+      "Animals",
+      "Card Game"
+    ],
+    "mechanics": [
+      "Hand Management",
+      "Open Drafting",
+      "Pattern Building",
+      "Set Collection",
+      "Tile Placement",
+      "Variable Set-up"
+    ],
+    "expansions_bgg": [
+      "Hens: Italian Breeds",
+      "Hens: Promo cards"
+    ],
+    "best_players": "4",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.8,
     "weight": 1.86
   },
@@ -1255,9 +3114,31 @@
     "minplayers": "3",
     "maxplayers": "8",
     "playingtime": "30",
+    "minplaytime": "10",
+    "maxplaytime": "30",
     "minage": "10",
     "image": "https://cf.geekdo-images.com/qhSNXXPrqHwMjXz5lcoOGA__original/img/IO0AVpQ_iVLQI3bS8NhnKNlEAOM=/0x0/filters:format(jpeg)/pic9517319.jpg",
     "thumbnail": "https://cf.geekdo-images.com/qhSNXXPrqHwMjXz5lcoOGA__small/img/4mGCduepK3DrqJiyOnY1flqX-f4=/fit-in/200x150/filters:strip_icc()/pic9517319.jpg",
+    "description": "Traitors Aboard is a hidden role party game that combines strategy, bluffing, and social interactions.\n\nIn Traitors Aboard, you take on the role of a Pirate who will try to fill the crew&rsquo;s chest or a Mutineer who will do everything to discreetly sabotage the Pirates&rsquo; collection and sow chaos aboard the ship. Throughout the game, make sure to discuss, question, and share information (true or false) with the other players to coordinate your efforts or betray them at the right time... Will you be able to identify the members of your team, be cunning, and use the items aboard the ship strategically to win? Now, the fate of the crew lies in your hands...!",
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Party Game",
+      "Pirates"
+    ],
+    "mechanics": [
+      "Alliances",
+      "Hidden Roles",
+      "Player Elimination",
+      "Role Playing",
+      "Take That",
+      "Team-Based Game",
+      "Traitor Game"
+    ],
+    "expansions_bgg": [],
+    "best_players": "6",
+    "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 6.8,
     "weight": 1.19
   },
@@ -1271,9 +3152,28 @@
     "minplayers": "4",
     "maxplayers": "9",
     "playingtime": "20",
+    "minplaytime": "10",
+    "maxplaytime": "20",
     "minage": "8",
     "image": "https://cf.geekdo-images.com/84maAZCDOCt3XaLa___wWQ__original/img/SQqITmc0IAs2JokxeQYTdmYibL0=/0x0/filters:format(jpeg)/pic6222260.jpg",
     "thumbnail": "https://cf.geekdo-images.com/84maAZCDOCt3XaLa___wWQ__small/img/AfrkCHEfMl9Rzo6hoI-2Ke7tp0Y=/fit-in/200x150/filters:strip_icc()/pic6222260.jpg",
+    "description": "Beccato is a game of glances, telepathy and fleeting gestures. Let your teammate know, through a secret signal, that you are holding a set of three. But be careful: if your opponents catch you, you won't score any points! So don't be a chicken ... Don't get caught!",
+    "categories": [
+      "Bluffing",
+      "Card Game",
+      "Deduction",
+      "Humor",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Betting and Bluffing",
+      "Deduction",
+      "Set Collection",
+      "Team-Based Game"
+    ],
+    "expansions_bgg": [],
+    "best_players": "8",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.4,
     "weight": 1.0
   },
@@ -1287,9 +3187,27 @@
     "minplayers": "2",
     "maxplayers": "8",
     "playingtime": "60",
+    "minplaytime": "20",
+    "maxplaytime": "60",
     "minage": "18",
     "image": "https://cf.geekdo-images.com/-DIfXIDpTWS7m3J9yg87oQ__original/img/q1U4KRwR5wuLY9QGhOhoU_GyMrM=/0x0/filters:format(jpeg)/pic3943080.jpg",
     "thumbnail": "https://cf.geekdo-images.com/-DIfXIDpTWS7m3J9yg87oQ__small/img/SB8g7W1Zh3o4V9M1o1s4xMpGgTU=/fit-in/200x150/filters:strip_icc()/pic3943080.jpg",
+    "description": "Shit Happens is as funny and surprising and crazy as REAL LIFE.&nbsp;Each card depicts a horrible event that has happened- or COULD happen- to you.&nbsp;Like: BEING ATTACKED BY A SWARM OF BEES or SEEING YOUR FATHER NAKED.&nbsp;A panel of mental health experts has rated them all, from 1 to 100.&nbsp;Players have to put ten cards in their correct order.&nbsp;",
+    "categories": [
+      "Card Game",
+      "Mature / Adult",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Memory",
+      "Pattern Building",
+      "Set Collection"
+    ],
+    "expansions_bgg": [
+      "Shit Happens: Little Shits"
+    ],
+    "best_players": "4",
+    "language_dependence": "Unplayable in another language",
     "rating": 5.3,
     "weight": 1.05
   },
@@ -1303,9 +3221,23 @@
     "minplayers": "1",
     "maxplayers": "4",
     "playingtime": "20",
+    "minplaytime": "10",
+    "maxplaytime": "20",
     "minage": "14",
     "image": "https://cf.geekdo-images.com/emWxjnD9LSb6NSkX2h2p0w__original/img/ZBvmBJnIRLjFdLtmcga0nHnA_dg=/0x0/filters:format(jpeg)/pic9151948.jpg",
     "thumbnail": "https://cf.geekdo-images.com/emWxjnD9LSb6NSkX2h2p0w__small/img/xiyD7bFM4vDD4yynKyZlW0lnEhc=/fit-in/200x150/filters:strip_icc()/pic9151948.jpg",
+    "description": "Kluster is a dexterity game for 1 to 4 players, very short, easy to transport, incredibly fun, really simple, accessible to everyone and still full of strategy!\n\nKluster&rsquo;s rules can be explain in no time: Magnetic stones are equally shared between players, who must, in turn, place one stone inside the area delimited by the cord. The first player to get rid of his or her magnets wins. But beware, when stones kluster together during one player&rsquo;s turn, he or she collects them!\n\nThat&rsquo;s all you need to know to play Kluster!\n\n&mdash;description from the publisher\n\n________________________________\nVERSION FOR 1-8 PLAYERS, LOOK HERE : Kluster XL",
+    "categories": [
+      "Abstract Strategy",
+      "Action / Dexterity",
+      "Party Game"
+    ],
+    "mechanics": [
+      "Area Majority / Influence"
+    ],
+    "expansions_bgg": [],
+    "best_players": "3",
+    "language_dependence": "No necessary in-game text",
     "rating": 6.5,
     "weight": 1.04
   }

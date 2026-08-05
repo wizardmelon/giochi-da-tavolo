@@ -4,32 +4,37 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>I Miei Giochi da Tavolo</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=2">
 </head>
 <body>
   <header>
-    <h1>🎲 I Miei Giochi da Tavolo</h1>
-    <p class="subtitle">Collezione personale — <span id="game-count"></span> giochi</p>
+    <h1>🎲 Collezione Giochi</h1>
+    <p class="subtitle">Trova il gioco perfetto per la tua serata</p>
   </header>
 
   <div class="controls">
     <input type="text" id="search" placeholder="Cerca un gioco...">
-    <select id="sort">
-      <option value="name">Ordina per nome</option>
-      <option value="rating">Ordina per rating BGG</option>
-      <option value="year">Ordina per anno</option>
-      <option value="players">Ordina per numero giocatori</option>
+    <input type="number" id="player-filter" placeholder="Giocatori" min="1">
+    <select id="duration-filter">
+      <option value="">Durata (Tutte)</option>
+      <option value="0-30">Fino a 30'</option>
+      <option value="30-60">30' - 60'</option>
+      <option value="60-90">60' - 90'</option>
+      <option value="90-120">90' - 120'</option>
+      <option value="120-9999">Oltre 120'</option>
     </select>
   </div>
+
+  <p class="result-count"><span id="game-count"></span> giochi trovati</p>
 
   <main id="grid" class="grid"></main>
 
   <p id="empty-state" class="empty-state" hidden>Nessun gioco trovato.</p>
 
   <footer>
-    <p>Generato con dati da <a href="https://boardgamegeek.com" target="_blank" rel="noopener">BoardGameGeek</a> — ispirato a <a href="https://paolofantozzi.github.io/menu_giochi/" target="_blank" rel="noopener">Paolo Fantozzi</a></p>
+    <p>Dati da <a href="https://boardgamegeek.com" target="_blank" rel="noopener">BoardGameGeek</a> — ispirato a <a href="https://paolofantozzi.github.io/menu_giochi/" target="_blank" rel="noopener">Paolo Fantozzi</a></p>
   </footer>
 
-<script src="app.js"></script>
+<script src="app.js?v=2"></script>
 </body>
 </html>
