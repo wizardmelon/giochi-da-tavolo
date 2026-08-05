@@ -1,3 +1,4 @@
 fetch.log
 __pycache__/
 .secrets/
+fetch*.log
