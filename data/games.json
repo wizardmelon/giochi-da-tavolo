@@ -323,7 +323,18 @@
   {
     "name": "Michael (Dark Kalamaru)",
     "expansions": [],
-    "matched": false
+    "bgg_id": "289765",
+    "bgg_name": "Michael",
+    "year": "2019",
+    "minplayers": "1",
+    "maxplayers": "4",
+    "playingtime": "90",
+    "minage": "14",
+    "image": "https://cf.geekdo-images.com/3yeiNlbVyZgncmTYVRy5vw__original/img/hvPqBSshgiha-Hmt-fJJR2s89r8=/0x0/filters:format(png)/pic4968290.png",
+    "thumbnail": "https://cf.geekdo-images.com/3yeiNlbVyZgncmTYVRy5vw__small/img/JP9z17MAUw2aiTz8NFIYSDCkPIk=/fit-in/200x150/filters:strip_icc()/pic4968290.png",
+    "rating": 6.5,
+    "weight": 2.4,
+    "matched": true
   },
   {
     "name": "Vudulhu",
@@ -670,7 +681,18 @@
   {
     "name": "Storie Horror: 50 Misteri da Risolvere",
     "expansions": [],
-    "matched": false
+    "bgg_id": "32743",
+    "bgg_name": "Black Stories: Mystery Edition",
+    "year": "2007",
+    "minplayers": "2",
+    "maxplayers": "15",
+    "playingtime": "20",
+    "minage": "12",
+    "image": "https://cf.geekdo-images.com/TTBxU_7nUdebSgxH4TBhzw__original/img/Nw24gFOE3o6kad-gtPd41Ietxeo=/0x0/filters:format(jpeg)/pic304003.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/TTBxU_7nUdebSgxH4TBhzw__small/img/0euQC-8yBJjB1slqqms2sfOzYUA=/fit-in/200x150/filters:strip_icc()/pic304003.jpg",
+    "rating": 5.5,
+    "weight": 1.12,
+    "matched": true
   },
   {
     "name": "Emozionarium",
@@ -981,7 +1003,18 @@
   {
     "name": "Robots (Little Rocket Games)",
     "expansions": [],
-    "matched": false
+    "bgg_id": "312612",
+    "bgg_name": "Robots",
+    "year": "2019",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "playingtime": "30",
+    "minage": "6",
+    "image": "https://cf.geekdo-images.com/SF1CpIxueo7kxtycghJwPA__original/img/kn4bcLX_3HttLRnRLeknn8GXSGc=/0x0/filters:format(jpeg)/pic5497692.jpg",
+    "thumbnail": "https://cf.geekdo-images.com/SF1CpIxueo7kxtycghJwPA__small/img/WuobthCACt1X57RVas4LDECJ5fc=/fit-in/200x150/filters:strip_icc()/pic5497692.jpg",
+    "rating": 6.5,
+    "weight": 0.0,
+    "matched": true
   },
   {
     "name": "Hive",
@@ -1050,7 +1083,18 @@
   {
     "name": "Mini Crimes: Indagini dal Passato",
     "expansions": [],
-    "matched": false
+    "bgg_id": "450980",
+    "bgg_name": "Mini Crimes: Mysteries from the Past – Those Who Trespass",
+    "year": "2025",
+    "minplayers": "1",
+    "maxplayers": "8",
+    "playingtime": "30",
+    "minage": "8",
+    "image": "https://cf.geekdo-images.com/ZxveyZzsTslxuw9E-Vk5ew__original/img/J5zqV8t5MBFcqSY-wXfyBqg2QXI=/0x0/filters:format(png)/pic9023465.png",
+    "thumbnail": "https://cf.geekdo-images.com/ZxveyZzsTslxuw9E-Vk5ew__small/img/rG-bVEBBKLv2Mk38H1PzGPFoEYM=/fit-in/200x150/filters:strip_icc()/pic9023465.png",
+    "rating": 7.6,
+    "weight": 1.0,
+    "matched": true
   },
   {
     "name": "Love Letter",
