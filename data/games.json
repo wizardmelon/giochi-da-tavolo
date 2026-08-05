@@ -59,10 +59,22 @@
   {
     "name": "Cthulhu: Death May Die",
     "expansions": [
-      "Stagione 2",
-      "Paura dell'Ignoto (Stagione 3)",
-      "Stagione 4",
-      "Capro Nero dei Boschi"
+      {
+        "label": "Stagione 2",
+        "bgg": "Cthulhu: Death May Die – Season 2 Expansion"
+      },
+      {
+        "label": "Paura dell'Ignoto (Stagione 3)",
+        "bgg": "Cthulhu: Death May Die – Fear of the Unknown"
+      },
+      {
+        "label": "Stagione 4",
+        "bgg": "Cthulhu: Death May Die – Season 4 Expansion"
+      },
+      {
+        "label": "Capro Nero dei Boschi",
+        "bgg": "Cthulhu: Death May Die – Black Goat of the Woods"
+      }
     ],
     "matched": true,
     "bgg_id": "253344",
@@ -102,6 +114,7 @@
       "Cthulhu: Death May Die – Dark Providence Investigators",
       "Cthulhu: Death May Die – Exclusive Insanities",
       "Cthulhu: Death May Die – Extra Campaigns",
+      "Cthulhu: Death May Die – Fear of the Unknown",
       "Cthulhu: Death May Die – Fear of the Unknown: Animal Allies",
       "Cthulhu: Death May Die – Godzilla Rising",
       "Cthulhu: Death May Die – Godzilla Vs Cthulhu",
@@ -288,9 +301,12 @@
   {
     "name": "Blood Rage",
     "expansions": [
-      "5° Giocatore"
+      {
+        "label": "5° Giocatore",
+        "bgg": "Blood Rage: 5th Player Expansion",
+        "maxplayers_when_owned": 5
+      }
     ],
-    "maxplayers_override": 5,
     "matched": true,
     "bgg_id": "170216",
     "bgg_name": "Blood Rage",
@@ -428,9 +444,11 @@
     "name": "Flamme Rouge",
     "expansions": [
       "Meteo",
-      "Peloton"
+      {
+        "label": "Peloton",
+        "maxplayers_when_owned": 6
+      }
     ],
-    "maxplayers_override": 6,
     "matched": true,
     "bgg_id": "199478",
     "bgg_name": "Flamme Rouge",
@@ -1481,9 +1499,18 @@
   {
     "name": "Unstable Unicorns",
     "expansions": [
-      "Dragons Espansione",
-      "Rainbow Apocalypse Espansione",
-      "Christmas Special Espansione"
+      {
+        "label": "Dragons Espansione",
+        "bgg": "Unstable Unicorns: Dragons Expansion Pack"
+      },
+      {
+        "label": "Rainbow Apocalypse Espansione",
+        "bgg": "Unstable Unicorns: Rainbow Apocalypse Expansion Pack"
+      },
+      {
+        "label": "Christmas Special Espansione",
+        "bgg": "Unstable Unicorns: Christmas Special Expansion Pack"
+      }
     ],
     "matched": true,
     "bgg_id": "234190",

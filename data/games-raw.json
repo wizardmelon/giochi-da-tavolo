@@ -1,12 +1,22 @@
 [
   { "name": "Ankh: Gods of Egypt", "expansions": ["Tomb of Wonders", "Pantheon", "Guardians Set", "Divine Offerings"] },
-  { "name": "Cthulhu: Death May Die", "expansions": ["Stagione 2", "Paura dell'Ignoto (Stagione 3)", "Stagione 4", "Capro Nero dei Boschi"] },
+  { "name": "Cthulhu: Death May Die", "expansions": [
+    { "label": "Stagione 2", "bgg": "Cthulhu: Death May Die – Season 2 Expansion" },
+    { "label": "Paura dell'Ignoto (Stagione 3)", "bgg": "Cthulhu: Death May Die – Fear of the Unknown" },
+    { "label": "Stagione 4", "bgg": "Cthulhu: Death May Die – Season 4 Expansion" },
+    { "label": "Capro Nero dei Boschi", "bgg": "Cthulhu: Death May Die – Black Goat of the Woods" }
+  ] },
   { "name": "Ticket to Ride: Europa", "expansions": [] },
   { "name": "Rising Sun", "expansions": ["Daimyo Box"] },
-  { "name": "Blood Rage", "expansions": ["5° Giocatore"], "maxplayers_override": 5 },
+  { "name": "Blood Rage", "expansions": [
+    { "label": "5° Giocatore", "bgg": "Blood Rage: 5th Player Expansion", "maxplayers_when_owned": 5 }
+  ] },
   { "name": "Room 25 Ultimate", "expansions": [] },
   { "name": "Hues and Cues", "expansions": [] },
-  { "name": "Flamme Rouge", "expansions": ["Meteo", "Peloton"], "maxplayers_override": 6 },
+  { "name": "Flamme Rouge", "expansions": [
+    "Meteo",
+    { "label": "Peloton", "maxplayers_when_owned": 6 }
+  ] },
   { "name": "Dorfromantik: The Board Game", "expansions": [] },
   { "name": "Heat: Pedal to the Metal", "expansions": [] },
   { "name": "Catan", "expansions": [] },
@@ -29,7 +39,11 @@
   { "name": "Isole Abbandonate: Turno di Guardia", "expansions": [] },
   { "name": "Tree Society", "expansions": [] },
   { "name": "Arcs", "expansions": [] },
-  { "name": "Unstable Unicorns", "expansions": ["Dragons Espansione", "Rainbow Apocalypse Espansione", "Christmas Special Espansione"] },
+  { "name": "Unstable Unicorns", "expansions": [
+    { "label": "Dragons Espansione", "bgg": "Unstable Unicorns: Dragons Expansion Pack" },
+    { "label": "Rainbow Apocalypse Espansione", "bgg": "Unstable Unicorns: Rainbow Apocalypse Expansion Pack" },
+    { "label": "Christmas Special Espansione", "bgg": "Unstable Unicorns: Christmas Special Expansion Pack" }
+  ] },
   { "name": "Fallout Shelter: Il Gioco da Tavolo", "expansions": [] },
   { "name": "Let's Summon Demons", "expansions": [] },
   { "name": "Insoliti Sospetti", "expansions": [] },

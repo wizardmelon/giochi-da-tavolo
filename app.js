@@ -1,4 +1,5 @@
 let games = [];
+const openExpansionPanels = new Set();
 
 async function loadGames() {
   const res = await fetch('data/games.json');
@@ -13,12 +14,9 @@ function esc(s) {
   }[c]));
 }
 
-function playersRange(g) {
-  const max = g.maxplayers_override || g.maxplayers;
-  if (!g.minplayers && !max) return null;
-  if (g.minplayers === max || !max) return `${g.minplayers}`;
-  return `${g.minplayers} - ${max}`;
-}
+function expLabel(e) { return typeof e === 'string' ? e : e.label; }
+function expBggName(e) { return typeof e === 'string' ? null : (e.bgg || null); }
+function expPlayerBoost(e) { return typeof e === 'string' ? null : (e.maxplayers_when_owned || null); }
 
 const OWNED_KEY = 'giochi-owned-expansions-v1';
 
@@ -35,10 +33,40 @@ function normName(s) {
   return (s || '').toLowerCase().replace(/[^a-z0-9]/g, '');
 }
 
-function isOwned(gameName, expName, ownedList, overrides) {
-  const key = `${gameName}::${expName}`;
+function isFanOrRegionalExpansion(name) {
+  if (/fan expansion/i.test(name)) return true;
+  if (/[äöüßÄÖÜ]/.test(name)) return true;
+  if (/[Ѐ-ӿ]/.test(name)) return true;
+  if (/[ąćęłńóśźżĄĆĘŁŃÓŚŹŻ]/.test(name)) return true;
+  if (/Die Siedler von Catan|De Kolonisten van Catan|Saggsen-Gadan|Halo wie|scenariusze/i.test(name)) return true;
+  return false;
+}
+
+function isOwned(gameName, bggName, ownedExpansions, overrides) {
+  const key = `${gameName}::${bggName}`;
   if (Object.prototype.hasOwnProperty.call(overrides, key)) return overrides[key];
-  return ownedList.some(o => normName(o) === normName(expName) || normName(expName).includes(normName(o)) || normName(o).includes(normName(expName)));
+  return ownedExpansions.some(o => {
+    const oBgg = expBggName(o);
+    if (oBgg) return normName(oBgg) === normName(bggName);
+    const label = normName(expLabel(o));
+    const target = normName(bggName);
+    return label === target || target.includes(label) || label.includes(target);
+  });
+}
+
+function playersRange(g, ownedExpansions, overrides) {
+  let max = Number(g.maxplayers) || 0;
+  (ownedExpansions || []).forEach(e => {
+    const boost = expPlayerBoost(e);
+    if (!boost) return;
+    const bggName = expBggName(e) || expLabel(e);
+    if (isOwned(g.name, bggName, ownedExpansions, overrides)) {
+      max = Math.max(max, boost);
+    }
+  });
+  if (!g.minplayers && !max) return null;
+  if (Number(g.minplayers) === max || !max) return `${g.minplayers}`;
+  return `${g.minplayers} - ${max}`;
 }
 
 function durationRange(g) {
@@ -65,7 +93,10 @@ function cardHtml(g, idx) {
     ? `<img src="${esc(g.image)}" alt="${esc(g.name)}" loading="lazy">`
     : `<span class="placeholder">🎲</span>`;
 
-  const pl = playersRange(g);
+  const overrides = loadOwnedOverrides();
+  const ownedExpansions = g.expansions || [];
+
+  const pl = playersRange(g, ownedExpansions, overrides);
   const dur = durationRange(g);
 
   const stats = [];
@@ -91,20 +122,22 @@ function cardHtml(g, idx) {
   if (g.pdf_url) links.push(`<a href="${esc(g.pdf_url)}" target="_blank" rel="noopener" class="link-btn link-pdf">📄 Regolamento PDF</a>`);
   const linksHtml = links.length ? `<div class="links">${links.join('')}</div>` : '';
 
-  const allExpNames = (g.expansions_bgg && g.expansions_bgg.length)
+  const allExpNames = ((g.expansions_bgg && g.expansions_bgg.length)
     ? g.expansions_bgg
-    : (g.expansions || []);
+    : ownedExpansions.map(expLabel)
+  ).filter(e => !isFanOrRegionalExpansion(e));
 
   let expansions = '';
+  const gameKey = normName(g.name);
   if (allExpNames.length) {
-    const overrides = loadOwnedOverrides();
-    const ownedCount = allExpNames.filter(e => isOwned(g.name, e, g.expansions || [], overrides)).length;
+    const ownedCount = allExpNames.filter(e => isOwned(g.name, e, ownedExpansions, overrides)).length;
+    const isOpen = openExpansionPanels.has(gameKey);
     expansions = `
-      <button class="expansions-toggle" data-idx="${idx}">Vedi espansioni ${ownedCount}/${allExpNames.length}</button>
-      <div class="expansions-list" id="exp-${idx}" hidden>
+      <button class="expansions-toggle" data-key="${gameKey}">Vedi espansioni ${ownedCount}/${allExpNames.length}</button>
+      <div class="expansions-list" id="exp-${gameKey}" ${isOpen ? '' : 'hidden'}>
         ${allExpNames.map(e => {
-          const owned = isOwned(g.name, e, g.expansions || [], overrides);
-          const checkboxId = `exp-check-${idx}-${normName(e)}`;
+          const owned = isOwned(g.name, e, ownedExpansions, overrides);
+          const checkboxId = `exp-check-${gameKey}-${normName(e)}`;
           return `
             <label class="expansion-item" for="${checkboxId}">
               <input type="checkbox" id="${checkboxId}" data-game="${esc(g.name)}" data-exp="${esc(e)}" ${owned ? 'checked' : ''}>
@@ -179,22 +212,26 @@ function render() {
     grid.innerHTML = filtered.map((g, i) => cardHtml(g, i)).join('');
     grid.querySelectorAll('.expansions-toggle').forEach(btn => {
       btn.addEventListener('click', () => {
-        const list = document.getElementById(`exp-${btn.dataset.idx}`);
+        const key = btn.dataset.key;
+        const list = document.getElementById(`exp-${key}`);
         list.hidden = !list.hidden;
+        if (list.hidden) openExpansionPanels.delete(key);
+        else openExpansionPanels.add(key);
       });
     });
     grid.querySelectorAll('.expansions-list input[type="checkbox"]').forEach(cb => {
-      cb.addEventListener('change', () => {
+      cb.addEventListener('click', (ev) => {
+        ev.preventDefault();
+        const willOwn = !cb.checked;
+        const action = willOwn ? 'aggiungere' : 'rimuovere';
+        const ok = confirm(`Vuoi ${action} "${cb.dataset.exp}" dalle espansioni possedute di ${cb.dataset.game}?`);
+        if (!ok) return;
+
         const overrides = loadOwnedOverrides();
         const key = `${cb.dataset.game}::${cb.dataset.exp}`;
-        overrides[key] = cb.checked;
+        overrides[key] = willOwn;
         saveOwnedOverrides(overrides);
-
-        const list = cb.closest('.expansions-list');
-        const btn = list.previousElementSibling;
-        const total = list.querySelectorAll('input[type="checkbox"]').length;
-        const owned = list.querySelectorAll('input[type="checkbox"]:checked').length;
-        btn.textContent = `Vedi espansioni ${owned}/${total}`;
+        render();
       });
     });
   }
