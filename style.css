@@ -256,6 +256,10 @@ header h1 {
   padding-top: 0.5rem;
 }
 
+.expansions-list[hidden] {
+  display: none;
+}
+
 .expansion-item {
   font-size: 0.85rem;
   color: var(--muted);
