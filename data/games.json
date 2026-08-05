@@ -54,7 +54,9 @@
     "best_players": "2",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.7,
-    "weight": 3.13
+    "weight": 3.13,
+    "pdf_url": "https://www.cmon.com/wp-content/uploads/2023/06/Ankh_Rulebook.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Cthulhu: Death May Die",
@@ -135,7 +137,9 @@
     "best_players": "3",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 8.2,
-    "weight": 2.49
+    "weight": 2.49,
+    "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2022/09/Death_May_Die_Regolamento_ITA.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Ticket to Ride: Europa",
@@ -235,7 +239,9 @@
     "best_players": "4",
     "language_dependence": "No necessary in-game text",
     "rating": 7.5,
-    "weight": 1.91
+    "weight": 1.91,
+    "pdf_url": "https://ncdn0.daysofwonder.com/tickettoride/en/img/t2re15-rules-EN.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Rising Sun",
@@ -296,7 +302,9 @@
     "best_players": "4",
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.8,
-    "weight": 3.3
+    "weight": 3.3,
+    "pdf_url": "https://www.dvgiochi.com/giochi/risingsun/download/rising_sun-regole.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Blood Rage",
@@ -358,7 +366,9 @@
     "best_players": "4",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.9,
-    "weight": 2.88
+    "weight": 2.88,
+    "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2022/09/Regolamento_BloodRage.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Room 25 Ultimate",
@@ -405,7 +415,9 @@
     "best_players": "6",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.3,
-    "weight": 2.14
+    "weight": 2.14,
+    "pdf_url": "https://cdn.1j1ju.com/medias/3a/85/e2-room-25-ultimate-rulebook.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Hues and Cues",
@@ -438,7 +450,9 @@
     "best_players": "6",
     "language_dependence": "No necessary in-game text",
     "rating": 6.4,
-    "weight": 1.06
+    "weight": 1.06,
+    "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2024/04/Hues_and_Cues_ITA.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Flamme Rouge",
@@ -495,7 +509,9 @@
     "best_players": "4",
     "language_dependence": "No necessary in-game text",
     "rating": 7.5,
-    "weight": 1.7
+    "weight": 1.7,
+    "pdf_url": "https://www.playagameedizioni.it/regolamenti/Flamme-Rouge-ITA.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Dorfromantik: The Board Game",
@@ -537,7 +553,9 @@
     "best_players": "2",
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.6,
-    "weight": 1.64
+    "weight": 1.64,
+    "pdf_url": "http://boardgame.bg/dorfromantik%20rules.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Heat: Pedal to the Metal",
@@ -1079,7 +1097,9 @@
     "best_players": "5",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.1,
-    "weight": 2.05
+    "weight": 2.05,
+    "pdf_url": "https://cdn.1j1ju.com/medias/80/f9/4a-citadels-rulebook.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Michael (Dark Kalamaru)",
@@ -1143,7 +1163,9 @@
     "best_players": "5, 6",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.2,
-    "weight": 1.33
+    "weight": 1.33,
+    "pdf_url": "https://www.giochiredglove.it/risorse/regolamenti/regolamento_vudulhu.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Sky Team",
@@ -1194,7 +1216,9 @@
     "best_players": "2",
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 8.1,
-    "weight": 2.04
+    "weight": 2.04,
+    "pdf_url": "https://www.scorpionmasque.com/sites/scorpionmasque.com/files/st_rules01_en_06jun2023.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Wings of War: Dawn of War",
@@ -1238,7 +1262,9 @@
     "best_players": "4",
     "language_dependence": "No necessary in-game text",
     "rating": 6.9,
-    "weight": 1.96
+    "weight": 1.96,
+    "pdf_url": "https://images-cdn.fantasyflightgames.com/ffg_content/wings-of-war/media/dw-rulebook-en-web.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Ideale",
@@ -1271,7 +1297,9 @@
     "best_players": "4, 5, 6",
     "language_dependence": null,
     "rating": 6.6,
-    "weight": 2.0
+    "weight": 2.0,
+    "pdf_url": "https://www.msedizioni.it/wp-content/uploads/2019/10/MSEDIZIONI-IDEALE_REGOLAMENTO.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Sì, Oscuro Signore!",
@@ -1377,7 +1405,9 @@
     "best_players": "2",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 7.7,
-    "weight": 2.22
+    "weight": 2.22,
+    "pdf_url": "https://www.the-forge.it/wp-content/uploads/2024/02/ForestShuffle_ITA.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Fall",
@@ -1447,7 +1477,9 @@
     "best_players": "1",
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 7.9,
-    "weight": 2.75
+    "weight": 2.75,
+    "pdf_url": "https://gamers-hq.de/media/pdf/b2/c2/58/SAW3_Rulebook.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Tree Society",
@@ -1479,7 +1511,9 @@
     "best_players": "2, 3",
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 6.5,
-    "weight": 2.08
+    "weight": 2.08,
+    "pdf_url": "https://boardgamegeek.com/filepage/287574/tree-society-rulebook-english",
+    "pdf_lang": "en"
   },
   {
     "name": "Arcs",
@@ -1526,7 +1560,9 @@
     "best_players": "3",
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 8.0,
-    "weight": 3.44
+    "weight": 3.44,
+    "pdf_url": "https://gusandco.net/wp-content/uploads/2024/09/Arcs_Base_Rulebook.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Unstable Unicorns",
@@ -1602,7 +1638,9 @@
     "best_players": "4",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.2,
-    "weight": 1.47
+    "weight": 1.47,
+    "pdf_url": "https://cdn.1j1ju.com/medias/e1/26/55-unstable-unicorns-rulebook.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Fallout Shelter: Il Gioco da Tavolo",
@@ -1670,7 +1708,9 @@
     "best_players": "4",
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 6.9,
-    "weight": 1.44
+    "weight": 1.44,
+    "pdf_url": "https://cdn.1j1ju.com/medias/8b/a0/d8-lets-summon-demons-rulebook.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Insoliti Sospetti",
@@ -1707,7 +1747,9 @@
     "best_players": "4",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.4,
-    "weight": 1.1
+    "weight": 1.1,
+    "pdf_url": "https://www.goblins.net/download/insoliti-sospetti-regolamento-italiano",
+    "pdf_lang": "it"
   },
   {
     "name": "Without Fail",
@@ -1733,7 +1775,9 @@
     "best_players": "4, 5, 6",
     "language_dependence": null,
     "rating": 6.3,
-    "weight": 1.0
+    "weight": 1.0,
+    "pdf_url": "https://cdn.shopify.com/s/files/1/0345/9180/1483/files/WIFA-CORE_Instructions_2023.pdf?v=1686001633",
+    "pdf_lang": "en"
   },
   {
     "name": "Imagine",
@@ -1765,7 +1809,9 @@
     "best_players": "4",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.8,
-    "weight": 1.06
+    "weight": 1.06,
+    "pdf_url": "https://www.ultraboardgames.com/imagine/game-rules.php",
+    "pdf_lang": "en"
   },
   {
     "name": "Kingdomino",
@@ -2453,7 +2499,9 @@
     "best_players": "3, 4, 5, 6",
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 4.9,
-    "weight": 1.0
+    "weight": 1.0,
+    "pdf_url": "https://yasgames.it/wp-content/uploads/2021/07/Istruzioni.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Holy Sheep",
@@ -2516,7 +2564,9 @@
     "best_players": "4",
     "language_dependence": "Unplayable in another language",
     "rating": 6.4,
-    "weight": 1.0
+    "weight": 1.0,
+    "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2024/04/Rules-Quickstop.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Perudo",
@@ -2552,7 +2602,9 @@
     "best_players": "6",
     "language_dependence": "No necessary in-game text",
     "rating": 6.9,
-    "weight": 1.25
+    "weight": 1.25,
+    "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2022/09/Regolamento-Perudo.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Taco Gatto Capra Cacio Pizza",
@@ -2603,7 +2655,9 @@
     "best_players": "4",
     "language_dependence": "No necessary in-game text",
     "rating": 6.5,
-    "weight": 1.03
+    "weight": 1.03,
+    "pdf_url": "https://blueorangegames.eu/wp-content/uploads/2023/05/TacoCat-Rules-IT.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Dream",
@@ -2632,7 +2686,9 @@
     "best_players": "2",
     "language_dependence": null,
     "rating": 6.5,
-    "weight": 1.0
+    "weight": 1.0,
+    "pdf_url": "https://www.littlerocketgames.com/product/dream-2/",
+    "pdf_lang": "it"
   },
   {
     "name": "Robots (Little Rocket Games)",
@@ -2662,7 +2718,9 @@
     "language_dependence": null,
     "rating": 6.5,
     "weight": 0.0,
-    "matched": true
+    "matched": true,
+    "pdf_url": "https://www.littlerocketgames.com/wp-content/uploads/2019/02/REGOLAMENTO_ROBOTS.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Hive",
@@ -2724,7 +2782,9 @@
     "best_players": "2",
     "language_dependence": "No necessary in-game text",
     "rating": 7.3,
-    "weight": 2.31
+    "weight": 2.31,
+    "pdf_url": "https://hivegame.com/download/rules.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Jenga Classic",
