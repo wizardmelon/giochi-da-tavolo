@@ -753,7 +753,9 @@
     "rating": 7.1,
     "weight": 2.28,
     "pdf_url": "https://www.brickone.it/wp-content/uploads/2018/07/Istruzioni-di-gioco-CATAN.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=RyxlNz5St-c",
+    "video_source": "Giocare in Scatola"
   },
   {
     "name": "Wingspan",
@@ -805,7 +807,9 @@
     "best_players": "3",
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 8.0,
-    "weight": 2.48
+    "weight": 2.48,
+    "video_url": "https://www.youtube.com/watch?v=KWNycazMBms",
+    "video_source": "Giocare in Scatola"
   },
   {
     "name": "Primo Contatto",
@@ -881,7 +885,9 @@
     "rating": 6.2,
     "weight": 1.09,
     "pdf_url": "https://desktopgames.com.ua/games/390/zombie_dice_rules_en.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=ynHd0Rt1Rgk",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Sherlock Holmes Consulente Investigativo: I Delitti del Tamigi e Altri Casi",
@@ -932,7 +938,9 @@
     "rating": 7.6,
     "weight": 2.66,
     "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2018/03/Sherlock-Holmes-Consulente-Investigativo-regole.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=NlDLq3RG-Gw",
+    "video_source": "Giocare in Scatola"
   },
   {
     "name": "Sherlock Holmes Consulente Investigativo: Jack lo Squartatore e Avventure nel West End",
@@ -969,7 +977,9 @@
     "rating": 7.5,
     "weight": 2.21,
     "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2018/03/Sherlock-Holmes-Consulente-Investigativo-regole.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=NlDLq3RG-Gw",
+    "video_source": "Giocare in Scatola"
   },
   {
     "name": "Sherlock Holmes Consulente Investigativo: Carlton House e Queen's Park",
@@ -1006,7 +1016,9 @@
     "rating": 7.7,
     "weight": 2.24,
     "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2018/03/Sherlock-Holmes-Consulente-Investigativo-regole.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=NlDLq3RG-Gw",
+    "video_source": "Giocare in Scatola"
   },
   {
     "name": "Sherlock Holmes Consulente Investigativo: Gli Irregolari di Baker Street",
@@ -1041,7 +1053,9 @@
     "rating": 8.2,
     "weight": 2.27,
     "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2018/03/Sherlock-Holmes-Consulente-Investigativo-regole.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=NlDLq3RG-Gw",
+    "video_source": "Giocare in Scatola"
   },
   {
     "name": "Sherlock Holmes Consulente Investigativo: Bureau of Investigation - Indagini ad Arkham e Altrove",
@@ -2723,7 +2737,9 @@
     "rating": 6.5,
     "weight": 1.03,
     "pdf_url": "https://blueorangegames.eu/wp-content/uploads/2023/05/TacoCat-Rules-IT.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=Vut4ji-Cvvo",
+    "video_source": "probabile Miss Meeple (non verificato)"
   },
   {
     "name": "Dream",
@@ -2850,7 +2866,9 @@
     "rating": 7.3,
     "weight": 2.31,
     "pdf_url": "https://hivegame.com/download/rules.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=4gQzoAVm4gg",
+    "video_source": "probabile Miss Meeple (non verificato)"
   },
   {
     "name": "Jenga Classic",
