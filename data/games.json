@@ -2045,7 +2045,9 @@
     "rating": 6.6,
     "weight": 1.25,
     "video_url": "https://www.youtube.com/watch?v=Y_2UGWQy190",
-    "video_source": "Tutorial & Recensione"
+    "video_source": "Tutorial & Recensione",
+    "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2022/09/Hint_ITA.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Storie Horror: 50 Misteri da Risolvere",
@@ -2393,7 +2395,9 @@
     "best_players": "4, 5, 6",
     "language_dependence": null,
     "rating": 6.3,
-    "weight": 1.0
+    "weight": 1.0,
+    "pdf_url": "https://cdn.shopify.com/s/files/1/0631/8964/7601/files/TSG_-_Rules_of_gameplay.pdf?v=1669169311",
+    "pdf_lang": "en"
   },
   {
     "name": "Skull",
@@ -2457,7 +2461,9 @@
     "best_players": null,
     "language_dependence": "No necessary in-game text",
     "rating": 6.3,
-    "weight": 1.25
+    "weight": 1.25,
+    "pdf_url": "https://cdn.1j1ju.com/medias/4d/c0/b1-cortex-challenge-regle.pdf",
+    "pdf_lang": "fr"
   },
   {
     "name": "Cortex Challenge+",
