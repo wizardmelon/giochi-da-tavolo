@@ -827,7 +827,9 @@
     "rating": 8.0,
     "weight": 2.48,
     "video_url": "https://www.youtube.com/watch?v=KWNycazMBms",
-    "video_source": "Giocare in Scatola"
+    "video_source": "Giocare in Scatola",
+    "pdf_url": "https://www.brickone.it/wp-content/uploads/2019/05/Istruzioni_di_gioco_WINGSPAN_ITA.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Primo Contatto",
@@ -1105,7 +1107,9 @@
     "language_dependence": "Unplayable in another language",
     "rating": 7.2,
     "weight": 2.57,
-    "matched": true
+    "matched": true,
+    "pdf_url": "https://cdn.1j1ju.com/medias/63/43/f8-sherlock-holmes-detective-conseil-bureau-of-investigation-regle.pdf",
+    "pdf_lang": "fr"
   },
   {
     "name": "Citadels",
@@ -1391,7 +1395,9 @@
     "rating": 5.8,
     "weight": 1.28,
     "video_url": "https://www.youtube.com/watch?v=q4zL-Oy9F2w",
-    "video_source": "canale non confermato"
+    "video_source": "canale non confermato",
+    "pdf_url": "https://laruzzoteca.it/contents/parts/upload/istruzioni/152.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Forest Shuffle",
@@ -1740,7 +1746,9 @@
     "rating": 7.2,
     "weight": 2.03,
     "video_url": "https://www.youtube.com/watch?v=u_60_ws_aOY",
-    "video_source": "canale non confermato"
+    "video_source": "canale non confermato",
+    "pdf_url": "https://board-game-rules.com/wp-content/uploads/2025/01/fallout-shelter-the-board-game_Official-Rules.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Let's Summon Demons",
@@ -1959,7 +1967,9 @@
     "rating": 7.0,
     "weight": 1.04,
     "video_url": "https://www.youtube.com/watch?v=tQwo3TJ5N2g",
-    "video_source": "Tutorial & Recensione"
+    "video_source": "Tutorial & Recensione",
+    "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2022/09/Stay_Cool.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Tilt",
@@ -2030,7 +2040,9 @@
     "rating": 6.7,
     "weight": 1.21,
     "video_url": "https://www.youtube.com/watch?v=lsTD_c1QyDM",
-    "video_source": "Dal Tenda"
+    "video_source": "Dal Tenda",
+    "pdf_url": "https://cdn.1j1ju.com/medias/bc/6d/f8-dany-rulebook.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Hint",
