@@ -2259,7 +2259,9 @@
     "best_players": null,
     "language_dependence": null,
     "rating": 5.4,
-    "weight": 1.0
+    "weight": 1.0,
+    "pdf_url": "https://www.craniocreations.it/storage/media/product_downloads/95/1319/PartyLines_ITA_Rules_compressed.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Just One",
@@ -2874,7 +2876,9 @@
     "best_players": "6",
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 6.6,
-    "weight": 1.06
+    "weight": 1.06,
+    "pdf_url": "https://www.dvgiochi.com/giochi/Happy-Salmon/download/HappySalmon_Rules.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Camelio",
