@@ -2225,7 +2225,9 @@
     "best_players": "6",
     "language_dependence": "Unplayable in another language",
     "rating": 7.5,
-    "weight": 1.25
+    "weight": 1.25,
+    "pdf_url": "https://filemanager.czechgames.com/storage/files/codenames/rules/cn-rulebook-it-03.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Party Lines",
@@ -2934,7 +2936,9 @@
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 7.6,
     "weight": 1.0,
-    "matched": true
+    "matched": true,
+    "pdf_url": "https://www.gateongames.com/wp-content/uploads/2022/10/mini-crimes-rulebook-v1.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Love Letter",
