@@ -1149,7 +1149,9 @@
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 6.5,
     "weight": 2.4,
-    "matched": true
+    "matched": true,
+    "video_url": "https://www.youtube.com/watch?v=zuNbY2ibkoM",
+    "video_source": "Tutorial ITA HD"
   },
   {
     "name": "Vudulhu",
@@ -1236,7 +1238,9 @@
     "rating": 8.1,
     "weight": 2.04,
     "pdf_url": "https://www.scorpionmasque.com/sites/scorpionmasque.com/files/st_rules01_en_06jun2023.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=zVv17olLoqk",
+    "video_source": "Miss Meeple"
   },
   {
     "name": "Wings of War: Dawn of War",
@@ -1353,7 +1357,9 @@
     "best_players": "5",
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 5.8,
-    "weight": 1.28
+    "weight": 1.28,
+    "video_url": "https://www.youtube.com/watch?v=q4zL-Oy9F2w",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Forest Shuffle",
@@ -1497,7 +1503,9 @@
     "rating": 7.9,
     "weight": 2.75,
     "pdf_url": "https://gamers-hq.de/media/pdf/b2/c2/58/SAW3_Rulebook.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=mKgdBWvx6Ew",
+    "video_source": "Tutorial-Gioco-ITA"
   },
   {
     "name": "Tree Society",
@@ -1531,7 +1539,9 @@
     "rating": 6.5,
     "weight": 2.08,
     "pdf_url": "https://boardgamegeek.com/filepage/287574/tree-society-rulebook-english",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=hVcBi6D78Xc",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Arcs",
@@ -1580,7 +1590,9 @@
     "rating": 8.0,
     "weight": 3.44,
     "pdf_url": "https://gusandco.net/wp-content/uploads/2024/09/Arcs_Base_Rulebook.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=z-SmRUnQdwc",
+    "video_source": "Il Puzzillo del Sud"
   },
   {
     "name": "Unstable Unicorns",
@@ -1658,7 +1670,9 @@
     "rating": 6.2,
     "weight": 1.47,
     "pdf_url": "https://cdn.1j1ju.com/medias/e1/26/55-unstable-unicorns-rulebook.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=Pme6WFOzJX0",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Fallout Shelter: Il Gioco da Tavolo",
@@ -1692,7 +1706,9 @@
     "best_players": "3",
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.2,
-    "weight": 2.03
+    "weight": 2.03,
+    "video_url": "https://www.youtube.com/watch?v=u_60_ws_aOY",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Let's Summon Demons",
@@ -1728,7 +1744,9 @@
     "rating": 6.9,
     "weight": 1.44,
     "pdf_url": "https://cdn.1j1ju.com/medias/8b/a0/d8-lets-summon-demons-rulebook.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=OTf9MJU-EPw",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Insoliti Sospetti",
@@ -1767,7 +1785,9 @@
     "rating": 6.4,
     "weight": 1.1,
     "pdf_url": "https://www.goblins.net/download/insoliti-sospetti-regolamento-italiano",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=40Z_b08xhp4",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Without Fail",
@@ -2245,7 +2265,9 @@
     "rating": 7.5,
     "weight": 1.25,
     "pdf_url": "https://filemanager.czechgames.com/storage/files/codenames/rules/cn-rulebook-it-03.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=0hS0653xJu0",
+    "video_source": "Miss Meeple (probabile)"
   },
   {
     "name": "Party Lines",
@@ -2894,7 +2916,9 @@
     "rating": 6.6,
     "weight": 1.06,
     "pdf_url": "https://www.dvgiochi.com/giochi/Happy-Salmon/download/HappySalmon_Rules.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=BKkiTmZxmIk",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Camelio",
@@ -3035,7 +3059,9 @@
     "best_players": "2",
     "language_dependence": "No necessary in-game text",
     "rating": 6.9,
-    "weight": 1.36
+    "weight": 1.36,
+    "video_url": "https://www.youtube.com/watch?v=oefAMZe0KFg",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Yes But No",
@@ -3067,7 +3093,9 @@
     "best_players": null,
     "language_dependence": null,
     "rating": 6.7,
-    "weight": 0.0
+    "weight": 0.0,
+    "video_url": "https://www.youtube.com/watch?v=mmJcgxUIJ8w",
+    "video_source": "canale non confermato"
   },
   {
     "name": "Indomimando",
@@ -3102,7 +3130,9 @@
     "rating": 5.9,
     "weight": 1.18,
     "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2018/04/indomimando-regolamento.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=_hbgz8l25gE",
+    "video_source": "Board Games Francesco"
   },
   {
     "name": "Con Me Nella Tomba",
