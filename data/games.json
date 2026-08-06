@@ -3329,7 +3329,9 @@
     "best_players": "4",
     "language_dependence": "No necessary in-game text",
     "rating": 6.8,
-    "weight": 1.86
+    "weight": 1.86,
+    "pdf_url": "https://www.littlerocketgames.com/wp-content/uploads/2022/01/Hens_rules_v2_ITA.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Traditori a Bordo",
@@ -3466,6 +3468,8 @@
     "best_players": "3",
     "language_dependence": "No necessary in-game text",
     "rating": 6.5,
-    "weight": 1.04
+    "weight": 1.04,
+    "pdf_url": "https://marvellous.games/rules-pdfs/kluster-rules.pdf",
+    "pdf_lang": "en"
   }
 ]
