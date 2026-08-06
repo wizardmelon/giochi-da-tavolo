@@ -141,7 +141,9 @@
     "rating": 8.2,
     "weight": 2.49,
     "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2022/09/Death_May_Die_Regolamento_ITA.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=yc-mz52PHIQ",
+    "video_source": "Il Puzzillo del Sud"
   },
   {
     "name": "Ticket to Ride: Europa",
@@ -243,7 +245,9 @@
     "rating": 7.5,
     "weight": 1.91,
     "pdf_url": "https://ncdn0.daysofwonder.com/tickettoride/en/img/t2re15-rules-EN.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=KY87_17T06U",
+    "video_source": "Miss Meeple"
   },
   {
     "name": "Rising Sun",
@@ -306,7 +310,9 @@
     "rating": 7.8,
     "weight": 3.3,
     "pdf_url": "https://www.dvgiochi.com/giochi/risingsun/download/rising_sun-regole.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=lFtEj1xHSMk",
+    "video_source": "Roll For Crit"
   },
   {
     "name": "Blood Rage",
@@ -370,7 +376,9 @@
     "rating": 7.9,
     "weight": 2.88,
     "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2022/09/Regolamento_BloodRage.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=93PTBk2VeIg",
+    "video_source": "alkyla (Tocca a te)"
   },
   {
     "name": "Room 25 Ultimate",
@@ -419,7 +427,9 @@
     "rating": 7.3,
     "weight": 2.14,
     "pdf_url": "https://cdn.1j1ju.com/medias/3a/85/e2-room-25-ultimate-rulebook.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=ZonAoKdAA9E",
+    "video_source": "Al4oPiù"
   },
   {
     "name": "Hues and Cues",
@@ -454,7 +464,9 @@
     "rating": 6.4,
     "weight": 1.06,
     "pdf_url": "https://cdn.svc.asmodee.net/production-asmodeeit/uploads/2024/04/Hues_and_Cues_ITA.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=__nEurrJp_4",
+    "video_source": "Boardgaimz"
   },
   {
     "name": "Flamme Rouge",
@@ -513,7 +525,9 @@
     "rating": 7.5,
     "weight": 1.7,
     "pdf_url": "https://www.playagameedizioni.it/regolamenti/Flamme-Rouge-ITA.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=VmOoyahhnfY",
+    "video_source": "Recensioni Minute"
   },
   {
     "name": "Dorfromantik: The Board Game",
@@ -557,7 +571,9 @@
     "rating": 7.6,
     "weight": 1.64,
     "pdf_url": "http://boardgame.bg/dorfromantik%20rules.pdf",
-    "pdf_lang": "en"
+    "pdf_lang": "en",
+    "video_url": "https://www.youtube.com/watch?v=RapWtVyR3sA",
+    "video_source": "Miss Meeple"
   },
   {
     "name": "Heat: Pedal to the Metal",
@@ -603,7 +619,9 @@
     "rating": 8.0,
     "weight": 2.2,
     "pdf_url": "https://www.bigcream.it/upload/riviste/articolo/file_28062.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=cy6yRDQtaaA",
+    "video_source": "Miss Meeple"
   },
   {
     "name": "Catan",
