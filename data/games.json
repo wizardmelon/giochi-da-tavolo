@@ -1872,7 +1872,9 @@
     "rating": 7.3,
     "weight": 1.24,
     "pdf_url": "https://blueorangegames.eu/wp-content/uploads/2017/04/KINGDOMINO_rules_ML.pdf?x75567",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=o6KCJq09Gec",
+    "video_source": "Tutorial 56 Come si gioca"
   },
   {
     "name": "Stay Cool",
@@ -1903,7 +1905,9 @@
     "best_players": "4",
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 7.0,
-    "weight": 1.04
+    "weight": 1.04,
+    "video_url": "https://www.youtube.com/watch?v=tQwo3TJ5N2g",
+    "video_source": "Tutorial & Recensione"
   },
   {
     "name": "Tilt",
@@ -1937,7 +1941,9 @@
     "rating": 6.0,
     "weight": 1.2,
     "pdf_url": "https://www.dvgiochi.com/giochi/tilt/download/Tilt-ITA-Rulebook-web.pdf",
-    "pdf_lang": "it"
+    "pdf_lang": "it",
+    "video_url": "https://www.youtube.com/watch?v=p4T88oOB934",
+    "video_source": "Come si gioca a TILT - TUTORIAL"
   },
   {
     "name": "Dany",
@@ -1970,7 +1976,9 @@
     "best_players": "6, 7",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.7,
-    "weight": 1.21
+    "weight": 1.21,
+    "video_url": "https://www.youtube.com/watch?v=lsTD_c1QyDM",
+    "video_source": "Dal Tenda"
   },
   {
     "name": "Hint",
@@ -2001,7 +2009,9 @@
     "best_players": "6",
     "language_dependence": "Extensive use of text - massive conversion needed to be playable",
     "rating": 6.6,
-    "weight": 1.25
+    "weight": 1.25,
+    "video_url": "https://www.youtube.com/watch?v=Y_2UGWQy190",
+    "video_source": "Tutorial & Recensione"
   },
   {
     "name": "Storie Horror: 50 Misteri da Risolvere",
@@ -2034,7 +2044,9 @@
     "language_dependence": "Unplayable in another language",
     "rating": 5.5,
     "weight": 1.12,
-    "matched": true
+    "matched": true,
+    "video_url": "https://www.youtube.com/watch?v=KaqVGLJ28QE",
+    "video_source": "Dr. Cthulhu"
   },
   {
     "name": "Emozionarium",
