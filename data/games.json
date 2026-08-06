@@ -1868,7 +1868,9 @@
     "best_players": "2",
     "language_dependence": "No necessary in-game text",
     "rating": 7.3,
-    "weight": 1.24
+    "weight": 1.24,
+    "pdf_url": "https://blueorangegames.eu/wp-content/uploads/2017/04/KINGDOMINO_rules_ML.pdf?x75567",
+    "pdf_lang": "it"
   },
   {
     "name": "Stay Cool",
@@ -2296,7 +2298,9 @@
     "best_players": "6",
     "language_dependence": "Unplayable in another language",
     "rating": 7.6,
-    "weight": 1.03
+    "weight": 1.03,
+    "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2019/12/Just-One-regole.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "That Sound Game",
@@ -2361,7 +2365,9 @@
     "best_players": null,
     "language_dependence": null,
     "rating": 4.9,
-    "weight": 0.0
+    "weight": 0.0,
+    "pdf_url": "https://www.dottedgames.com/wp-content/uploads/IT-Monkey-Palace-Skull-Rules.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Cortex Challenge",
@@ -2965,7 +2971,9 @@
     "best_players": "4",
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.2,
-    "weight": 1.18
+    "weight": 1.18,
+    "pdf_url": "https://www.brickone.it/wp-content/uploads/2022/08/Istruzioni-di-gioco-Love_Letter_ITA.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Tranquility",
@@ -3126,7 +3134,9 @@
     "best_players": null,
     "language_dependence": "No necessary in-game text",
     "rating": 5.8,
-    "weight": 1.33
+    "weight": 1.33,
+    "pdf_url": "https://tesera.ru/images/items/2044514/MAS_Rules_EN.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Domino",
