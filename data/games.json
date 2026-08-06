@@ -2901,7 +2901,9 @@
     "best_players": "4",
     "language_dependence": "No necessary in-game text",
     "rating": 5.7,
-    "weight": 1.1
+    "weight": 1.1,
+    "pdf_url": "https://instructions.hasbro.com/api/download/53557_en-us_JENGA-Game.pdf",
+    "pdf_lang": "en"
   },
   {
     "name": "Happy Salmon",
@@ -3079,7 +3081,9 @@
     "rating": 6.9,
     "weight": 1.36,
     "video_url": "https://www.youtube.com/watch?v=oefAMZe0KFg",
-    "video_source": "canale non confermato"
+    "video_source": "canale non confermato",
+    "pdf_url": "https://website.cdn77.luckyduckgames.com/downloads/August2024/d4e4f20a1fa3776f1b151ad781c843b4.pdf",
+    "pdf_lang": "fr"
   },
   {
     "name": "Yes But No",
