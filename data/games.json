@@ -599,7 +599,9 @@
     "best_players": "6",
     "language_dependence": "No necessary in-game text",
     "rating": 8.0,
-    "weight": 2.2
+    "weight": 2.2,
+    "pdf_url": "https://www.bigcream.it/upload/riviste/articolo/file_28062.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Catan",
@@ -747,7 +749,9 @@
     "best_players": "4",
     "language_dependence": "Some necessary text - easily memorized or small crib sheet",
     "rating": 7.1,
-    "weight": 2.28
+    "weight": 2.28,
+    "pdf_url": "https://www.brickone.it/wp-content/uploads/2018/07/Istruzioni-di-gioco-CATAN.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Wingspan",
@@ -833,7 +837,9 @@
     "best_players": "6",
     "language_dependence": "Moderate in-game text - needs crib sheet or paste ups",
     "rating": 6.9,
-    "weight": 1.98
+    "weight": 1.98,
+    "pdf_url": "https://www.msedizioni.it/wp-content/uploads/2019/10/MSEDIZIONI-PRIMO-CONTATTO_REGOLAMENTO.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Zombie Dice",
@@ -920,7 +926,9 @@
     "best_players": "2",
     "language_dependence": "Unplayable in another language",
     "rating": 7.6,
-    "weight": 2.66
+    "weight": 2.66,
+    "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2018/03/Sherlock-Holmes-Consulente-Investigativo-regole.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Sherlock Holmes Consulente Investigativo: Jack lo Squartatore e Avventure nel West End",
@@ -955,7 +963,9 @@
     "best_players": "2",
     "language_dependence": "Unplayable in another language",
     "rating": 7.5,
-    "weight": 2.21
+    "weight": 2.21,
+    "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2018/03/Sherlock-Holmes-Consulente-Investigativo-regole.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Sherlock Holmes Consulente Investigativo: Carlton House e Queen's Park",
@@ -990,7 +1000,9 @@
     "best_players": "2",
     "language_dependence": "Unplayable in another language",
     "rating": 7.7,
-    "weight": 2.24
+    "weight": 2.24,
+    "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2018/03/Sherlock-Holmes-Consulente-Investigativo-regole.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Sherlock Holmes Consulente Investigativo: Gli Irregolari di Baker Street",
@@ -1023,7 +1035,9 @@
     "best_players": "2",
     "language_dependence": "Unplayable in another language",
     "rating": 8.2,
-    "weight": 2.27
+    "weight": 2.27,
+    "pdf_url": "https://www.migliorigiochi.eu/wp-content/uploads/2018/03/Sherlock-Holmes-Consulente-Investigativo-regole.pdf",
+    "pdf_lang": "it"
   },
   {
     "name": "Sherlock Holmes Consulente Investigativo: Bureau of Investigation - Indagini ad Arkham e Altrove",
